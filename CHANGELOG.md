@@ -5,6 +5,12 @@ Il formato segue [Keep a Changelog](https://keepachangelog.com/it/1.0.0/) e il
 progetto adotta il [Semantic Versioning](https://semver.org/lang/it/)
 (MAJOR.MINOR.PATCH).
 
+## [1.4.1]
+### Modificato
+- Il titolo dell'item RSS ora corrisponde al titolo reale della pagina
+  linkata (`og:title`, poi tag `<title>` come ripiego), invece di essere
+  ricostruito dal testo della pagina.
+
 ## [1.4.0]
 ### Aggiunto
 - Versioning del progetto: costante `__version__` in `scraper.py`, flag

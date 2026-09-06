@@ -29,7 +29,7 @@ from xml.sax.saxutils import escape
 import requests
 from bs4 import BeautifulSoup
 
-__version__ = "1.4.0"  # segue Semantic Versioning: MAJOR.MINOR.PATCH — vedi CHANGELOG.md
+__version__ = "1.4.1"  # segue Semantic Versioning: MAJOR.MINOR.PATCH — vedi CHANGELOG.md
 
 BASE_URL = "https://www.pretemp.it"
 ARCHIVE_URL = BASE_URL + "/archivio/{year}"
@@ -141,9 +141,21 @@ def parse_forecast_detail(url: str) -> dict:
     soup = get_soup(url)
     text = soup.get_text("\n", strip=True)
 
-    # Titolo: "Previsione per il ..." oppure "Tendenza per ..."
-    title_match = re.search(r"(Previsione|Tendenza)[^\n]*", text)
-    title = title_match.group(0).strip() if title_match else "Previsione PRETEMP"
+    # Titolo: usa il titolo reale della pagina (meta og:title, poi tag <title>),
+    # cosi' il titolo dell'item RSS corrisponde esattamente al titolo della
+    # pagina linkata. Se non disponibile, ripiega sul testo dell'intestazione.
+    title = None
+    og_title = soup.find("meta", property="og:title")
+    if og_title and og_title.get("content"):
+        title = og_title["content"].strip()
+    elif soup.title and soup.title.string:
+        title = soup.title.string.strip()
+    if title:
+        # Rimuove un eventuale suffisso "| PRETEMP" o "- PRETEMP" del sito
+        title = re.sub(r"\s*[|\-–]\s*PRETEMP\s*$", "", title, flags=re.IGNORECASE).strip()
+    if not title:
+        title_match = re.search(r"(Previsione|Tendenza)[^\n]*", text)
+        title = title_match.group(0).strip() if title_match else "Previsione PRETEMP"
 
     # Pericolosita': "Nessun pericolo" oppure "Pericolosita' N"
     danger_match = re.search(r"(Nessun pericolo|Pericolosit[aà]\s*\d+)", text)
