@@ -74,6 +74,16 @@ def to_rfc822(dt: datetime) -> str:
     return dt.strftime("%a, %d %b %Y %H:%M:%S %z")
 
 
+def truncate_words(text: str, max_words: int) -> str:
+    """Tronca il testo a max_words parole, aggiungendo '…' se accorciato."""
+    if not text:
+        return ""
+    words = text.split()
+    if len(words) <= max_words:
+        return text
+    return " ".join(words[:max_words]) + "…"
+
+
 def get_soup(url: str) -> BeautifulSoup:
     resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
     resp.raise_for_status()
@@ -188,14 +198,13 @@ def build_rss(entries: list, feed_title: str, feed_link: str, feed_description: 
             desc_parts.append(f"Pericolosità: {e['danger']}")
         if e.get("forecaster"):
             desc_parts.append(f"Previsore/i: {e['forecaster']}")
-        if e.get("updated"):
-            desc_parts.append(f"Aggiornato il: {e['updated']}")
         if e.get("body"):
-            desc_parts.append(e["body"])
+            desc_parts.append(truncate_words(e["body"], 25))
         description = escape("\n\n".join(desc_parts))
 
-        if e.get("image"):
-            description += "&lt;br/&gt;" + escape(f'<img src="{e["image"]}" />')
+        # Rimanda sempre al sito ufficiale per il testo completo
+        continua_link = f'<a href="{e["url"]}">Continua a leggere su pretemp.it →</a>'
+        description += "&lt;br/&gt;&lt;br/&gt;" + escape(continua_link)
 
         enclosure_tag = ""
         if e.get("image"):
