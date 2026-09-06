@@ -58,6 +58,31 @@ resistente a piccoli redesign del sito. Se PRETEMP cambia sostanzialmente il
 sito e il feed smette di popolarsi, aggiorna le funzioni `parse_archive_listing`
 e `parse_forecast_detail` in `scraper.py` guardando il markup aggiornato.
 
+## Versionamento
+
+Il progetto segue il [Semantic Versioning](https://semver.org/lang/it/)
+(`MAJOR.MINOR.PATCH`). La versione corrente è definita nella costante
+`__version__` in cima a `scraper.py` ed è riportata anche nel tag
+`<generator>` di ogni feed generato. La cronologia delle modifiche è in
+[`CHANGELOG.md`](CHANGELOG.md).
+
+Per rilasciare una nuova versione in futuro:
+
+1. Aggiorna `__version__` in `scraper.py`.
+2. Aggiungi una nuova sezione in cima a `CHANGELOG.md` con le modifiche.
+3. Fai commit e push, poi crea un tag Git e una Release su GitHub:
+
+   ```bash
+   git add scraper.py CHANGELOG.md
+   git commit -m "Rilascio v1.5.0"
+   git tag v1.5.0
+   git push origin main --tags
+   ```
+
+   Su GitHub, vai su "Releases" → "Draft a new release", scegli il tag
+   appena creato e descrivi le novità: resta uno storico consultabile anche
+   da chi non legge il CHANGELOG.
+
 ## Licenza dei contenuti
 
 I testi delle previsioni restano di proprietà di PRETEMP (molte pagine sono

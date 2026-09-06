@@ -29,6 +29,8 @@ from xml.sax.saxutils import escape
 import requests
 from bs4 import BeautifulSoup
 
+__version__ = "1.4.0"  # segue Semantic Versioning: MAJOR.MINOR.PATCH — vedi CHANGELOG.md
+
 BASE_URL = "https://www.pretemp.it"
 ARCHIVE_URL = BASE_URL + "/archivio/{year}"
 HEADERS = {
@@ -231,7 +233,7 @@ def build_rss(entries: list, feed_title: str, feed_link: str, feed_description: 
     <description>{escape(feed_description)}</description>
     <language>it-IT</language>
     <lastBuildDate>{now}</lastBuildDate>
-    <generator>pretemp-rss (scraper non ufficiale)</generator>
+    <generator>maltempo-rss/{__version__} (scraper non ufficiale)</generator>
 {chr(10).join(items_xml)}
   </channel>
 </rss>
@@ -241,6 +243,7 @@ def build_rss(entries: list, feed_title: str, feed_link: str, feed_description: 
 
 def main():
     parser = argparse.ArgumentParser(description="Genera un feed RSS dall'archivio PRETEMP")
+    parser.add_argument("--version", action="version", version=f"%(prog)s {__version__}")
     parser.add_argument("--year", type=int, default=datetime.now().year,
                          help="Anno dell'archivio da leggere (default: anno corrente)")
     parser.add_argument("--limit", type=int, default=MAX_ITEMS,
@@ -249,6 +252,8 @@ def main():
                          help="Percorso del file RSS da scrivere")
     args = parser.parse_args()
     args.limit = min(args.limit, MAX_ITEMS)
+
+    print(f"maltempo-rss v{__version__}", file=sys.stderr)
 
     print(f"Leggo archivio anno {args.year}...", file=sys.stderr)
     listing = []
