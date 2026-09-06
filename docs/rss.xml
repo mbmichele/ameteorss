@@ -5,7 +5,7 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sun, 06 Sep 2026 17:27:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 19:50:33 +0000</lastBuildDate>
     <generator>maltempo-rss/1.4.0 (scraper non ufficiale)</generator>
     <item>
       <title>Previsione</title>
