@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>PRETEMP – Previsioni temporali (feed non ufficiale)</title>
+    <link>https://www.pretemp.it</link>
+    <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
+    <language>it-IT</language>
+    <lastBuildDate>Sun, 06 Sep 2026 07:31:35 +0000</lastBuildDate>
+    <generator>pretemp-rss (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3517</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3517</guid>
+      <description>Pericolosità: Nessun pericolo
+
+Previsore/i: Giorgio Rotunno
+
+Aggiornato il: 5 settembre 2026, 14:39
+
+Il campo alto-pressorio mantiene la colonna d’aria in un contesto ampiamente stabile su buona parte dell’Italia.
+Solamente dalla tarda serata di domenica si segnala l’ingresso di aria più fresca in alta troposfera a NW delle Alpi, con interessamento dei settori più nord-occidentali Oltralpe del dominio previsionale. In queste aree non si esclude lo sviluppo di qualche temporale notturno, a innesco prevalentemente orografico dalle prime ore di lunedì 07 settembre.
+Sul territorio italiano nelle prossime 24 ore non si evidenziano condizioni per l’emissione di livelli di pericolosità per temporali.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--5801670ed3a0fa6295b8e7d8e66552732356b0ed/06_09_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--5801670ed3a0fa6295b8e7d8e66552732356b0ed/06_09_2026.png" type="image/png" length="0"/>
+      <pubDate>Sat, 05 Sep 2026 14:39:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3516</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3516</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Daniele Nigro
+
+Aggiornato il: 4 settembre 2026, 12:21
+
+Nella giornata di sabato un promontorio anticiclonico interesserà gran parte dell’Italia, favorendo condizioni di generale stabilità atmosferica. Faranno eccezione le estreme regioni nord-orientali, parzialmente influenzate da un flusso in quota da nord-ovest, che potrà favorire lo sviluppo di alcuni temporali, soprattutto nelle aree alpine e oltralpe.
+Un livello 0 di pericolosità viene emesso lungo parte dell’arco alpino nord-orientale, dove saranno possibili locali fenomeni temporaleschi, generalmente poco organizzati. In particolare, qualche temporale potrà interessare anche i settori alpini di confine tra Friuli Venezia Giulia e Alto Adige, ma le condizioni previste non sembrano favorevoli allo sviluppo di convezione particolarmente intensa o persistente.
+Un livello 1 di pericolosità viene invece emesso sulla Slovenia. In quest’area, la compresenza di valori di MLCAPE localmente fino a 2000 J/kg e di wind shear dell’ordine di 20 m/s potrà favorire una maggiore organizzazione della convezione. Non si esclude pertanto lo sviluppo di qualche supercella, con possibilità di grandine di medie dimensioni.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9702e6ef90cf97b29af0df09e75c44576776f0cc/05_09_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9702e6ef90cf97b29af0df09e75c44576776f0cc/05_09_2026.png" type="image/png" length="0"/>
+      <pubDate>Fri, 04 Sep 2026 12:21:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3515</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3515</guid>
+      <description>Pericolosità: Nessun pericolo
+
+Previsore/i: Federico Negro
+
+Aggiornato il: 3 settembre 2026, 16:58
+
+Sull'Italia l'alta pressione africana rimonterà garantendo un tempo stabile. Non sono previsti temporali.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NywicHVyIjoiYmxvYl9pZCJ9fQ==--93ed300ba0bf540412fdbf4cb59837cff1ddc778/04_09_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NywicHVyIjoiYmxvYl9pZCJ9fQ==--93ed300ba0bf540412fdbf4cb59837cff1ddc778/04_09_2026.png" type="image/png" length="0"/>
+      <pubDate>Thu, 03 Sep 2026 16:58:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3514</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3514</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Pierluigi Randi
+
+Aggiornato il: 2 settembre 2026, 15:34
+
+La rapida rimonta di un promontorio anticiclonico in quota favorirà una rapida stabilizzazione su gran parte del dominio di previsione causa l’afflusso di masse d’aria calde e stabili. Solo sulle regioni meridionali rimarranno, in forma residua, deboli flussi settentrionali leggermente più freschi che potranno causare locali fenomeni temporaleschi ad innesco orografico (celle isolate o piccoli cluster) dovuti a un gradiente termico verticale ancora parzialmente favorevole. Essi potranno interessare essenzialmente l’Appennino meridionale, Calabria e nord della Sicilia con qualche possibile sconfinamento sulle coste tirreniche limitrofe. Attesi locali forti piogge concentrate, isolati episodi di grandine di piccole dimensioni, e brevi raffiche di vento convettive (livello 0).&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--d0ffb033f5e03a4af04e56c57059948b54fd6632/03_09_2026.jpg" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--d0ffb033f5e03a4af04e56c57059948b54fd6632/03_09_2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Wed, 02 Sep 2026 15:34:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3513</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3513</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Diego Bellotti
+
+Aggiornato il: 1 settembre 2026, 14:03
+
+Nella giornata in esame transiterà una blanda ondulazione della corrente a getto, con dei possibili effetti già dalla notte. Sulle estreme regioni meridionali del dominio e le due isole maggiori prevarranno condizioni di stabilità e dunque non si attendono temporali.
+Vengono emessi due Livelli 1 di pericolosità per l'appennino Tosco-Emiliano e quello centro-meridionale per possibili grandinate di 3-5cm e locali intense raffiche di vento convettive.
+DISCUSSIONE
+Nelle prime ore della giornata in esame l'onda corta passerà sopra al Nord Italia, dove potrà favorire della convezione elevata tra alto Piemonte e Lombardia occidentale motivo per cui viene esteso il Livello 0. In questo frangente piogge e grandinate di piccole dimensioni sono possibili.
+Il proseguo della giornata vedrà un graduale aumento del campo del geopotenziale e delle isoterma a 500hpa da occidente; tuttavia tra il NE, L'appennino settentrionale e quello centro-meridionale saranno possibili alcuni temporali forti in formazione nel pomeriggio- sera a causa del flusso da NW a maggiore curvatura ciclonica. Il previsto irraggiamento solare sulle zone a livello 1 andrà ad aumentare i valori di CAPE (&gt;1000J/kg) che sarà unito a sufficienti valori di DLS 0-6km (15-17m/s). In tal contesto, i temporali che si formeranno potranno evolvere in multicelle e in supercelle transienti, specialmente sull'Appennino settentrionale e le Alpi orientali. La commistione tra discreti profili termodinamici e cinematici potranno suggerire la possibilità per locali intensi downdraft (90-100km/h) e grandinate di 3-5cm in presenza delle supercelle transienti o multicelle più intense sulla fascia appenninica centro-meridionale.
+All'interno delle restanti aree a livello 0 si potranno sviluppare dei temporali ordinari a ciclo diurno. Sul Confine tra Basilicata e Puglia non si esclude il verificarsi di fenomeni vorticosi per la formazione di una convergenza dei venti da NE e SSW.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--a992802934c27c2101fd05d40a4bc17519e2c3e0/02-09-2026.jpg" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--a992802934c27c2101fd05d40a4bc17519e2c3e0/02-09-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Tue, 01 Sep 2026 14:03:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3512</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3512</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Gabriele Bentivoglio
+
+Aggiornato il: 31 agosto 2026, 13:33
+
+La presenza una massa d'aria più fredda subito a nord delle regioni settentrionali crea le condizioni per instabilità sporadica fra le aree di pianura e prealpine.
+Viene emesso un livello 0 per temporali isolati su Emilia-Romagna, Lombardia e Triveneto per possibile grandine di piccole dimensioni (2-3 cm) e raffiche di vento.
+Un ulteriore livello 0 comprende le aree interne di Calabria, Basilicata e Campania per simili fenomeni nel pomeriggio.
+DISCUSSIONE
+La presenza di una massa d'aria fredda più a nord che lambisce il margine dell'area anticiclonica sulle regioni del nord rende possibile l'innesco di fenomeni convettivi in presenza di convergenze di venti favorevoli al suolo. In particolare, l'apporto di aria più umida dall'Adriatico, guidata da una progressiva diminuzione della pressione al suolo in Pianura Padana dalla tarda mattina, rende possibile dal primo pomeriggio lo sviluppo di una o più celle temporalesche, specialmente lungo l'asta del fiume Po con direzione di evoluzione prevalente verso ENE.
+In serata condizioni più favorevoli alla formazione di temporali saranno invece presenti nell'area dei grandi laghi della Lombardia, in ragione della presenza di instabilità e della ridotta inibizione alla convezione, motivo per cui quest'area viene inclusa nel livello 0.
+Anche al sud a ridosso degli Appennini non si esclude la formazioni di temporali isolati nel pomeriggio, favoriti dall'irraggiamento solare nelle ore del mattino (CAPE intorno ai 1500 J/Kg).&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--93b3a81a14b2ebd7f0f974ce27f3b9ea813a5fbd/01_09_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--93b3a81a14b2ebd7f0f974ce27f3b9ea813a5fbd/01_09_2026.png" type="image/png" length="0"/>
+      <pubDate>Mon, 31 Aug 2026 13:33:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3511</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3511</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Michele Tonnini
+
+Aggiornato il: 30 agosto 2026, 13:46
+
+Nella giornata di domani, la presenza di una struttura anticiclonica di matrice ibrida determinerà tempo stabile ed in prevalenza soleggiato su gran parte del dominio previsionale. Da segnalare soltanto nelle ore più calde della giornata la possibilità di qualche fenomeno convettivo lungo l’Appennino meridionale e, tra il tardo pomeriggio e la serata, qualche temporale anche forte in transito sui settori alpini centro-orientali, dove transiterà la coda di un fronte freddo associato ad aria più fresca in quota. Qui si potrebbero avere anche supercelle, capaci di prdurre grandine di medie dimensioni (3-5cm) e raffiche di vento convettive superiori ai 70-80 km/h, dati i valori di wind shear che potranno raggiungere i 20-25 m/s. Per questo motivo sui settori alpini centro-orientali viene emesso un livello 1 di pericolosità, mentre per l’Appennino meridionale viene emesso un livello 0 di pericolosità essenzialmente per piogge intense concentrate (&lt; 40mm/3h) e qualche grandinata di piccole dimensioni (&lt; 2cm).
+DISCUSSIONE
+Per questa previsione è sufficiente il testo breve.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--f7ee06f9e167540299b1ee85453e4b7f4d2eacc8/mappa_31-08-2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--f7ee06f9e167540299b1ee85453e4b7f4d2eacc8/mappa_31-08-2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 30 Aug 2026 13:46:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3510</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3510</guid>
+      <description>Pericolosità: Nessun pericolo
+
+Previsore/i: Giorgio Rotunno
+
+Aggiornato il: 29 agosto 2026, 22:34
+
+Un campo mobile di alta pressione garantirà condizioni di maggiore stabilità atmosferica rispetto ai giorni scorsi sull’intero dominio previsionale.
+Non sono attesi temporali di rilievo tali da emettere di livelli di pericolosità. Fanno eccezione locali addensamenti diurni, da segnalare sui settori alpini interni oltralpe, in Austria, e lungo il confine del FVG.
+Qualche addensamento nuvoloso potrà inoltre svilupparsi durante le ore pomeridiane sui settori interni dell’Appennino campano, favorendo qualche sporadico rovescio di natura convettiva.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--40e7135f697e7a54fb1ccc9ae5f5294a979a93df/30_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--40e7135f697e7a54fb1ccc9ae5f5294a979a93df/30_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Sat, 29 Aug 2026 22:34:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3508</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3508</guid>
+      <description>Pericolosità: Pericolosità 2
+
+Previsore/i: Federico Negro
+
+Aggiornato il: 28 agosto 2026, 12:52
+
+Una saccatura nordatlantica affonda verso il nord Africa innescando un intenso richiamo di correnti meridionali dal mar Mediterraneo umide e instabili in medio-bassa troposfera sul nord Italia. Contemporaneamente un intenso ramo del jet stream sudoccidentale, con velocità del vento &gt;40-50 m/s a 300 hPa scorre tra Francia e nordovest Italia. Un modesto fronte freddo in quota transiterà durante la giornata sul nord Italia.
+Un livello 2 è stato emesso per temporali forti a più riprese sulle Alpi e le pedemontane con rischio grandine, anche di grosse dimensioni (6-8 cm di diametro), downburst (non escluse raffiche &gt;120 km/h) e forti piogge transitorie. Sono anche possibili tornado mesociclonici.
+Un livello 1 è stato emesso sulla Pianura Padana e le Alpi sudoccidentali per gli stessi rischi ma con probabilita' piu' bassa. Un livello 0 contestuale è emesso a sud.
+DISCUSSIONE
+Una cinematica molto aggressiva sarà presente sul nordovest Italia fin dalle prime ore della notte, quando vari nuclei, associati a linee di instabilità prefrontali causeranno rovesci sparsi, ma difficilmente evolveranno in strutture organizzate a causa della mancanza di una convergenza chiara a livello del suolo e dei flussi troppo intensi a 700-500 hPa occidentali che sfavoriranno uno sviluppo verticale delle nubi. Al primo mattino, l'ingresso di un fiume atmosferico dal Ligure innalzerà i valori di acqua precipitabile oltre i 55 mm e contestualmente il MLCAPE su valori &gt;3000 J/Kg sull'alessandrino. L'IVT supererà i 700 Kg/m/s.
+Un impulso instabile porterà le condizioni per l'innesco di alcuni nuclei temporaleschi in mattinata. L'evoluzione e' molto incerta, ma non si esclude una supercella di tipo hp o multicelle con forti piogge, vento e grandine anche di grosse dimensioni in spostamento dal Piemonte alla Lombardia. L'intensificazione dei temporali e' piu' probabile sulle aree pedemontane alpine per lo sbarramento orografico. Sulla Lombardia la presenza di shear anche direzionale intenso con valori di SREH 0-1 km oltre i 300 m^2/s^2  potranno permettere lo sviluppo di tornado, anche nelle vallate alpine.
+L'avvicinarsi dell'onda corta e il riscaldamento radiativo (seppur sia probabile della copertura nuvolosa) aumentera' la probabilita' di temporali nel pomeriggio-serata. Gli inneschi dei temporali potranno avvenire a più riprese sulle aree pedemontane e alpine, interessando anche il Nord-Est in serata. Sulle pedemontane del Nord-Est si nota una convergenza dello scirocco dal Mar Adriatico con un flusso piu' secco sud-occidentale che potrebbe fornire un sostentamento maggiore alle strutture. Anche su questi settori sono possibili forti raffiche di vento, grandinate di grosse dimensioni e forse un tornado mesociclonico.
+I flussi molto intensi favoriranno la convezione nelle aree montuose di alto Piemonte, Lombardia, Trentino, Veneto e Friuli dove il trasporto umido e instabile sarà notevole a medio e bassa quota. L'interessamento delle pianure e' molto piu' incerto, motivo per cui si e' preferito limitare il livello di pericolosita' a 1, nonostante gli eventuali temporali in transito potrebbero risultare molto intensi con pericolosita' analoghe alla fascia pedemontana e alpina.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--5fc52228edc6b5ed112a2d3318ff2e4958ea62b6/agg_28_08_2026.jpg" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--5fc52228edc6b5ed112a2d3318ff2e4958ea62b6/agg_28_08_2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Fri, 28 Aug 2026 12:52:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3509</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3509</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Pier Luigi Trudu
+
+Aggiornato il: 28 agosto 2026, 12:38
+
+Nella giornata di domani la saccatura nord-atlantica che sta transitando sull'Europa sud-occidentale continuerà a interessare il dominio previsionale  ma con forzanti via via in calo e flussi umidi inizialmente da SW verso la zonalizzazione in serata. Specialmente nella prima parte della giornata e sino al pomeriggio sono previsti locali anomalie positive di vorticità potenziale sui settori centro-meridionali del dominio in una fascia che va dalla Sardegna ai Balcani, più locali sul Nord-Est italiano. Un livello di pericolosità 0 sarà valido per piogge intense localizzate e grandine di piccole-medie dimensioni.
+DISCUSSIONE
+Nella prima parte della giornata è prevista convezione sul Mar di Sardegna lungo una linea di convergenza dettata dall'ingresso del Maestrale dal Golfo del Leone in movimento verso l'isola e ulteriormente verso il Centro Italia, dove si avrà anche una componente di sollevamento orografico. I profili previsti propendono per convezione a base alta con MLCAPE&lt;1000 J/kg su terra e DLS anche superiore a 20 m/s Sulla Sardegna, intorno a 15 m/s sul Centro Italia dove localmente sono previsti aumenti di MLCAPE&gt;2000 J/Kg sull'Appennino a ridosso delle ore centrali ma in concomitanza di un ingresso secco in media troposfera che potrà ostacolare la convezione. Nel pomeriggio/sera convezione isolata con shear in progressiva diminuzione e profili skinny è prevista sulle montane di Veneto e Friuli Venezia Giulia, mentre potrà essere più organizzata in area balcanica dove resisteranno shear intorno a 15 m/s.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1NywicHVyIjoiYmxvYl9pZCJ9fQ==--85038c11dde69df5eb598ded70c7fdeb0cfa6f60/29_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1NywicHVyIjoiYmxvYl9pZCJ9fQ==--85038c11dde69df5eb598ded70c7fdeb0cfa6f60/29_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Fri, 28 Aug 2026 12:38:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3507</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3507</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Mattia  Nordio
+
+Aggiornato il: 26 agosto 2026, 19:11
+
+Una tendenza è stata emessa per la giornata di Venerdì. Isolati temporali forti/molto forti sono possibili sulle alte Pianure e fasce Pedemontane/Alpine del NW con grandinate di medio-grosso diametro e raffiche di vento severe. L'instabilità si sposterà poi ad oriente con una situazione ancora molto incerta ma ad alto potenziale.
+DISCUSSIONE
+Un'organizzata saccatura transiterà dalla Francia verso la Germania nord-orientale con associato un modesto fronte freddo al suolo. A sud, sul Mediterraneo, un promontorio mobile andrà ad intensificarsi con isoterme &gt;24-26C a 850hPa e possibili valori termici record per l'ultima parte di Agosto. L'aumentato gradiente termico N-S porterà ad una temporanea intensificazione della jet-stream in alta troposfera con valori &gt;60-70ms tra Francia/Svizzera e NW italiano. Mentre oltralpe il forcing frontale sarà il principale motivo di innesco, a sud la forzante sarà meno definita e incisiva con inneschi complessi e di difficile localizzazione. Lo scorrimento del fronte verso oriente tenderà progressivamente a direzionare le correnti da SW con accelerazione sottovento l'Appennino verso la Pianura Padana. I massimi di thetaE verranno rapidamente spostati verso nord motivo per cui il livello di rischio 1 è stato limitato alle fasce di alta pianura e settori pedemontani. La situazione cinematica sarà aggressiva con DLS &gt;35-40ms e LLS &gt; 20-25ms in risposta ai flussi estremamente tesi sin dai piani isobarici più bassi. Anche la situazione termodinamica sarà favorevole a fenomeni intensi con ampia instabilità ben distribuita lungo tutto il profilo ( MLCAPE 2.8-3KJ/Kg). Multicelle e supercelle sono possibili con tutti i rischi associati. Le grandinate potranno risultare facilmente di medio-grosso diametro con possibilità di 1-2 eventi anche &gt;6-8cm. Lo stesso varrà per le raffiche di vento, potenzialmente severe. Al momento la situazione si presenta ad alto potenziale ma con bassa confidenza. La principale linea globale ( ICON-ECMWF) è concorde verso isolati CI tra alte pianure e pedemontane di Lombardia/Piemonte ad ovest  e Veneto/Friuli ad est. Anche i LAM sono concordi con EPS-ICOND2 che mostrano simulazioni di celle intense nella zona dei laghi ma con scarso coinvolgimento delle zone di pianura. Queste simulazioni sono coerenti con la presenza di un flusso eccessivamente forte e l'assenza di boundary superficiali definiti. Assieme al trasporto di ThetaE e PWAT verso nord, ben simulato da tutta la modellistica, per ora si è scelto di limitare il livello 1 solo alle zone a nord. Un upgrade a livello 2 è possibile, così come un estensione dei rischi anche ad oriente ( Veneto e Friuli) dove la situazione è ancora troppo incerta. Rispetto ad ovest, i flussi in medio-bassa troposfera tarderanno ad arrivare, lasciando del tempo per una maggior organizzazione sempre in un ambiente ad elevato CAPE-SHEAR. La presenza di boundary superficiali ad evoluzione diurna all'interno del BL potranno fornire il trigger iniziale, supportato poi dall'aumento di forzante da W ed eventuali cold pool dai settori Alpini/Prealpini.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--93c4bd1635ec3e626a420f682ac05d079ca6901d/Tend28_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--93c4bd1635ec3e626a420f682ac05d079ca6901d/Tend28_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Wed, 26 Aug 2026 19:11:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3506</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3506</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Pierluigi Randi
+
+Aggiornato il: 26 agosto 2026, 15:46
+
+La rimonta a tutte le quote di un robusto promontorio anticiclonico di origine sub-tropicale, determinerà un’elevata stabilità su gran parte del dominio di previsione.
+Tuttavia, sul comparto nord-occidentale del dominio stesso, la componente di flusso sud-occidentale alle quote superiori introdurrà masse d’aria progressivamente più umide e instabili, le quali potranno favorire lo sviluppo di attività temporalesca ad innesco prevalentemente orografico coadiuvata dalla presenza di masse d’aria ancora assai calde e umide in bassa troposfera.
+La combinazione dei parametri dinamici e termodinamici non sembra preludere ad attività convettiva severa (ma limitatamente alla giornata del 27), e nelle aree indicate si stima un livello 0 per forti piogge concentrate, grandine in genere di piccole o in forma assai isolata di medie dimensioni, e raffiche di vento convettive. Fenomeni più probabili tra pomeriggio e serata.
+Già dal giorno 28 i fenomeni potranno risultare più severi e più estesi.
+Sul resto del dominio non sono attesi temporali nonostante qualche pioggia di natura stratiforme possa interessare l’area del levante ligure e dell’alto Tirreno.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--63c2102c4a628d80f013bff19c2e16b1c9a17a83/27_08_2026.jpg" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--63c2102c4a628d80f013bff19c2e16b1c9a17a83/27_08_2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Wed, 26 Aug 2026 15:46:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3505</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3505</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Diego Bellotti
+
+Aggiornato il: 25 agosto 2026, 21:03
+
+Nella giornata presa in esame le condizioni meteorologiche andranno a diventare più stabili su gran parte del dominio di previsione, specialmente sui settori del Centro-Sud per la progressiva rimonta di un promontorio anticiclonico di matrice sub-tropicale e l'estensione di un EML a 800-700hpa. Tuttavia, viene evidenziata la possibilità per della sporadica convezione a base alta sul mediterraneo occidentale durante le ore serali per l'effetto dell'avvezione di aria calda da SSW e, contestualmente, per la formazione di temporali ad evoluzione diurna sulle Alpi centro-occidentali. In tal caso, saranno possibili delle raffiche di vento convettive (60-70km/h) e grandine di piccole dimensioni.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1MywicHVyIjoiYmxvYl9pZCJ9fQ==--76b6f6823150da9042fbac7e090eb6b3462be24c/26-08-2026.jpg" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1MywicHVyIjoiYmxvYl9pZCJ9fQ==--76b6f6823150da9042fbac7e090eb6b3462be24c/26-08-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Tue, 25 Aug 2026 21:03:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3503</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3503</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Diego Bellotti
+
+Aggiornato il: 24 agosto 2026, 20:14
+
+Il territorio nazionale si troverà nel confine tra l'anticiclone sub-tropicale continentale e una nuova onda corta che si farà strada attraverso la Penisola Iberica, Golfo del Leone fino a Lambire le regioni di NW. Saranno possibili dei temporali anche di forte entità soprattutto tra Provenza, Liguria di Ponente e NW motivo per cui sono state evidenziate con un
+Livello 1 di pericolosità
+. Proprio su questa fascia sono possibili forti raffiche di vento lineari, grandinate di medie dimensioni e trombe marine (Provenza e Liguria di Ponente).
+DISCUSSIONE
+...Livello 1...
+La prima metà della giornata risulterà prevalentemente stabile su buona parte del dominio, ma a partire dalle ore pomeridiane si avvicinerà un onda corta da SW che determinerà un rinforzo del getto diffluente (left-exit region) sul NW italiano con i primi inneschi alla convezione sottovento sulle Alpi occidentali. In serata potranno formarsi dei temporali anche sulle zone pedemontane del Piemonte in virtù di una rotazione del flusso dei venti tra 925-850hpa da ESE, con maggiore accumulo di umidità ed instabilità (&gt;1000J/kg). In associazione all'accelerazione della corrente a getto, anche il DLS 0-6km subirà un rinforzo nel corso della seconda metà della giornata fino a 20-25m/s. Lo storm-mode sarà multicellulare,  ma saranno possibili 1-2 sviluppi supercellulari che dal Cuneese risaliranno verso ENE. Tuttavia, la presenza di alti LFC potrebbe rappresentare un'ostacolo per il mantenimento delle strutture temporalesche anche sulle pianure, con le Alpi e pedemontane come zone più "ideali". Sono comunque possibili locali intense raffiche di vento convettive, forzate dagli elevati LCL e l'aumento dello speed-shear. Qualora si dovessero formare delle strutture supercellulari non si escludono alcune grandinate in genere tra i 2-4cm, ma con un episodio fino a 5cm possibile. Nel corso della giornata la convezione potrà evolvere in MCS tra Piemonte e Lombardia con i rischi principalmente legati alle piogge insistenti.
+L'area a SW nel Livello 1, tra Provenza e la Liguria occidentale, vedranno con maggiore confidenza lo sviluppo di convezione profonda tra serata/tarda serata. L'ambiente sarà caratterizzato da una elevata combinazione CAPE-shear e pertanto potrà sostenere la genesi di intensi MCS e supercelle fino alla Liguria di Ponente in tarda sera. La convezione severa potrà scaturire tutti i rischi, con intensi downburst e grandinate fino a 4-5cm più probabili. Non si escludono delle trombe marine sia mesocicloniche che da mesovortici.
+...Livello 0...
+Un Livello 0 è stato emesso per le restanti aree Alpine per temporali deboli annessi all'insolazione solare e per una curvatura ciclonica del flusso in media troposfera.
+Inoltre, sarà presente una Warm Conveyor Belt che sarà associata alla risalita di un EML tra 900 e 700hpa che dal Nord Africa si estenderà fino alla Sardegna e potrà favorire la formazione di temporali a base alta nel corso della giornata. Questi temporali potranno generare delle intense raffiche di vento derivante da downburst secchi.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--94dcf975c300a760347cfe67c9dd79ab220e7429/agg_24-25-08-2026.jpg" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--94dcf975c300a760347cfe67c9dd79ab220e7429/agg_24-25-08-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Mon, 24 Aug 2026 20:14:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3504</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3504</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Gabriele Bentivoglio
+
+Aggiornato il: 24 agosto 2026, 10:56
+
+Fra la notte e il mattino il transito di un'onda corta determinerà condizioni di instabilità nelle regioni del centro-nord, mentre una seconda fase temporalesca è attesa lungo il versante tirrenico nel pomeriggio.
+Un livello 1 comprende le regioni tirreniche, le Marche e le aree interne delle regioni del centro-sud, per temporali dalla mattina con gradinate, anche di medie dimensioni (&lt;5 cm), e raffiche di vento forti, con possibilità di sistemi temporaleschi più intensi sulle regioni del versante tirrenico.
+Il livello 1 si estende anche a Golfo Ligure, Toscana e le regioni del nord Italia per temporali diffusi e localmente intensi fra notte e mattina, con associate grandinate di piccole dimensioni (fino a 2-3 cm) e precipitazioni intense.
+Un più ampio livello 0 comprende aree in cui lo sviluppo di temporali isolati è meno probabile ma comunque possibile.
+DISCUSSIONE
+-- Centro-Nord --
+Il transito di un'onda corta sulle regioni del centro-nord nella notte determina condizioni favorevoli all'innesco di convezione. Si attende la formazione di temporali dapprima sulle Alpi Piemontesi e sul Golfo Ligure. In seguito, tenderanno a propagarsi verso est rispettivamente su Alpi e Prealpi di Lombardia/Veneto e sulla Toscana settentrionale. La convezione, principalmente a ridosso dell'orografia, potrà dare origine a precipitazioni intense localizzate e non si escludono anche grandinate di piccole dimensioni. In superamento dell'Appennino, propagandosi verso nord-est, i temporali interesseranno anche le pianure dell'Emilia-Romagna e l'Alto Adriatico, per poi intensificarsi nuovamente a ridosso di FVG, Croazia e Slovenia meridionale dalla tarda mattinata, grazie all'aria più umida e instabile sul Mar Adriatico. Non si esclude tuttavia anche attività convettiva a ridosso delle coste delle Marche, che vengono per questo incluse nel livello 1, a seguito di convergenze di venti (conseguenza dei temporali più a nord) al largo di Romagna e Marche settentrionali in un ambiente moderatamente instabile e con DLS medio-alto (&gt; 20 m/s).
+-- Centro-Sud e Mar Tirreno --
+Dalla mattinata sarà possibile la formazione di sistemi temporaleschi più organizzati a ridosso delle coste tirreniche, con interessamento in successione di Toscana meridionale, Lazio e Campania settentrionale. In questo caso, considerando la maggior disponibilità di energia (CAPE &gt; 3500 J/Kg) i temporali potranno raggiungere un'intensità maggiore e non si escludono grandinate fino a medie dimensioni (fino a 5 cm) e raffiche di vento forte. Alcuni modelli simulano la formazione di supercelle, ma data l'incertezza che persiste sulla formazione ed evoluzione del sistema, viene mantenuto per il momento un livello di pericolosità 1.
+Il livello 1 comprende anche le aree interne delle regioni del centro-sud, dove specialmente in assenza del sistema convettivo più intenso verso la costa e con sufficiente insolazione è possibile la formazione di temporali con associate grandinate di piccole-medie dimensioni e raffiche di vento forte, in estensione verso sud-est nel corso del pomeriggio, fino ad esaurirsi in serata.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--b9e684d210a2e0865af7ced52f9b3ee2994ed6c9/25_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--b9e684d210a2e0865af7ced52f9b3ee2994ed6c9/25_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Mon, 24 Aug 2026 10:56:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3502</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3502</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Giorgio Rotunno
+
+Aggiornato il: 22 agosto 2026, 16:42
+
+Tra la notte e il primo mattino di domenica saranno possibili temporali sparsi soprattutto tra Veneto, Friuli-Venezia Giulia e Alto Adriatico. Lungo le coste tra Romagna, Delta del Po e nord delle Marche potranno svilupparsi dei temporali multicellulari con rovesci di pioggia e frequenti fulmini.
+Potranno formarsi inoltre delle trombe marine al largo sull'Adriatico settentrionale e centrale, alcune delle quali potrebbero occasionalmente raggiungere la linea di costa.
+Nel pomeriggio qualche breve temporale di scarso rilievo sarà possibile anche sulle Alpi centrali e sull’Appennino settentrionale, mentre isolati addensamenti potranno interessare l’Appennino centrale e la Sila. Non sono attesi fenomeni di particolare intensità o diffusione.
+DISCUSSIONE
+Nella giornata di domenica, sulle regioni centrali e meridionali, si assisterà a un nuovo consolidamento del geopotenziale, con pressione atmosferica in modesto aumento e condizioni prevalentemente stabili.
+I settori alpini e prealpini resteranno invece esposti a infiltrazioni di aria più fresca di origine atlantica, che favoriranno un aumento localizzato dell’instabilità atmosferica.
+Residui fenomeni convettivi, associati a sistemi temporaleschi multicellulari, potranno persistere tra la tarda notte di sabato 22 e le prime ore di domenica 23 agosto in prossimità dei settori pedemontani del Bellunese e delle Prealpi venete nord-orientali, con possibile coinvolgimento anche dell’immediata pianura veneto-friulana e dell’Alto Adriatico.
+Al primo mattino saranno ancora presenti valori di SB CAPE superiori ai 1000 J/kg, con possibili boundary nei bassi livelli in prossimità della costa romagnola, del Delta del Po e delle Marche settentrionali, lungo le zone di convergenza tra flussi nord-orientali e brezze di terra.
+Saranno possibili estese formazioni cumuliformi (congesti), localmente a carattere temporalesco, che potranno produrre, oltre a una frequente attività elettrica lungo la fascia costiera, anche molteplici trombe marine.
+Alcune di queste potrebbero raggiungere la terraferma.
+... entroterra alpino e appenninico ...
+Sporadica instabilità termoconvettiva potrà persistere durante le ore centrali della giornata lungo le Alpi centrali e l’Appennino settentrionale.
+Non si esclude, inoltre, qualche sviluppo cumuliforme anche lungo l’Appennino centrale e sui settori interni della Sila, in Calabria.
+Si tratterà comunque di condizioni che, allo stato attuale, non giustificano l’emissione di livelli di pericolosità per fenomeni meteorologici di natura temporalesca particolarmente rilevanti.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--3cdd2b32a91bb6cc402913434d2c642c12b3c6a9/23_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--3cdd2b32a91bb6cc402913434d2c642c12b3c6a9/23_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Sat, 22 Aug 2026 16:42:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3500</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3500</guid>
+      <description>Pericolosità: Pericolosità 2
+
+Previsore/i: Federico Negro
+
+Aggiornato il: 21 agosto 2026, 14:13
+
+Un aggiornamento viene emesso per una possibile passata di temporali forti tra Romagna, Veneto, FVG e L'istria.
+Diffuse precipitazioni di natura stratiforme interessano buona parte della pianura Padana con locale convezione affogata. Sulla Romagna, in particolare a partire dalle zone Appenniniche saranno possibili dei primi inneschi nelle prossime ore in seno all'aumento della forzante a scala sinottica da SW. Le ultime simulazione modellistiche ICON-RUC, ICON-D2 e WRF simulano strisciate di Updraft helicity, anche intense, dalla Romagna al Triestino motivo per cui non si escludono 1-2 supercelle in intensificazione muovendosi verso levante con un possibile upscale growth a QLCS. I radiosondaggi virtuali evidenziano un CAPE skinny, con convezione prevalentemente surface-based capace di provocare forti downburst (anche &gt;100km/h) e occasionali grandinate di 4-5cm nelle supercelle. Non si esclude un breve tornado.
+Diego Bellotti
+21 ago 08:48
+· 16 giorni fa
+TESTO BREVE
+Nella giornata di Venerdì 21 Agosto è prevista una nuova ondata di temporali, diffusamente forti tra Liguria centro-orientale, Toscana, Corsica e isolatamente forti sul Lazio, l'Umbria, le Marche e le regioni della pianura padano-veneta. Un'onda corta con associata anomalia di PV in medio-alta troposfera, ma senza un fronte freddo strutturato al suolo, avvetterà aria molto umida e instabile sul mar Tirreno, con un vistoso fiume atmosferico recante valori fino a 700 Kg/m/s di vapore acqueo trasportato. Un livello 2 è stato emesso per forti raffiche di vento convettive con picchi fino a 150 km/h o superiori possibili tra Corsica, Toscana, Alto Lazio e Mar Tirreno. Un livello 1 è stato emesso per gli stessi rischi con probabilità minore sulle restanti zone del Mar Tirreno e Liguria e per temporali isolatamente forti, ma abbastanza diffusi sulla pianura padana e le Marche. Saranno possibili inoltre grandinate fino a medie dimensioni e non si escludono fenomeni vorticosi, specialmente sul Mar Tirreno.
+DISCUSSIONE
+Durante la notte un nuovo peggioramento avrà luogo sul Mediterraneo occidentale. Tuttavia, alcuni temporali già potranno essere presenti tra Liguria e Toscana sottoforma di sistemi back-building. In seno all'onda corta convezione severa e a rapido movimento stante una buona combo CAPE-DLS potrà svilupparsi in seno alle Baleari, approcciando Corsica e coste tirreniche entro la mattinata. Il sistema sarà preceduto da alcuni LLJ, che interagendo con l'orografia potranno localmente aumentare lo shear direzionale nei bassi livelli, con lo SREH 0-3 km fino a 300 m^2/s^2 in prossimità delle coste. IL rischio tornadico e la genesi di supercelle nelle fasi iniziali non è da trascurare, soprattutto quest'ultime potranno svilupparsi in coda al sistema verso il Lazio e produrre grandine potenzialmente fino a grosse dimensioni. IL rischio di fenomeni vorticosi è sia di tipo mesociclonico che landspout/trombe marine. Un'intrusione secca in medio-alta troposfera aumenterà la delta theta e in connubio con un profilo estremamente umido nei bassi strati, e prciò favorirà forti contrasti di densità con genesi di estesi downburst verso le coste di Liguria di Levante, Toscana, Corsica e marginalmente Lazio con buona probabilità &gt;100 km/h. I valori energetici sono previsti molto elevati proprio nella fascia del Tirreno vicino a Toscana e Lazio, dove eccederanno i 4000 J/Kg, mentre il DLS sarà buono ma non così estremo (attorno ai 20 m/s), per cui il sistema potrà evolvere in bow echo o comma echo, ma anche suddividersi in più linee back-building parzialmente ancorate ai monti. Le piogge convettive saranno caratterizzate da intensità molto elevate, ma l'evoluzione del sistema a NE con l'onda corta dovrebbe sfavorire una loro forte persistenza. Altra convezione di tipo orografico e semi-persistente potrà formarsi affogata nella nuvolosità sulle Prealpi e successivamente perdurare anche nel pomeriggio, mentre temporali isolatamente forti potranno formarsi in Campania in pomeriggio e serata. Sulla pianura padana la cinematica sarà simile al mare Tirreno, ma la termodinamica sarà meno intensa, per cui i fenomeni dovrebbero presentare intensità minori nel loro complesso.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0NywicHVyIjoiYmxvYl9pZCJ9fQ==--22d394598a5714dbd9de723cc1d0614d6972536a/agg-21-08-2026-14utc.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0NywicHVyIjoiYmxvYl9pZCJ9fQ==--22d394598a5714dbd9de723cc1d0614d6972536a/agg-21-08-2026-14utc.png" type="image/png" length="0"/>
+      <pubDate>Fri, 21 Aug 2026 14:13:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3501</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3501</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Daniele Nigro
+
+Aggiornato il: 21 agosto 2026, 12:28
+
+Nella giornata di sabato, la perturbazione che ha interessato le regioni centro-settentrionali si allontanerà progressivamente dall’Italia, favorendo un deciso miglioramento delle condizioni meteorologiche. Una residua instabilità interesserà tuttavia i rilievi del Friuli-Venezia Giulia e della Slovenia, dove saranno possibili temporali isolati a causa della persistenza di un flusso umido sud-occidentale e di valori di MLCAPE localmente prossimi ai 1000 J/kg. Per questo motivo viene emesso un livello 0 di pericolosità.
+Un livello 0 di pericolosità viene emesso anche su parte del basso Tirreno e dell’Appennino centro-meridionale. Condizioni di instabilità, con rovesci e temporali associati, saranno possibili già dal mattino sul basso Tirreno, al largo della Campania e del basso Lazio. L’inibizione convettiva risulterà pressoché assente, mentre l’MLCAPE potrà raggiungere localmente valori prossimi ai 3000 J/kg, con PWAT fino a circa 40 mm. Tuttavia, la scarsa presenza di shear non favorirà lo sviluppo di convezione particolarmente organizzata. Sono quindi attesi prevalentemente temporali a cella singola, innescati da locali convergenze dei venti al suolo sul mare. I fenomeni potranno essere accompagnati da grandinate di piccole dimensioni, con possibili accumuli di grandine al suolo lungo le coste.
+Nel corso del pomeriggio, la termoconvezione diurna interesserà le aree appenniniche, dalle basse Marche fino alla Basilicata, con fenomeni generalmente isolati e caratterizzati da una tipologia analoga a quella descritta per il basso Tirreno.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--2db335748b476cc362d597615af8a75311bed6d7/22_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--2db335748b476cc362d597615af8a75311bed6d7/22_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Fri, 21 Aug 2026 12:28:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3499</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3499</guid>
+      <description>Pericolosità: Pericolosità 2
+
+Previsore/i: Diego Bellotti
+
+Aggiornato il: 19 agosto 2026, 21:42
+
+Nella giornata di Venerdì 21 agosto è attesa una nuova ondata di temporali anche forti segnatamente sulle regioni del Centro-Nord Italia a causa del transito di un onda corta con moto SW-ENE. Viene emesso un Livello 2 di pericolosità principalmente per raffiche di vento di natura convettive forti o molto forti (&gt;=100km/h), con possibili picchi a 150-160km/h tra il mar Mediterraneo occidentale, Corsica, Liguria di Levante, Toscana costiera fino al litorale costiero Laziale. inoltre, sarà possibile qualche grandinata di medie dimensioni.
+Un Livello 1 viene emesso nelle restanti zone per una ridotta probabilità relativamente ai rischi legati nel livello 2.
+DISCUSSIONE
+Nel corso della notte si assisterà ad un nuovo peggioramento delle condizioni meteorologiche a partire dal mediterraneo occidentale. Tuttavia, alcuni temporali già potranno essere presenti tra Liguria e Toscana sottoforma di sistemi back-building.
+Lungo il margine ascendente di un'ampia circolazione ciclonica extra-tropicale presente sul Nord Europa verrà trasportata un onda corta che dal Marocco si porterà sul mar Mediterraneo occidentale rinnovando la possibilità di formazione della convezione severa tra il Golfo del Leone e le Isole Baleari in moto verso ENE. Al suolo saranno presenti delle convergenze tra il Libeccio e il Maestrale che andranno a favorirne il triggering. L'ambiente nell'intera fascia a Livello 2 si presenterà fortemente umido ed instabile caratterizzato da valori di MUCAPE tra 4000-5000J/kg (con EFI CAPE tra 0,9-1), derivante sia dalle elevate SSTs ma anche dall'afflusso di aria più fredda in media troposfera (-10°C) e da valori Dew point tra i 26-28°C. La commistione tra elevato CAPE e l'aumento della forzante a scala sinottica porranno le basi per una rapida intensificazione convezione profonda traslando ad oriente. L'analisi alla situazione cinematica mostra un Bulk shear 0-6km tra 15-20m/s, in accelerazione fino a 25 m/s tra mar Tirreno e Lazio. In quest'ottica, è possibile lo sviluppo di intensi MCS anche sottoforma di QLCS/Bow-echo che potranno provocare raffiche di vento convettive puntualmente &gt;=100km/h in virtù dell'elevata PW (&gt;40mm), in parte forzata da un inusuale flusso di Vapore acqueo di matrice sub-tropicale e di un'intrusione di aria secca a 500hpa che andrà a creare una differenza di Theta-E. In presenza di Bow-echo più duraturi e corposi non si escludono raffiche di vento &gt;150-160km/h. L'evoluzione verso levante, in particolare tra Toscana meridionale e il Lazio, potrà vedere un parziale arretramento della linea di instabilità con propagazione a valle del sistema temporalesco tramite cold pool e il flusso sinottico tra tarda mattinata e pomeriggio. Dinanzi a questo più ampio sistema temporalesco non si esclude la formazione di supercelle, come viene mostrato anche da alcune Updraft helicity tracks dalle simulazioni WRF-ICON. In tal contesto, si evidenzia la possibilità per intensi downburst e grandine media-grossa.
+Contestualmente, sul N Italia potrà generarsi della convezione affogata che potrà risultare localmente semi-persistente sulle Prealpi Veneto-Friulane.
+Nel pomeriggio-sera è possibile l'innesco di temporali anche forti sulla Campania dovuto allo spostamento dell'onda depressionaria.
+Nella giornata in esame sarà da considerare anche un rischio tornadico tra Toscana, Lazio e Campania.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0MywicHVyIjoiYmxvYl9pZCJ9fQ==--33e58f9a914a8cc0ab5d8097536a4e922586020f/21-08-2026.jpg" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0MywicHVyIjoiYmxvYl9pZCJ9fQ==--33e58f9a914a8cc0ab5d8097536a4e922586020f/21-08-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Wed, 19 Aug 2026 21:42:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3498</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3498</guid>
+      <description>Pericolosità: Pericolosità 2
+
+Previsore/i: Pierluigi Randi
+
+Aggiornato il: 19 agosto 2026, 15:54
+
+L’avanzare verso levante di una vasta saccatura atlantica in medio-alta troposfera indurrà il progressivo rinforzo di correnti sud-occidentali spiccatamente cicloniche sul centro, ma soprattutto sul Nord Italia e in generale sulla parte settentrionale del dominio di previsione. Su queste zone saranno possibili temporali diffusi di moderata/forte intensità in grado di provocare grandinate fino a medio diametro (livello 2), intense raffiche di vento lineari (downburst, livello 2) e precipitazioni intense o abbondanti, queste ultime in particolare sulle zone alpine, prealpine, sul levante ligure e alta Toscana espressamente sulle aree appenniniche di crinale (livello 1). Non si esclude l’eventualitàdi fenomeni vorticosi, sia di origine supercellulare (settori di medio-alta pianura di Piemonte e Lombardia; Veneto e Friuli centro-orientale, livello 2), sia non (landspout/trombe marine) tra Liguria e alta Toscana (livello 1). Le zone circoscritte con un livello 0 saranno più ai margini della forzante dinamica con temporali meno severi che potranno recare forti ma brevi rovesci, qualche grandinata di piccole dimensioni e brevi colpi di vento.
+DISCUSSIONE
+La forzante dinamica, in fase di intensificazione nel corso della giornata, favorirà l’afflusso di masse d'aria assai umide ed instabili sul settore settentrionale del dominio di previsione. Il flusso ciclonico e diffluente in quota da SW muoverà in direzione dell'Italia centro-settentrionale annesso ad un’anomalia di PV che sarà più consistente tra il pomeriggio e la serata. Il contemporaneo calo dei geopotenziali in medio-alta troposferasi estenderà progressivamente verso ESE apportando ulteriore forzante dinamica dovuta all’ingresso di aria più fredda e secca, mentre rimarranno geopotenziali elevati con avvezione molto calda sub-tropicale sul sud della Penisola, andando ad incrementare il gradiente termico orizzontale. Una prima fase foriera diattività temporalesca è attesa lungo la fascia pedemontana e Alpina occidentale, in progressiva estensione verso oriente tra notte e primo mattino quando la forzante orografica sarà ancora prevalente. Una seconda fase, potenzialmente più severa, è attesa nel pomeriggio e parte della serata. Si innescheranno numerosi temporali sul Mar Ligure e zone costiere, rapidamente severi (possibili MCS) anche grazie ad anomalie di SST molto consistenti associate ad elevati valori di CAPE (&gt;3000 J/kg) e PWAT (&gt;40 mm). L’evoluzione sarà rapida con possibili grandinate di piccolo-medio diametro e raffiche di vento localmente violente (wet downburst). Nella traslazione verso oriente andrà ad aumentare il rischio di piogge intense, seppur con accumuli precipitativi simulati non particolarmente rilevanti salvo in forma locale sulle aree alpine e prealpine laddove sarà più efficace il lifting orografico, tuttavia i sistemi saranno alquanto rapidi nell’evoluzione. Qualche rischio maggiore è confermatosul levante ligure e sull’alta Toscana che saranno sottoposte a un maggiore shear di basso livello sottovento alla Corsica per la confluenza tra flussi da SE e da SW, con innesco di sistemi back-building. Le piogge cumulate saranno probabilmente superiori tra Alto Piemonte e Lombardia nella zona dei Laghi e localmente maggiori di 150/200 mm nelle 24 ore (flash flood) con commistione tra la frazione stratiforme e quella convettiva che andrà aumentando nel corso della giornata. Un ambiente più favorevole ad eventi seveririguarderà le alte pianure di Lombardia e Veneto/Friuli, sia sotto il profilo dinamico che termodinamico. La previsione dicampi di MUCAPE localmente &gt;2500-3000 J/kg e delimitato a sudda una dry-line appenninica determinerà boundary di basso livello efficaci con i massimi di confluenza tra Lombardia orientale e Veneto centrale e sul basso Piemonte. Le celle, con tracking WSW-ENE, usufruiranno di DLS 0-6 kmelevato(27-30 m/s),LLS 0-1 kmfino a 12-15 m/s, e SREH 0-3 km&gt; 400 m2/s2rendendo possibili transizioni a strutture mesocicloniche (supercelle). Le condizioni appaiono più favorevoli sul Veneto centro-orientale lungo il boundary tra la dry-line appenninica  e il flusso sinottico da SE in risalita sull’Adriatico, e tra Piemonte e Lombardia lungo la dry-line ed eventuali cold pool/outflow boundary in uscita dalla convezione alpina, massimizzando i parametri compositi di shear con SCP/STP/EHI su soglie rilevanti, e ciò non esclude tornadogenesi mesociclonica, con maggiore probabilità tra pianura dal Piemonte fino al Friuli orientale. Saranno possibili grandinate di medio diametro (4-6 cm) senza escludere diametri superiori, raffiche di vento localmente violente e forti piogge concentrate. Da tenere in considerazione che il sostenuto flusso unidirezionale da SW potrà ostacolareil pieno sviluppo delle celle lungo il boundary della dry-line spostando il trigger molto rapidamente lungo l'alta pianura. Inoltre è possibile la presenza di formazioni nuvolose di tipo stratiforme già dal mattino, che anch’esse potranno parzialmente ostacolare gli inneschi.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--ddf3d1c536c5ad80755ee253dd87716589165f27/20_08_2026.jpg" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--ddf3d1c536c5ad80755ee253dd87716589165f27/20_08_2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Wed, 19 Aug 2026 15:54:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3497</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3497</guid>
+      <description>Pericolosità: Pericolosità 2
+
+Previsore/i: Mattia  Nordio
+
+Aggiornato il: 18 agosto 2026, 19:33
+
+Una tendenza è stata pubblicata per la giornata di giovedì. Saranno possibili temporali diffusi di moderata/forte intensità capaci di produrre grandinate di medio diametro, raffiche di vento forti e precipitazioni intense. Possibili anche 1-2 tornado.
+DISCUSSIONE
+Masse d'aria estremamente umide ed instabili verranno veicolate verso il dominio di previsione. Un flusso da SW in progressiva intensificazione muoverà in direzione dell'Italia centro-settentrionale con all'interno  piccole anomalie di PV. Da NW un progressivo calo dei geopotenziali muoverà progressivamente verso SE apportando ulteriore forzante dinamica. Per la giornata di Giovedì non sono attesi passaggi frontali o forzanti decise ma solo piccoli filamenti di IPV inseriti all'interno del flusso in quota. Il primo, tra domani sera e giovedì mattina apporterà convezione e temporali lungo la fascia Pedemontana e Alpina occidentale, in progressiva estensione verso oriente nella notte. Il secondo, più influente, arriverà nel primo pomeriggio. La destabilizzazione sarà molto rapida con numerosi temporali in innesco sul Mar Ligure e zone costiere. La traslazione sarà veloce con possibili grandinate di piccolo-medio diametro e raffiche di vento localmente severe. Nella traslazione verso oriente andrà ad aumentare il rischio di piogge intense, seppur con accumuli precipitativi simulati non particolarmente preoccupanti. Il flusso in medio-bassa troposfera lineare e particolarmente intenso andrà a sfavorire un regime di blocked-flow con le celle che scivoleranno rapidamente verso l'Appennino e interno Toscano. Qualche rischio maggiorato è presente sulla Toscana, dove il flusso in bassa troposfera sarà più contenuto e potrà lasciare spazio e brevi back-building. Per quanto riguarda le piogge intense, rischi maggiori saranno presenti tra Alto Piemonte e Lombardia nella zona dei Laghi. ICON/ECMWF simulano un evento potenzialmente intenso, con piogge cumulate nell'arco di 36-48h localmente superiori a 250-300mm. La cumulata sarà un mix stratiforme-convettivo lasciando spazio anche a veloci temporali di intensità non trascurabile, specie nel primo pomeriggio di giovedì. L'area più interessante del setup saranno le alte pianure di Lombardia e Veneto/Friuli. Seppur in un contesto potenzialmente nuvoloso, il setup risulterà , dal punto di vista termodinamico e cinematico, particolarmente intenso. L'ambiente sarà termodinamicamente molto instabile con MuCAPE localmente &gt;2.5-3KJ/kg e ben disposto a nord di una modesta dry-line Appenninica. La localizzazione del boundary presenta buona confidenza in ICON/ECMWF con i massimi di convergenza tra Lombardia orientale e Veneto centrale e sul basso Piemonte. Le celle evolveranno rapidamente verso ENE all'interno di un flusso via via più teso a tutte le quote. L'aumento del DLS sarà marcato con valori, che in serata, supereranno i 27-30ms ( 0-6km) e 10-12ms ( 0-1km). Supercelle e multicelle sono possibili. Una finestra temporale ridotta per celle particolarmente intense è presente, ad ora, sul Veneto centrale lungo il boundary tra la dry-line  e il flusso sinottico da SE in risalita e tra Piemonte e Lombardia lungo la dry-line ed eventuali cold pool in uscita da Nord. In queste zone saranno massimizzati i valori di shear compositi con SCP/STP/EHI su soglie rilevanti. 1-2 tornado sono probabili. In generale, però, le zone con più probabilità saranno le fasce di alta pianura dal Piemonte fino al Friuli orientale. I massimi di thetaE e gli shear vectors orientati verso ENE favoriranno più ondate di temporali su queste zone. Saranno possibili grandinate di medio diametro ( 4-6cm) con locali diametri maggiori, raffiche di vento localmente severe e piogge intense. L'analisi analog mostra però qualche fail mode. Il flusso forte unidirezionale da SW non sempre permette alla celle di svilupparsi lungo il boundary della dry-line spostando gli sviluppi molto rapidamente lungo l'alta pianura (WRF-ICON). La presenza di aria mite in alta troposfera in entrata da SW potrebbe risultare in stratificazioni spesse con notevole inibizione. La presenza di un BL piuttosto limitato in estensione potrebbe favorire molte celle, ma piuttosto piccole ( EPS-ICOND2 con helicity tracks numerose ma poco estese e durature). Di contro, la presenza di MuCAPE=SBCAPE , suggerisce la presenza di una massa instabile non solo grazie allo strato superficiale, con  PWAT&gt;40-42mm e DLS teso sono buoni indicatori per downbursts particolarmente intensi.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--f8fb3562c8ba7dd8fba96832281c76df71f3cd28/tend_20_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--f8fb3562c8ba7dd8fba96832281c76df71f3cd28/tend_20_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Tue, 18 Aug 2026 19:33:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3496</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3496</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Diego Bellotti
+
+Aggiornato il: 18 agosto 2026, 15:35
+
+Sul dominio di previsione l'onda depressionaria che interessa le regioni del centro-sud migrerà verso il mar Libico isolandosi in cut-off e, contestualmente, si assisterà ad un aumento della pressione atmosferica segnatamente sulle regioni centro-meridionali. Al Nord  l'aumento della pressione risulterà temporaneo poiché già dalle ore serali e della notte successiva si avrà lo sviluppo di temporali localmente forti in primis tra medio-alto Piemonte, Lombardia e Trentino. In tal contesto, viene posto un Livello 1 per possibili grandinate fino a 5-6cm e forti raffiche di vento convettive.
+DISCUSSIONE
+Un promontorio anticiclonico sub-tropicale si erge con un maggiore interessamento delle regioni centrali dove prevarrà la stabilità per l'effetto di subsidenza. Al Nord, nella seconda metà della giornata, inizieranno a dominare dei tesi flussi sud-occidentali con l'inserimento di una rapida onda corta che potrà fungere da innesco dinamico, unitamente alle forzanti orografiche, per lo sviluppo di convezione localmente intensa. Sull'area che va dal medio-alto Piemonte al Trentino sussistono le condizioni per temporali forti; tuttavia vi è una scarsa confidenza dalle simulazioni LAM che individuano alti LFC (&gt;1500m) ed un moderato entrainment tra i 600 e 450hpa, motivo per cui è stato deciso di limitare la probabilità ad un livello 1. Nonostante questo, alcuni temporali anche forti sono probabili lungo l'arco Alpino e le pedemontane tra Piemonte, Lombardia e Trentino con sistemi organizzati in multicelle e isolate supercelle dato l'ambiente con DL shear 0-6km localmente &gt;20m/s e un directional shear nei bassi strati prodotto da una ventilazione meridionale di marino. Profili inverted-V suggeriscono la possibilità per intense raffiche di vento convettive (90-100km/h) e grandine media-grossa, con isolati chicchi fino a 5-6cm in presenza di supercelle. Nella nottata successiva (giovedì 20 agosto) i temporali evolveranno verso il Trentino e marginalmente sulle Dolomiti Venete senza provocare della fenomenologia significativa, prima di un nuovo e più importante peggioramento delle condizioni meteorologiche.
+Un Livello 0 è stato posto sulla Liguria per la possibile formazione di convezione surface-based nel corso della giornata. Si evidenzia la possibilità per trombe marine anche con approdi alla terraferma lungo dei boundary orografici favorite da un CAPE 0-3km &gt;200J/kg.
+Al NE viene esteso il livello 0 per qualche temporale di natura multicellulare tra il pomeriggio- sera specialmente lungo le zone Prealpine tra Veneto e Friuli con la risalita di un BL umido dal mar Adriatico. Possibili piogge, grandinate di piccolo diametro (anche con accumulo) e a rinforzi del vento.
+Convezione ad evoluzione diurna è prevista anche lungo le aree interne appenniniche della Calabria e Sicilia.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--f819ba802acf7974186e2ca14397a9ae737cd315/19-08-2026.jpg" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--f819ba802acf7974186e2ca14397a9ae737cd315/19-08-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Tue, 18 Aug 2026 15:35:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3495</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3495</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Gabriele Bentivoglio
+
+Aggiornato il: 17 agosto 2026, 13:22
+
+Prosegue lo spostamento verso sud-est dell'onda corta associata all'instabilità del giorno precedente, mentre aumenta la pressione in quota a partire dal nord-ovest.
+Viene emesso un livello 1 sul Basso Tirreno per temporali in propagazione verso sud nel corso delle prime ore del mattino. A ridosso delle coste settentrionali della Sicilia e occidentali della Calabria i temporali potranno essere più forti, con raffiche di vento intense e possibili trombe marine fra la notte e le prime ore del mattino.
+Il livello 1 comprende anche le aree interne del centro-sud per temporali localmente anche intensi nel primo pomeriggio, con associata grandine di piccole dimensioni e raffiche di vento.
+Un più ampio livello 0 comprende la catena appenninica e le aree interne di Sardegna e Corsica per temporali più sporadici e meno intensi. Non si escludono temporali neanche nelle aree di confine con l'Austria sulle Alpi orientali, per cui anche qui viene emesso un livello 0.
+DISCUSSIONE
+I fenomeni che interesseranno il basso Tirreno già dal termine del giorno precedente, continueranno ad estendersi verso sud ad interessare anche le aree costiere di Calabria e Sicilia settentrionale.
+L'instabilità qui sarà particolarmente elevata, con valori di CAPE che potrebbero raggiungere punte di 4000 J/Kg. Sono attesi sistemi multi-cellulari, con associate precipitazioni intense e forti raffiche di vento lineari sul mare e sulle aree costiere. Inoltre, considerando l'instabilità nei bassi strati e i valori medio-alti di LLS 0-1 km e SRH 0-3 km (&gt; 300 m^2/s^2) si ritiene probabile la formazione di trombe marine a ridosso delle coste, specialmente della Sicilia settentrionale.
+A partire dal primo pomeriggio a ridosso dei rilievi del centro-sud è attesa la formazione di temporali isolati, con possibili grandinate di piccole dimensioni. Questi fenomeni potranno essere localmente insensi, specie al sud, dove l'instabilità atmosferica sarà maggiore, motivo per cui queste aree vengono comprese nel livello 1, sia pure con una minor intesità attesa rispetto ai temporali sul basso Tirreno.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--8d242c8279ea6e183ceb149f101e866d965f18e3/18_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--8d242c8279ea6e183ceb149f101e866d965f18e3/18_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Mon, 17 Aug 2026 13:22:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3494</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3494</guid>
+      <description>Pericolosità: Pericolosità 2
+
+Previsore/i: Michele Tonnini
+
+Aggiornato il: 16 agosto 2026, 15:47
+
+Nella giornata di lunedì, il transito di un’onda depressionaria lungo il bordo orientale dell’anticiclone nord africano determinerà un marcato aumento dell’instabilità convettiva su gran parte del dominio previsionale.
+Viene emesso un livello 2 di pericolosità su parte del NE, la Slovenia, l’Istria, parte della Croazia e in generale l’Alto Adriatico per il transito in serata di una struttura multicellulare lineare (QLCS) che potrà determinare diffusi ed intensi downburst con raffiche localmente superiori ai 100 km/h. Oltre alle raffiche convettive, il livello è valido anche per le piogge intense (&gt; 30mm/1h) e la grandine localmente di medie dimensioni (3-4cm).
+Viene emesso un ampio livello 1 di pericolosità sulla gran parte rimanente del dominio previsionale, ad eccezione dell’estremo NW, l’estremo Sud e le due Isole Maggiori, per la possibilità di temporali forti ma più circoscritti. Il livello è valido per la possibilità di piogge intense, grandine localmente di medie dimensioni (più probabile lungo tutto l’Appennino) e raffiche di vento localmente &gt; 60-70 km/h.
+Infine viene emesso un livello 0 di pericolosità su tutte le altre zone per la possibilità di qualche fenomeno convettivo generalmente non intenso, associato a piogge concentrate (&lt; 20mm/1h) e a qualche grandinata di piccole dimensioni (&lt; 2cm).
+DISCUSSIONE
+… livello 2 …
+Il transito dell’onda depressionaria atteso nella seconda parte della giornata sarà accompagnato dall’ingresso di vorticità positiva in quota e dal passaggio di una struttura frontale a carattere freddo nei bassi strati, in discesa dalle Alpi e diretta verso i Balcani.
+Nel corso della serata prenderà vita una struttura multicellulare lineare che, dalle Prealpi venete e friulane, si muoverà con direzione NW/SE verso le basse pianure delle rispettive regioni ed infine, nel corso della tarda serata/nottata, arriverà ad interessare anche la Slovenia, l’Istria e parte della Croazia.
+L’ambiente termodinamico sarà caratterizzato da valori di ML-CAPE fino a 2000 J/kg e da valori di LI negativi (fino a -4/-5°C), indicazioni di un’atmosfera particolarmente instabile e favorevole allo sviluppo di intensi moti convettivi. Il DLS 0-6km sarà compreso mediamente tra i 15 e i 20 m/s, mentre l’SREH 0-3km è previsto su valori attorno ai 100 m2/s2.
+Alla luce di ciò, si ritiene che lo storm mode prevalente sarà quello di natura multicellulare; tuttavia, non si può escludere all’interno del QLCS la formazione di una o due supercelle, anche in considerazione dei valori non trascurabili del wind shear.
+La presenza nei medi-bassi strati di un ambiente particolarmente caldo e molto ricco di umidità (DP &gt; 20°C e PWAT &gt; 40mm) lascia intendere la possibilità di intensi downburst, accompagnati da nubifragi e raffiche di vento che localmente potranno superare i 100 km/h.
+Dati i valori di elicità piuttosto bassi e i gradienti termici verticali poco pronunciati, oltre alla presenza di strati particolarmente umidi nei medi livelli della troposfera, si ritiene molto bassa la probabilità di grandine grossa. Tuttavia, nel caso di formazione di supercelle, non sono da escludere isolate grandinate fino a 5-6cm di diametro.
+… livello 1 …
+Al mattino e fino al primo pomeriggio saranno possibili alcuni temporali sull’Alto Tirreno, che dal mare potrebbero sconfinare tra lo spezzino ed il livornese. Anche questi temporali si formeranno in un ambiente molto instabile e particolarmente favorevole ad intensi moti convettivi e, pertanto, potranno risultare intensi e dar luogo a nubifragi, raffiche di vento e frequenti fulminazioni. Non è da escludere che questi fenomeni possano persistere sulle medesime zone anche per diverse ore e determinare, localmente, cumulate fino a 80-100mm nell’arco di 6 ore, questo a causa delle convergenze che si andrebbero a creare tra i venti in mare, in particolare tra un vento da S e uno da SW.
+A partire dalle ore centrali, dopo una mattinata complessivamente soleggiata, cominceranno ad attivarsi per sollevamento orografico anche i primi temporali su gran parte dell’Appennino centro-settentrionale, i quali tenderanno ad intensificarsi e a spostarsi rapidamente verso il versante adriatico, seguendo le correnti occidentali in quota.
+Nel corso del pomeriggio transiterà in quota un nucleo di vorticità positiva tra Toscana, Romagna, Marche, Umbria, Lazio e Abruzzo, che tenderà ad inasprire i moti convettivi. Anche in questo caso, l’ambiente termodinamico sarà caratterizzato da valori elevati di ML-CAPE (localmente &gt; 2000 J/kg) e da valori negativi di LI (-5/-6°C). Valori elevati di PWAT (&gt; 40mm) e di DP &gt; 20°C suggeriscono la possibilità di nubifragi e forti raffiche di vento, in particolare tra la fascia medio-basso collinare e costiera di Marche e Abruzzo. Non è da escludere, inoltre, anche qualche grandinata di medie dimensioni, specie in Appennino.
+I valori di shear saranno piuttosto contenuti, tra i 10 e i 15 m/s, pertanto lo storm mode prevalente sarà quello a cella singola o al più multicellulare. Essendo meno pronunciata la forzante sinottica rispetto che al NE e mancando una vera e propria struttura frontale, la fenomenologia potrà risultare sì intensa ma più circoscritta e meno diffusa rispetto al transito frontale atteso al NE in serata.
+Nel corso della sera, l’instabilità convettiva tenderà a raggiungere anche le regioni meridionali, con i fenomeni più intensi attesi sul Basso Tirreno. Anche in questo caso, i rischi maggiori riguarderanno le piogge intense e le raffiche di vento.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYzNywicHVyIjoiYmxvYl9pZCJ9fQ==--d90c46b0a6f4710b7a381af01a480d2d093d28b2/mappa_17-08-2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYzNywicHVyIjoiYmxvYl9pZCJ9fQ==--d90c46b0a6f4710b7a381af01a480d2d093d28b2/mappa_17-08-2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 16 Aug 2026 15:47:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3493</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3493</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Giorgio Rotunno
+
+Aggiornato il: 15 agosto 2026, 16:58
+
+Da domenica 16 agosto aumenterà gradualmente l’instabilità, con temporali inizialmente più probabili sulle Alpi occidentali e marittime, sull’Appennino settentrionale e più localmente sui rilievi alpini e prealpini nord-orientali.
+Temporali termoconvettivi (o pomeridiani) potranno svilupparsi in corrispondenza delle zone interne montuose della Sardegna, sull'Appennino centrale e meridionale: su queste aree è stato posto un livello 1 di pericolosità per possibili fenomeni localmente forti, accompagnati da raffiche di vento e grandine di medie dimensioni (sui 3-4 cm di diametro), occasionalmente anche con chicchi più grandi ≥5 cm.
+Nel corso del pomeriggio e la serata l’instabilità aumenterà anche al nord-ovest, con possibili temporali forti tra Piemonte, Brianza e la Bergamasca, dove saranno possibili grandinate, limitatamente alla fascia pedemontana e sui rilievi con chicchi di medie-grandi dimensioni (fino a 5-6 cm di diametro) e raffiche di vento convettive (fino a 90-100 km/h).
+Un livello 1 interessa inoltre il Mar Ligure e i settori costieri, dove tra domenica notte e soprattutto le prime ore di lunedì potranno organizzarsi temporali più estesi, con rischio soprattutto forti raffiche di vento lineari (downburst).
+DISCUSSIONE
+Una leggera flessione dei geopotenziali andrà a configurarsi nel corso della giornata di domenica, iniziando dai settori nord-occidentali, dove dei moti convettivi a innesco prevalentemente orografico potranno svilupparsi a ridosso delle Alpi occidentali e marittime, con un possibile coinvolgimento diretto anche dei rilievi liguri occidentali prossimi al livello del mare.
+Nel corso del pomeriggio, ulteriori temporali di tipo pulse-storm e/o clusters multicellulari potranno innescarsi lungo l'Appennino settentrionale e localmente sui settori alpini e prealpini di Lombardia, Trentino-Alto Adige, Bellunese e FVG.
+... aree appenniniche ...
+In maniera piuttosto circoscritta, fenomeni di termoconvezione diurna saranno inoltre probabili sui massicci montuosi interni della Sardegna, lungo l'Appennino centrale e meridionale e nelle aree interne della Sicilia.
+Su questi settori è stato posto un livello 1 per la possibilità di temporali localmente forti, capaci di produrre intense raffiche di vento e rovesci grandinigeni con chicchi di medie dimensioni (3-4 cm), senza escludere episodi puntuali con diametri ≥5 cm. Le aree maggiormente interessate potrebbero risultare i settori montuosi dell'Appennino sannita e campano, quelli compresi tra Toscana, Umbria e Marche e la Barbagia, nell'entroterra della Sardegna, compreso l’Appennino Calabro.
+In serata e nel corso della notte, il calo dei geopotenziali diverrà più marcato da nord-ovest verso latitudini progressivamente più meridionali, interessando il Mar Ligure e parte dell'Alto Adriatico.
+... evoluzione serale per il NW ...
+L'approfondimento della struttura depressionaria diverrà più evidente durante le ore notturne e nelle prime ore di lunedì 17 agosto.
+In tale contesto è atteso un incremento del DLS 0-6 km, con valori superiori a 15-18 m/s. La convezione, inizialmente localizzata sui rilievi, tra il tardo pomeriggio e la serata domenicale potrebbe propagarsi verso i settori pedemontani e pianeggianti piemontesi, dal Cuneese al Torinese.
+Su queste aree potranno instaurarsi boundary di convergenza tra cold pool preesistenti e correnti sud-occidentali di Libeccio in ricaduta tra l'Appennino Ligure e le Alpi Marittime. Condizioni favorevoli allo sviluppo convettivo saranno presenti anche sulle aree pedemontane della Brianza e della Bergamasca.
+I quantitativi di MU CAPE, in prossimità dell'arco alpino centrale, tenderanno localmente a superare i 3000 J/kg. In presenza di un'adeguata sovrapposizione tra instabilità e shear verticale, saranno quindi possibili temporali localmente forti, capaci di produrre grandinate di medie o grandi dimensioni, con chicchi puntualmente ≥5-6 cm di diametro, e intensi downburst, associati a raffiche massime di vento ≥90-100 km/h.
+... Mar Ligure e rispettivi settori costieri ...
+Di minore rilievo, principalmente a causa della bassa probabilità di innesco, sarà la possibile presenza di un debole minimo orografico alla mesoscala davanti al Golfo di Genova già dal primo mattino di domenica.
+Tale configurazione potrebbe favorire la formazione di linee di convergenza in mare aperto, lungo le quali non si esclude lo sviluppo di sistemi temporaleschi multicellulari, localmente organizzati alla mesoscala.
+I modelli ad area limitata evidenziano alcuni segnali convettivi durante la mattinata, seppure in un contesto caratterizzato da una maggiore inibizione temporalesca, con una colonna d'aria ancora relativamente calda alle quote medio-alte.
+Uno scenario differente potrebbe invece configurarsi dalle prime ore di lunedì 17 agosto, ormai al limite della scadenza previsionale considerata, quando aumenterà la probabilità di temporali forti e organizzati alla mesoscala sul Mar Ligure, con un possibile successivo coinvolgimento dei settori costieri.
+Un livello 1 è stato pertanto posto per il rischio di forti raffiche di vento e grandinate di medie dimensioni, con chicchi generalmente nell'ordine dei 3-4 cm.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--777c481555c0127997a295dc9d60af8f2b31056a/16_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--777c481555c0127997a295dc9d60af8f2b31056a/16_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Sat, 15 Aug 2026 16:58:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3492</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3492</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Pier Luigi Trudu e Daniele Nigro
+
+Aggiornato il: 14 agosto 2026, 12:28
+
+Nella giornata di sabato instabilità convettiva a evoluzione diurna interesserà diverse porzioni del dominio previsionale. Temporali in prevalenza isolati o poco organizzati interesseranno le Alpi Occidentali e Centrali, le zone interne di Sardegna, Corsica, Calabria e Sicilia, dove sarà valido un livello di pericolosità 1 per piogge eccessive e possibili downburst. Un livello 0 sarà valido per grandine di medio-piccole dimensioni. Più ampi livelli 0 saranno validi per la stessa fenomenologia ma con minori probabilità.
+DISCUSSIONE
+...Sud e Isole...
+Sulle Isole e al Sud, la convezione si svilupperà a partire da convergenze date dalla prevalente circolazione di brezza e dal sollevamento orografico. L'assenza di un deciso flusso in quota e lo shear in prevalenza debole &lt;10 m/s propende per convezione isolata o comunque poco organizzata in ambiente con valori energetici ancora elevati, con massimi di MLCAPE sino a 2000 J/kg. Sono previsti PBL secchi che aumentano la probabilità di avere intense raffiche di vento lineari e possibili downburst.
+...Alpi...
+Sul nord-ovest è previsto un debole flusso umido occidentale nei medi livelli in un ambiente simile a quello descritto in precedenza ma con valori energetici inferiori. Si avrà pertanto convezione orografica pseudo organizzata con locali piogge eccessive, possibili downburst e grandine di piccole dimensioni.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--22e1255703b3eccf7c8a6d21815a1f67a8a08102/15_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--22e1255703b3eccf7c8a6d21815a1f67a8a08102/15_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Fri, 14 Aug 2026 12:28:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3491</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3491</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Nicola Carlon
+
+Aggiornato il: 13 agosto 2026, 13:28
+
+Sul Paese continua a dominare l'anticiclone tropicale con prevalente stabilità. Tuttavia sarà possibile della locale instabilità diurna anche intensa specie al Sud Italia tra Calabria, Sicilia orientale oltre che nelle zone interne di Sardegna e Corsica e sulle Alpi occidentali.
+I temporali, perlopiù isolati/locali potranno determinare locali intense piogge concentrate e downbursts motivo per cui è stato emesso un livello 1 di pericolosità; localmente sarà possibile osservare anche della grandine ma generalmente di diametro medio-piccolo.
+DISCUSSIONE
+...Sud Italia...
+Aria leggermente più fresca dai Balcani in quota favorirà della locale instabilità tra Puglia, Basilicata, Calabria e Sicilia tra il pomeriggio e il tramonto. Un sufficiente windshear (fino a 10m/s) e elevati valori di ML CAPE (anche oltre 2kJkg) renderanno possibili localmente fenomeni intensi specie per forti piogge concentrate e downbursts; l'assenza di flussi in quota e lo scarso windshear renderà i temporali poco mobili. Possibile qualche grandinata medio-piccola.
+Fenomeni in esaurimento entro il tramonto.
+...Sardegna, Corsica e Alpi di NW...
+Anche su queste zone si attende un aumento dell'instabilità dal pomeriggio con temporali generalmente di natura pulse storm in possibile locale evoluzione multicellare specie sulle Alpi. L'atmosfera avrà caratteristiche molto simili a quanto appena discusso per il Sud Italia; probabilmente su queste zone si avranno valori ancora più bassi di windshear e di CAPE sulle zone alpine di NW. Localmente i temporali potranno determinare intense piogge concentrate, downbursts e grandine piccola.
+Anche su queste zone il rischio di fenomeni tenderà a scemare dopo il tramonto.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--808372199ebcccc472049c048d0ae3dd33713248/14_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--808372199ebcccc472049c048d0ae3dd33713248/14_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Thu, 13 Aug 2026 13:28:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3490</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3490</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Pierluigi Randi
+
+Aggiornato il: 12 agosto 2026, 16:06
+
+Un relativo e residuo cut-off termico in quota evolverà verso le regioni meridionali, favorendo ancora l’innesco di temporali localmente intensi, principalmente sulle aree interne e appenniniche del Sud e Sicilia laddove varrà un Livello 1 di pericolosità. Su queste zone saranno possibili alcuni forti downburst e grandinate con chicchi fino a medie dimensioni.
+DISCUSSIONE
+...Livello 1...
+Su queste zone non si escludono temporali anche severi tra il pomeriggio e la sera, favoriti dal transito del cut-off termico sebbene in fase di indebolimento per il proprio incedere in un lago di geopotenziali ancora piuttosto elevati. Manterrà comunque un elevato gradiente termico verticale associato a una modesta componente dinamica.
+L’instabilità potrà contare su forti anomalie positive delle temperature superficiali marine che indurranno MLCAPE &gt;2500J/kg. Nonostante un’attenuazione della precedente forzante dinamica, l'orografia, parametri d’instabilità e il persistere di aria leggermente più fredda in media troposfera potranno risultare ancora sufficienti a organizzare la convezione. L’ulteriore indebolimento dei parametri di shear tenderà a favorire strutture meno complesse rispetto alle giornate precedenti, ma ugualmente in gradi di evolvere in cluster anche estesi e locali strutture lineari lungo boundary di basso livello tra le circolazioni inerenti le brezze e i cold pools/outflow boundary delle prime celle appenniniche. Lo scarsa dinamicità dei sistemi potrà provocare forti piogge concentrate con accumuli localmente anche di rilievo, grandinate con chicchi fino a 3-4 cm e forti downburst. La fenomenologia sarà in genere pomeridiana fino alle prime ore della serata e tenderà ad estendersi fino alle coste tirreniche e a parte del comparto pugliese occidentale. Non da escludere a priori fenomeni vorticosi come trombe marine sulle coste o landspout sulle aree di pianura (livello 0), anche se shear ed elicità sono previsti alquanto modesti.
+...Livello 0...
+Nelle aree indicate da un Livello 0 sono previsti dei temporali pomeridiani in genere del tipo celle singole o pulse storm orograficamente indotti, con una maggiore probabilità sull’arco alpino occidentale e sulle zone interne di Corsica e Sardegna. Saranno associate forti ma brevi piogge concentrate, qualche grandinata di piccole dimensioni e colpi di vento convettivi.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYzMywicHVyIjoiYmxvYl9pZCJ9fQ==--4873e6685050bc222e37e2fda6e79d84fd582a79/13_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYzMywicHVyIjoiYmxvYl9pZCJ9fQ==--4873e6685050bc222e37e2fda6e79d84fd582a79/13_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Wed, 12 Aug 2026 16:06:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3489</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3489</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Diego Bellotti
+
+Aggiornato il: 11 agosto 2026, 21:04
+
+La goccia fredda in quota si muoverà verso le regioni centrali con la formazione di temporali localmente di forte intensità, principalmente tra le Alpi Lombarde, la Liguria di Levante, Toscana, Lazio e Sardegna orientale evidenziate in un Livello 1 di pericolosità. Su queste zone saranno possibili alcuni forti downburst e delle grandinate di 3-5cm.
+DISCUSSIONE
+...Livello 1...
+Su queste zone sono possibili dei temporali anche forti tra il pomeriggio e la sera.
+Il cut-off in quota evolverà verso SSE e andrà gradualmente in assorbimento da parte della prevalente figura anticiclonica di natura sub-tropicale.
+Sulla Sardegna i temporali si potranno formare già dalla tarda mattinata con una elevata instabilità potenziale derivante anche dalle anomale SSTs del Mar Mediterraneo occidentale e del Tirreno (MLCAPE &gt;2500J/kg). Al piano isobarico di 500 e 300hpa si avrà una lieve accelerazione della corrente a getto che andrà a costituire una modesta forzante dinamica unitamente alla forzante fornita dell'orografia e all'entrate di aria leggermente più fredda in media troposfera (isoterme a -12/-13°C). Contestualmente, si prevede un Bulk shear 0-6km in aumento localmente fino a 20m/s. Questo potrebbe suggerire la possibilità di avere multicelle ma anche 1-2 supercelle transienti capaci di provocare grandine fino a 5cm e intense raffiche di vento convettive.
+Le regioni della Liguria di Levante, Toscana e Lazio settentrionale vedranno l'innesco della convezione lungo un boundary tra una circolazione delle brezze da WNW e un vento in rientro da E. Lo storm-mode, dato anche un windshear scarso, si manterrà di tipo multicellulare con sistemi organizzati in linee di groppo semi-stazionarie che potranno scaricare piogge persistenti, grandinate tra 2-4cm di calibro e forti downburst.
+Anche sulla sezione delle Alpi Lombarde centro-orientale si prevedono dei temporali anche forti nel pomeriggio ma specialmente alla sera quando potrebbero svilupparsi numerosi temporali anche all'interno delle aree vallive. Lo stato dei BL del pomeriggio saranno propensi soprattutto a forti raffiche di vento di origine convettive e occasionali grandinate, mentre nella sera, con la convezione che diverrà elevata, aumenterà il rischio per piogge persistenti specie considerando un debole flusso sottovento da N che potrà favorire una lenta rigenerazione delle celle.
+...Livello 0...
+Nelle aree contrassegnate da un Livello 0 sono previsti dei temporali pomeridiani organizzati prevalentemente a cella singola e/o celle pulsanti. Sul NE, durante il pomeriggio, non si esclude qualche sconfinamento dei temporali fino all'alta pedemontana Veneta adiacente alle Prealpi.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--cb9eebb0271867c8941082534cf370b2a92a0993/12-08-2026.JPEG" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--cb9eebb0271867c8941082534cf370b2a92a0993/12-08-2026.JPEG" type="image/jpeg" length="0"/>
+      <pubDate>Tue, 11 Aug 2026 21:04:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3488</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3488</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Diego Bellotti
+
+Aggiornato il: 10 agosto 2026, 17:33
+
+Nella giornata in esame le condizioni meteorologiche risulteranno prevalentemente dominate da un esteso anticiclone di matrice sub-tropicale. Il regime di stabilità avrà un maggiore effetto al centro-sud su buona parte dei settori costieri e di pianura, mentre sul Nord Italia l'atmosfera si presenterà più instabile.
+Un Livello 1 è stato emesso sull'arco Alpino, le medio-basse pianure del Piemonte, il NE e e l'Appennino centro-settentrionale per intense raffiche di vento convettive e grandinate fino a 4-6cm di diametro.
+Le restanti zone a livello 0 saranno affette da temporali localmente intensi ma che avranno una ridotta probabilità per i rischi annessi al livello 1.
+DISCUSSIONE
+...Livello 1...
+Il N italia sarà più vulnerabile dall'azione dell'Upper Level Low sulla Francia che trasporterà alcuni nuclei di vorticità potenziale unitamente ad un lieve abbassamento dell'isoterma a 500hpa (fino a -11°C). Questa commistione favorirà un incremento dell'instabilità verticale a partire dal pomeriggio con i primi inneschi alla convezione lungo i rilievi. Durante la serata, i temporali anche forti potranno propagarsi sui territori del medio Piemonte e sulla media-Alta pianura Veneto-Friulana.  Gli aspetti cinematici, su tutta l'area considerata a livello 1 di pericolosità, saranno scarni con un DLS 0-6km tra 5-10m/s, tuttavia l'elevata instabilità presente (MLCAPE &gt;2000-2500J/kg) e l'entrata di aria leggermente più fredda potranno compensare a questo con la possibilità di grandinate fino a 4-6cm in presenza di iniziali forti ed isolati updraft prima della genesi di nuova convezione dai cold pool che andrebbero potenzialmente a costituire un sistema alla Mesoscala (MCS) o molteplici clusters con un minor rischio grandinigeno e un maggior rischio per piogge consistenti con possibili locali criticità(Livello 0). Inoltre, sono possibili delle intense raffiche di vento convettive (&gt;=100km/h) per profili termodinamici caratterizzati da una depressione dei valori di Dew Point con LCL anche sopra i 2000m di altezza.
+...Livello 0...
+Un Livello 0 viene esteso sulle restanti zone del Nord per possibili temporali a cella singola nella seconda metà della giornata con una ridotta probabilità di fenomeni intensi in quanto sarà presente uno strato di inibizione con LFC alti. Questo potrebbe impedire lo sviluppo di convezione intensa poichè non sarà presente una forzante dinamica strutturata.
+Contestualmente, alcuni temporali ad evoluzione diurna si formeranno lungo i rlievi appenninici del Centro-Sud incluse le aree interne delle due isole maggiori con possibili grandinate di 1-2cm e raffiche di vento.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--ad4836d15374191bb5cd3146de1775ae2ebaf27f/11-08-2026.jpg" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--ad4836d15374191bb5cd3146de1775ae2ebaf27f/11-08-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Mon, 10 Aug 2026 17:33:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3487</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3487</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Nicola Carlon
+
+Aggiornato il: 9 agosto 2026, 09:54
+
+L'anticiclone africano continuerà ad interessare il Paese, tuttavia la presenza di una goccia fredda sulla Francia determinerà un lieve calo del geopotenziale specie al Nord-Ovest capace di favorire qualche temporale lungo le Alpi, in particolare tra Piemonte e Valle d'Aosta ma anche sulle Alpi Centro-Orientali specie sui settori più interni. Anche lungo la catena appenninica sarà possibile qualche temporale diurno ma si tratterà perlopiù di fenomeni isolati.
+Un livello 1 è stato emesso lungo le Alpi per possibili forti piogge concentrate, grandine fino a medio diametro (specie al Nord-Ovest) e possibili downbursts.
+DISCUSSIONE
+...Nord Italia...
+Dal pomeriggio temporali sparsi saranno in sviluppo dalle Alpi interne. Si tratterà perlopiù di temporali pulse storm in locale evoluzione in multicelle. I flussi in quota saranno scarsi come anche il windshear, al più fino a 10 m/s, mentre i valori di MLCAPE potranno raggiungere i 2500 J/kg. I temporali avranno dunque a scarsa mobilità e potranno determinare intense piogge concentrate e downbursts. Inoltre specie sul Piemonte non si può  escludere qualche cella più intensa capace di generare qualche grandinata anche significativa, fino a 4-5cm di diametro. I temporali saranno perlopiù confinati alla catena alpina, tuttavia sul Piemonte sarà possibile l'estensione dei fenomeni anche localmente alle pianure, specie verso il Cuneese. Sul resto della Pianura Padana il rischio di sconfinamento dei temporali appare molto basso, tuttavia non si esclude completamente in serata/tarda serata tra Veneto e Friuli Venezia Giulia.
+...Appennino...
+Nel pomeriggio-sera sarà possibile qualche isolato temporale sulle zone interne in graduale esaurimento dopo il tramonto. Sarà possibile qualche pioggia abbondante locale, dei rinforzi del vento e della grandine generalmente di piccole dimensioni ma al momento non sussistono le condizioni per porre un livello 1 di pericolosità.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--b3c9c1ada3467f87d41279b6d207aed8941b72c6/10_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--b3c9c1ada3467f87d41279b6d207aed8941b72c6/10_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 09 Aug 2026 09:54:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3486</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3486</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Giorgio Rotunno
+
+Aggiornato il: 8 agosto 2026, 16:17
+
+Nel corso del pomeriggio saranno ancora possibili temporali localmente forti soprattutto sulle Alpi e Prealpi, dal Piemonte alla Lombardia fino al Trentino-Alto Adige e al NE Veneto sul Bellunese.
+In serata qualche forte temporale potrà spingersi verso le aree pedemontane e prossime alla pianura piemontese, con possibili grandinate e raffiche di vento di natura convettiva.
+I fenomeni potranno essere accompagnati da piogge intense, frequente attività elettrica, raffiche di vento e grandinate con chicchi di medie dimensioni (di 2-4 cm), o localmente anche superiori in presenza di temporali più organizzati sui settori alpini centrali.
+Temporali più isolati potranno svilupparsi anche lungo l’Appennino centrale e meridionale generalmente con minore diffusione, ma comunque potranno causare delle grandinate di medie dimensioni sui 2-4 cm.
+DISCUSSIONE
+Proseguiranno locali processi di termoconvezione diurna, limitati prevalentemente ai settori alpini e prealpini. In genere si tratterà di temporali ordinari organizzati in sistemi multicellulari, che potranno favorire rovesci di pioggia localmente intensi, anche a carattere grandinigeno, accompagnati da qualche raffica di vento.
+Data l’elevata energia potenziale disponibile in atmosfera, l’attività elettrica potrà risultare localmente intensa.
+... regioni settentrionali e Alpi ...
+I fenomeni di natura temporalesca si estenderanno nel corso del pomeriggio dalle Alpi Piemontesi alle Prealpi lombarde, fino al Trentino-Alto Adige e all’alto Bellunese risultando anche forti.
+Localmente potranno verificarsi grandinate con chicchi di medie dimensioni (2-4 cm di diametro), puntualmente anche superiori, specie in presenza di una convezione orografica più pronunciata.
+L’evoluzione sarà successivamente caratterizzata da un rapido miglioramento, con una progressiva dissipazione dei temporali nel corso della sera.
+Non escludendo solo tra il tardo pomeriggio e la serata una propagazione dei temporali organizzati in cluster multicellulari in direzione della fascia pedemontana piemontese (tra Cuneese, Canavese e Novarese), i temporali potranno causare forti raffiche di vento, accompagnate da grandine.
+... settori appenninici ...
+Analogamente, ma in forma più isolata, potranno svilupparsi temporali termoconvettivi anche sui settori appenninici centrali e localmente al meridione tra l'Appennino campano e quello calabro.
+Non si evidenziano tuttavia pericolosità di particolare rilievo, fatta eccezione per qualche rovescio piovoso localmente intenso, episodi grandinigeni di piccola o al più media dimensione (2-4 cm di diametro) e raffiche di vento.
+A fronte di ciò è stato posto nuovamente un livello di pericolosità 1.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYwNywicHVyIjoiYmxvYl9pZCJ9fQ==--0a3fa71ba2fb47e8052b07deb4b71ae694161248/09_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYwNywicHVyIjoiYmxvYl9pZCJ9fQ==--0a3fa71ba2fb47e8052b07deb4b71ae694161248/09_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Sat, 08 Aug 2026 16:17:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3485</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3485</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Daniele Nigro
+
+Aggiornato il: 7 agosto 2026, 15:31
+
+Nella giornata di sabato un promontorio nord africano occuperà ancora gran parte dell’Italia. Tuttavia nella prima parte della notte, il passaggio temporalesco, con storm mode prevalente multicellulare, interesserà le estreme regioni di nord-est, dove viene emesso un livello 1 di pericolosità, principalmente per downbursts. Il livello 1 viene esteso anche nelle pianure della Lombardia orientale e del Veneto per la possibile formazione di un cluster in tarda nottata, associate a grandine di piccole dimensioni e forti raffiche di vento, mentre nelle pianure del resto della Lombardia viene emesso un livello 0 per fenomenologia analoga, ma meno probabile.
+Durante le ore centrali avremo un aumento dell’instabilità pomeridiana sulle Alpi centro-orientali e su gran parte dell’Appenino. L’instabilità maggiore si avrà sull’Appennino centro-settentrionale, dove viene emesso un livello 1 per temporali prevalentemente a cella singola, ma associati a grandine di piccole o medie dimensioni (3-4 cm di diametro), mentre un livello 0 viene emesso sulle Alpi centro-orientali, sull’Appennino meridionale e sulle zone interne della Sicilia per convezione pomeridiana ordinaria.
+DISCUSSIONE
+---Nord-Est---
+Nella prima parte della notte si attende il passaggio di un debole ramo divergente della corrente a getto, che favorirà i moti ascensionali tra Veneto e Friuli Venezia Giulia, dove nelle prime fasi è presente un MLCAPE fino a 1500 J/kg e PWAT intorno ai 50 mm, unitamente a DLS intorno ai 15-20 m/s. Si formeranno dei temporali, prevalentemente multicellulari, con moto da ovest verso est. I profili termodinamici simulati prevedono localmente profili V-inverted, con LCL intorno agli 800 hPa, favorevoli allo sviluppo di qualche downburst (raffiche in generale &lt; 100 km/h).
+Nelle ore successive si avrà la formazione di qualche cella tra le pianure della Lombardia e del Veneto, favorite da un temporaneo aumento del DLS. Non è da escludere la formazione di un cluster multicellulare che nel caso causerà piogge intense concentrate, grandinate di piccole dimensioni con accumulo e localmente forti raffiche di vento.
+Nel pomeriggio è attesa termoconvezione ordinaria sulle Alpi centro-orientali.
+---Appennini---
+Sull’Appennino centro-settentrionale avremo spiccata instabilità pomeridiana, con valori di MLCAPE localmente &gt;2000 J/kg, fino a 300 J/kg nei primi 3 km. I profili termodinamici mostrano scarsa inibizione, quindi la convezione avverrà facilmente. I temporali saranno semi-stazionari, con possibilità di grandine fino a 3-4 cm di diametro e locali accumuli al suolo, e possibili piogge intense concentrate.
+Convezione pomeridiana avrà luogo anche sull’Appennino meridionale e in maniera isolata anche sulle zone interne della Sicilia, con fenomenologia generalmente meno intensa.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--0c14a36be850b7cdd99da512c510e8907996ee08/08_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--0c14a36be850b7cdd99da512c510e8907996ee08/08_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Fri, 07 Aug 2026 15:31:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3484</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3484</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Federico Negro
+
+Aggiornato il: 7 agosto 2026, 06:48
+
+*** Vengono estesi i livelli 0 e 1 tra Veneto, Friuli Venezia Giulia, Slovenia e Romagna; rimane invariato altrove***
+---
+Sull'Italia l'anticiclone subtropicale subisce un indebolimento a seguite di infiltrazione di aria fresca
+in alta quota. Saranno associati 2 piccole anomalie di vorticità potenziale positiva a 300-500 hPa con moto zonale. La prima tra tarda mattinata e primo pomeriggio riguarderà le Prealpi e le Alpi centro-orientali,
+la seconda tra sera e notte il nordovest italiano.
+Instabilità potenziale legata ad irraggiamento e aria fresca in quota produrrà temporali di calore sui principali rilievi appenninici a livello 0.
+Un livello 1 è stato emesso sull'Appennino centrale, dove saranno più probabili temporali isolati, a tratti forti con piogge stazionarie, grandine piccola e media e raffiche di vento.
+Un livello 1 è stato emesso per tutto l'arco alpino e il ponente ligure per isolati temporali con forti raffiche di vento, grandine fino a medie dimensioni e piogge intense stazionarie.
+DISCUSSIONE
+La discussione rimane pressoché invariata.
+Nicola Carlon
+07 ago 06:48
+· circa un mese fa
+TESTO BREVE
+Sull'Italia l'anticiclone subtropicale subisce un indebolimento a seguite di infiltrazione di aria fresca
+in alta quota. Saranno associati 2 piccole anomalie di vorticità potenziale positiva a 300-500 hPa con moto zonale. La prima tra tarda mattinata e primo pomeriggio riguarderà le Prealpi e le Alpi centro-orientali,
+la seconda tra sera e notte il nordovest italiano. Instabilità potenziale legata ad irraggiamento e aria fresca in quota produrrà temporali di calore sui principali rilievi appenninici a livello 0. Un livello 1 è stato emesso sul tratto ad altezza più elevata dell'appennino, dove saranno più probabili temporali isolati, a tratti forti con piogge stazionarie, grandine piccola e media e raffiche di vento. Un livello 1 è stato emesso per tutto l'arco alpino e il ponente ligure per isolati temporali con forti raffiche di vento, grandine fino a medie dimensioni e piogge intense stazionarie.
+DISCUSSIONE
+Alpi occidentali, ponente ligure
+In questa zona sarà presente DLS &gt;= 15 m/s e CAPE sui 1000-2000 J/Kg. Si ritiene che i temporali potranno
+avere maggiore organizzazione rispetto al resto di Italia con multicelle, specialmente nella seconda parte della giornata quando vi sarà un ingresso di correnti orientali nei bassi strati che potrebbe subire un lifting orografico ad opera dei rilievi. Qui si ritiene che prevarranno le raffiche di vento, anche per la presenza di profili inverted V, con valori fino a 100 km/h non esclusi. Qualche grandinata fino a medie dimensioni (3-5cm) sarà probabile, con alti LFC e CAPE concentrato nella fase mista. Altra zona di innesco saranno le Alpi Liguri e l'appennino ligure-emiliano, grazie alla convergenza tra brezza termica, forse incrementata da un minimo sinottico blando e di difficile localizzazione con le correnti orientali e settentrionali sui versanti padani. La presenza di odografi abbastanza da ovest, con una leggera curvatura nei bassi strati, potrebbe indicare una supercella right mover/multicelle che si muoverebbero verso la costa imperiese e savonese deviando a destra del level guide. Per tale motivo il livello 1 è stato esteso anche su queste zone.
+Prealpi e Alpi centro-orientali
+Convezione abbastanza diffusa dovrebbe propagarsi sulle Alpi orientali già dalla tarda mattinata. L'ambiente sarà a shear molto scarso e i temporali saranno in forma pulse storm e cluster. Si ritiene un maggior rischio piogge convettive rispetto al nordovest, vento meno intenso e grandine di dimensioni minori (più piccola). IL CAPE sulle Prealpi più abbondante potrebbe in parte sopperire a tutto ciò.
+Pianura Padana
+L'energia sarà maggiore rispetto ai rilievi, da 2000 J/Kg a ovest fino a 3000 J/Kg o superiore al nordest.
+Sarà presente tuttavia un'inversione termica sotto i 700 hPa, sebbene i geopotenziali tenderanno a calare a 850 e 950 hPa. I radiosondaggi mostrano uno strato umido verso i 700 hPa, ma strati più secchi al di sopra e al di sotto. I temporali potrebbero avere difficoltà a propagarsi producendo rapidamente raffiche di vento di outflow su estese zone, con convezione elevata e/o di breve durata. I momenti favorevoli alla propagazione in pianura sembrano essere per Il Piemonte già dal pomeriggio e per il resto della pianura padana verso le ore notturne (22-02 dell'8 Agosto), quando una corrente orientale di bora (più umida a ovest) potrebbe convergere con gli outflow alpini e generare convezione a macchia di leopardo sulle aree di pianura. Un livello 1 è stato esteso alle alte pianure, dove si ha una maggiore confidenza sullo sconfinamento di isolati temporali notturni, tuttavia lo storm mode è favorevole, specie a ovest, a una propagazione ulteriore verso sud. La bora dovrebbe inibire i temporali sulla pianura padana friulana. Oltre alle raffiche di vento saranno probabili grandine di piccole e medie dimensioni e forti piogge di breve durata.
+Appennino
+Su queste zone la convezione sarà legata alla converegenza delle brezze termiche e all'orografia. L'eccesso energetico potrà produrre temporali isolatamente forti, con maggiore probabilità sui rilievi più alti, ma non esclusi anche altrove, del tipo pulse storm con grandine piccola e media, forti piogge stazionarie  e forti raffiche di vento. Sconfinamenti prima del tramonto saranno probabili sui settori centrali tirrennici in direzione di colline e pianure.
+Emessa giovedì 6 Agosto 2026 ore 21:35 UTC&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--f80cdba3ae1af4ccaf6c58ca3da023fddb0ee0aa/Aggiornamento_07_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--f80cdba3ae1af4ccaf6c58ca3da023fddb0ee0aa/Aggiornamento_07_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Fri, 07 Aug 2026 06:48:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3483</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3483</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Pierluigi Randi
+
+Aggiornato il: 5 agosto 2026, 16:27
+
+Mentre la residua goccia fredda in quota (ULL) tenderà a portarsi sulla Sicilia indebolendosi, un parziale cedimento dell’altezza di geopotenziale in quota interesserà le regioni settentrionali, laddove affluiranno da ovest masse d’aria relativamente più fredde in media e alta troposfera. Entrambe le forzanti, sebbene con tempistiche leggermente diverse, potranno incrementare l’attività temporalesca. Si avrà quindi la possibilità per temporali, anche forti, sulle aree interne della Sicilia, su Alpi e Prealpi di nord-est con sconfinamenti possibili sulle pianure venere e friulane. Su queste aree varrà un livello 1 per grandine anche di medie dimensioni, forti raffiche di vento convettive e, sulle aree alpine, anche di piogge eccessive. Attività temporalesca meno organizzata potrà interessare il resto del Nord Italia ad esclusione delle coste emiliano-romagnole, l’intera fascia appenninica e le zone interne di Corsica e Sardegna con un livello 0 valido per grandine di piccole o medie dimensioni e forti raffiche di vento convettive. Sull’area padana centrale e occidentale la probabilità di fenomeni sarà alquanto bassa.
+DISCUSSIONE
+...Livello 1 Sicilia interna...
+La zona sarà interessata dal passaggio del relativo del cut-off termico in quota. A seguito di boundary di confluenza di basso livello tra la ventilazione entro lo strato limite continentale e quello costiero si avrù il trigger a partire dai rilievi e zone pedemontane giù nelle prime ore del pomeriggio. I valori di shear, incluso il DLS 0-6 km non oltre i 15 m/s, saranno modesti con innesco di strutture multicellulari di tipo cluster che si gioveranno di un ambiente ancora assai energetico MLCAPE (&gt;2500 J//kg) che in associazione a un incremento del gradiente termico verticale potranno sostenere grandinate anche di medie dimensioni (&gt;3 cm). Elevati valori di acqua precipitabile in rientro dalle zone marittime e DCAPE sostenuto renderanno possibili anche raffiche di vento convettive (wet downburst). Permane una relativa incertezza sull’effettiva tenuta del cut-off in movimento entro un vasto lago anticiclonico. Qualora dovesse andare incontro a precoce colmamento si avrà convezione più contenuta.
+...Livello 1 Nord-Est...
+L’attesa flessione del geopotenziale in quota in seno a un flusso occidentale debolmente ondulato con leggera componente ciclonica, fornirà un maggiore supporto dinamico allo sviluppo di temporali che esuleranno dalla sola forzante orografica. Un parziale incremento dei parametri di shear (DLS 0-6 km &gt;15 m/s) e un ambiente con MLCAPE fino a oltre 3000 J/kg per il rientro da ESE di flussi marittimi molto caldi e umidi, specie sulle pianure venete e friulane, potranno favorire l’innesco di cluster irregolari ma alquanto estesi sulle aree alpine prealpine, i cui cold pools o outflow boundary tenderanno e generare sistemi a multicella (QLCS) sulle pianure limitrofe. Un possibile incremento dello shear nei bassi livelli lungo confini tra flussi sud-orientali, circolazione entro lo strato limite padano e gli outflw boundary alpini non escludono a priori l’innesco di isolare supercelle (1-2) prima che la convezione si organizzi a scala più ampia (SCP fino a 2/3 su alto Veneto). Saranno possibili forti piogge concentrate su area alpina (non esclusi fenomeni di flash flood, sebbene molto localizzati, per gli elevati valori di CAPE e shear iniziale non eccessivo). Sulle zone prealpine e pianeggianti saranno più probabili grandinate e piccole o medie dimensioni (spesso &gt;3 cm) e intense raffiche di vento convettive. Non da escludere fenomeni vorticosi sulle coste (livello 0) del tipo waterspout.
+...Livello 0...
+Su queste aree i fenomeni si svilupperanno in un ambiente a shear scarso ma con CAPE comunque elevato date le alte temperature, sebbene con forzante dinamica modesta. Non si escludono piogge persistenti, grandine di 1-2 cm e raffiche di vento convettive con innesco essenzialmente orografico (cluster e pulse storm) e pomeridiano-serale. Sulle aree padane centro-occidentali la probabilità di temporali sarà comunque bassa ed eventualmente con celle isolate.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--4a245b215892bb6d47f4352cbf3c3ba29026ebb8/06_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--4a245b215892bb6d47f4352cbf3c3ba29026ebb8/06_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Wed, 05 Aug 2026 16:27:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3482</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3482</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Diego Bellotti
+
+Aggiornato il: 4 agosto 2026, 21:34
+
+La situazione a larga scala vede l'influenza di un anticiclone anomalo di matrice sub-tropicale, tuttavia sul fianco occidentale si farà strada una goccia fredda in quota (ULL), che rinnoverà e aumenterà la possibilità per temporali, anche forti  sulle aree orientali della Sardegna e la fascia appenninica centrale. Viene emesso un Livello 1 per grandine media e occasionalmente grossa (fino a 5cm di diametro) e intense raffiche di vento convettive.  Altri fenomeni temporaleschi sono attesi sul Nord Africa, il Mar Tirreno, la Corsica, l'intera fascia Alpina-Prealpina, senza escludere delle propagazioni dei temporali fino alle zone pedemontane Veneto-Friulane.
+DISCUSSIONE
+...Livello 1...
+L'area della Sardegna orientale verrà lambita dal perimetro occidentale del cut-off in quota con un isoterma più fredda a 500hpa (-10°C). Alla Mesoscala si andranno a instaurare delle convergenze tra il vento di Maestrale e un rientro da est unitamente all'azione della blanda forzante a scala sinottica in quota, evidenziabile anche da un rinforzo della corrente a getto a 300hpa( 30-35m/s) , che favoriranno gli inneschi per la convezione a partire dalle zone più vicine ai rilievi ad oriente tra tarda mattinata e il primo pomeriggio. I valori di  DLS 0-6km si manterranno tra 10-15m/s, suggerendo uno storm-mode principalmente multicellulare. Tuttavia, l'elevato MLCAPE (&gt;3000J/kg) e l'intrusione di aria più fresca a 500hpa potrebbero favorire delle grandinate di 3-5cm. Sono altresì probabili delle intense raffiche di vento convettive per dei PBL secchi e una diminuzione della Delta Theta-E tra 800-600hpa.
+Anche sull'appennino centrale sussistono le condizioni per il verificarsi di temporali forti. L'altezza del geopotenziale rimarrà più basso su questa fascia dell'Appennino e ci sarà l'influenza della goccia fredda. Tuttavia, su questo territorio, la forzante dinamica sarà più blanda ma sono comunque previsti dei temporali localmente forti, sottoforma di multicelle con clusters o delle celle pulsanti, più probabili a nord del livello 1. In base ai radiosondaggi virtuali si evidenziano dei profili inverted-V e un CAPE ben esteso verticalmente che potranno favorire intensi downburst e delle grandinate in genere di 2-4cm, senza escludere diametri sino a 5cm in prossimità degli inneschi.
+...Livello 0...
+A partire dal sud, nel corso della notte e della mattinata, sono possibili dei temporali a base alta a causa del trasporto di un EML dal Nord Africa tra 900 e 800hpa. Questi temporali si muoveranno da WSW verso ENE.
+Nella seconda metà della giornata si attiverà dell'attività convettiva tra la Corsica,  fascia Alpina, Prealpina e localmente della pedemontana Veneto-Friulana in un ambiente a shear scarso. Non si escludono, ad ogni modo, delle piogge persistenti, grandine di 1-2cm e raffiche di vento.
+Anche nella Puglia sono possibili dei temporali a cella singola che si potranno sviluppare a causa di una convergenza dei venti di brezza. In tal caso, non è remota la possibilità anche per deboli fenomeni vorticosi.
+Sul mar Tirreno, durante la tarda serata, non si esclude l'innesco di temporali anche organizzati in MCS che seguirà un minimo depressionario chiuso al suolo.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--d177da21108ea707c57fe963ec2dd06c85bcd9a3/05-08-2026.jpg" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--d177da21108ea707c57fe963ec2dd06c85bcd9a3/05-08-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Tue, 04 Aug 2026 21:34:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3481</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3481</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Gabriele Bentivoglio
+
+Aggiornato il: 3 agosto 2026, 17:46
+
+Nel corso della giornata prosegue lo spostamento verso sud-est di un minimo barico associato all'instabilità del giorno precendente, mentre avanza sul nord-ovest un nuovo debole minimo di pressione in quota. Entrambi influenzeranno l'innesco dei temporali nel pomeriggio.
+Viene emesso un livello 0 sulle aree interne della penisola, per temporali isolati che potrebbero essere localmente anche forti, specialmente nelle aree appenniniche del centro-sud, con possibili grandinate di piccole dimensioni.
+Un ulteriore livello 0 viene emesso per le Alpi e il nord-ovest per temporali perlopiù isolati ma che in questo caso potranno anche interessare le aree di pianura in Piemonte, con grandine di piccole dimensioni e raffiche di vento.
+DISCUSSIONE
+I temporali si svilupperanno prevalentemente in aree a instabilità medio-bassa (CAPE 500-1000 J/Kg) e saranno legati a convergenze locali di vento in aree collinari e montuose. Nel caso della pianura piemontese, non si esclude che si possa innescare convezione a seguito della convergenza con le correnti meridionali in ingresso dal Golfo Ligure, motivo per cui in questa area il livello 0 non si limita alle zone di rilievo.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--354ad2ef3fa4aa846569a1c743014be7d0ae368a/04_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--354ad2ef3fa4aa846569a1c743014be7d0ae368a/04_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Mon, 03 Aug 2026 17:46:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3480</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3480</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Nicola Carlon
+
+Aggiornato il: 2 agosto 2026, 15:01
+
+L'anticiclone africano continua ad interessare il Paese con temperature decisamente oltre le medie del periodo. Tuttavia un leggero calo del geopotenziale favorirà l'insorgere di instabilità pomeridiano-serale sia in area alpina che appenninica. I temporali avranno una natura locale/isolata ma potranno risultare localmente forti.
+Un livello 1 è stato inserito per Valle d'Aosta, rilievi del Piemonte e Lombardia settentrionale, Trentino Alto Adige (specie occidentale), zone alpine oltre confine, Sardegna interna e dorsale appenninica centro-meridionale (specie tirrenica) per forti piogge concentrate, downbursts e marginalmente per grandinate.
+DISCUSSIONE
+...Livelli 0...
+In particolare dal pomeriggio il marcato soleggiamento combinato ad un lieve calo del geopotenziale determinerà la formazione di locali temporali sulle zone interne sia del Nord che del Centro-Sud. I temporali saranno perlopiù di tipo pulse storm con locali evoluzioni in multicelle specie in area alpina dove la presenza di un sufficiente DLS potrà generare qualche struttura temporalesca organizzata. Questi temporali tenderanno a scemare progressivamente dopo il tramonto nelle regioni del Centro-Sud, mentre lungo le Alpi potranno protrarsi localmente fino alla mezzanotte.
+L'elevato MLCAPE disponibile, anche oltre 2500 J/kg (specie sulle regioni centro-meridionali), e lo scarso o nullo windshear determineranno temporali anche forti ma a scarsa mobilità motivo per cui è stato emesso un livello 1 di pericolosità. Saranno possibili dunque piogge eccessive concentrate (possibili alluvioni lampo), e locali wet-downbursts. Qualche grandinata non si può escludere ma perlopiù di diametri medio-piccoli.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5NywicHVyIjoiYmxvYl9pZCJ9fQ==--0231a31f3f913497ad925a480627ebd086b6eb05/03_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5NywicHVyIjoiYmxvYl9pZCJ9fQ==--0231a31f3f913497ad925a480627ebd086b6eb05/03_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 02 Aug 2026 15:01:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3479</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3479</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Giorgio Rotunno
+
+Aggiornato il: 1 agosto 2026, 16:00
+
+Nel corso del pomeriggio di domenica potranno svilupparsi dei temporali soprattutto lungo i settori alpini di confine e il comparto appenninico centrale e meridionale, nelle aree interne del basso Lazio, Molise, Campania, Basilicata occidentale fino alla Calabria interna.
+I fenomeni saranno distribuiti in modo irregolare e dove i temporali riusciranno a formarsi potranno risultare localmente forti, con grandine fino a 3-4 cm di diametro, forti rovesci di pioggia e raffiche di vento.
+In serata è previsto un generale esaurimento dei fenomeni.
+DISCUSSIONE
+Un leggero cedimento del campo alto-pressorio in quota favorirà deboli infiltrazioni di aria più fresca da NW in alta troposfera, unitamente a modeste anomalie di PV in scorrimento a ridosso delle regioni centro-meridionali italiane.
+In questo contesto tenderà a consolidarsi una moderata instabilità atmosferica, limitatamente ai rilievi alpini di confine con la Svizzera e, durante le ore pomeridiane, in maniera più circoscritta, anche lungo il comparto appenninico e pre-appenninico centrale/meridionale, interessando le aree interne del basso Lazio, del Molise, della Campania, della Basilicata occidentale e parte della Calabria interna.
+Non si evidenziano dinamiche favorevoli a un rinforzo del windshear, pertanto il DLS 0-6 km si manterrà generalmente &lt;15 m/s, all'interno di un profilo termodinamico moderatamente instabile, favorevole allo sviluppo di temporali a pulse-storm o multicellulari semi-stazionari.
+È stato posto un livello 1 di pericolosità per temporali localmente forti al nord, che potranno dar luogo a grandinate circoscritte di medie dimensioni, con chicchi fino a 3-4 cm di diametro, e a qualche forte raffica di vento convettiva.
+Tra l'Appennino centrale e quello meridionale alcuni temporali termoconvettivi potranno risultare più stazionari nelle aree montuose interne, favorendo rovesci intensi, localmente accompagnati da grandine, con chicchi che potrebbero superare i 2-3 cm di diametro, non escludendo qualche sporadico episodio sui 4-5 cm in presenza di updraft più intensi, durante i primi inneschi favoriti dall'orografia.
+Brevi temporali potranno innescarsi anche nelle aree interne delle Isole Maggiori.
+Il quadro meteorologico generale resterà comunque caratterizzato da un campo di alta pressione più stabile e livellato, con tendenza alla graduale dissipazione dei fenomeni nel corso delle ore tardo pomeridiane o serali.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--739a07fdc37e1d08c0d04d489f06dae2cad8bc06/02_08__2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--739a07fdc37e1d08c0d04d489f06dae2cad8bc06/02_08__2026.png" type="image/png" length="0"/>
+      <pubDate>Sat, 01 Aug 2026 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3478</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3478</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Pier Luigi Trudu
+
+Aggiornato il: 31 luglio 2026, 16:48
+
+Un livello di pericolosità 1 per piogge e grandine di medie dimensioni sarà valido per le Alpi centro-orientali. Un livello di pericolosità 0 sulle stesse zone sarà associato a possibili raffiche di vento lineari.
+Un livello 0 per piogge molto localizzate e di breve durata sarà valido per Calabria e Sicilia orientale.
+DISCUSSIONE
+...livello 1...
+In continuità con la serata di oggi, è prevista ancora attività convettiva specie sulle aree pedemontane e montane dalla Lombardia al Veneto con trigger orografico dato dal flusso umido da SW alla medio-bassa troposfera e al transito di una blanda anomalia di PV in quota, in presenza di valori di MLCAPE &lt; 1000 J/kg e DLS nell'intervallo 10-15 m/s. Non si esclude qualche sconfinamento sulle pianure adiacenti a causa della ventilazione in quota da W-NW. La convezione potrà essere quindi organizzata in multicelle e produrre qualche isolato episodio di grandine sino a medie dimensioni 2-4 cm.
+Nel pomeriggio/sera sono previsti nuovi locali aumenti di PV a 500 hPa che potranno favorire convezione orografica pomeridiana, diffusa ma poco organizzata, in prevalenza su Alpi centrali e orientali. Infatti, il vento in quota sarà diminuito rispetto all'inizio della giornata con speed shear inferiori a 10 m/s ma con nuovi locali aumenti di MLCAPE sino a 1000 J/kg.
+In queste zone un livello di pericolosità 1 sarà valido per piogge e grandine, mentre non si esclude qualche danno da vento compatibile con un livello 0.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--1210f0bb8ddd0bcbaf5f49866cef8feb26b5d263/01_08_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--1210f0bb8ddd0bcbaf5f49866cef8feb26b5d263/01_08_2026.png" type="image/png" length="0"/>
+      <pubDate>Fri, 31 Jul 2026 16:48:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3477</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3477</guid>
+      <description>Pericolosità: Pericolosità 2
+
+Previsore/i: Federico Negro
+
+Aggiornato il: 30 luglio 2026, 20:36
+
+Il campo di alta pressione cede leggermente in quota con infiltrazioni fresche in quota sul NW e sul SE del nostro dominio. Tra Alpi e pianura padana occidentale è previsto il transito di una modesta anomalia positiva di PV in alta troposfera, associata al transito di una piccola onda corta; ma di una discreta accelerazione e divergenza del getto a 300 e 500 hPa tra Piemonte e Alpi occidentali.
+L'ambiente termodinamico sarà favorevole alla formazione di temporali forti diffusi tra Alpi Cozie settentrionali, Graie, Pennine e Lepontine, dove un livello 2 è stato emesso per forti piogge, con locali alluvioni lampo non escluse
+e un livello 1 sarà valido per isolate grandinate di dimensioni medie e qualche raffica di vento intensa.
+Un livello 2 e un livello 1 (nelle zone con probabilità inferiore) sono stati emessi per la pianura piemontese e dell'ovest Lombardia per grandine di dimensioni medie, con la possibilità di un evento &gt;=6 cm (con prevalenza per il Piemonte centro-meridionale) e per downburst e forti piogge (con prevalenza per la Lombardia).
+Un livello 1 è stato emesso sul resto delle Alpi per forti piogge e grandine al più di medie dimensioni, con un livello 0 per raffiche di vento. Un livello 0 per grandine piccola, forti piogge e raffiche di vento è stato emesso per appennino tosco-emiliano e calabro e Sicilia interna.
+DISCUSSIONE
+Alpi a livello 2
+Su queste zone la convezione risulterà abbastanza diffusa grazie all'interazione del flusso umido sudoccidentale con l'orografia. L'ambiente termodinamico risulterà favorevole alla formazione di sistemi lineari abbastanza organizzati, a tratti autorigeneranti, con DLS in progressivo aumento verso 15-20 m/s. La presenza di valori di PWAT superiori ai 30-35 mm e CAPE sui 1000-1500 J/Kg sui versanti italiani, sarà favorevole a forti piogge localizzate, anche superiori ai 100 mm/3 h, con diversi sistemi lineari in transito da ovest a est. Sui versanti transalpini i valori energetici risulteranno in genere più scarsi, perciò i fenomeni risulteranno meno intensi rispetto al versante italiano, tranne forse a sud in Provenza.
+Pianura piemontese e ovest Lombardia
+La forzante dinamica in alta troposfera transiterà nel pomeriggio, quando gli outflow alpini andranno a convergere con un flusso orientale in pianura padana. A causa di uno strato caldo inibitore di CIN i temporali saranno a base più alta verso sud e tenderanno a sfaldarsi in direzione dell'alessandrino. Sul Piemonte centro-occidentale (Torino, Asti, nord Cuneo) sussistono le migliori condizioni per la formazione di un temporale a supercella con grandine fino a grosse dimensioni. Qui, infatti, uno strato caldo non eccessivamente spesso, che dovrebbe favorire un temporale isolato, e la presenza di un debole flusso da SE a 850 hPa dovrebbe consentire il veering del vento, con SCP in aumento fino a 4-5 e SREH 0-3 km &gt;=300 m^2/s^". La concentrazione di CAPE dovrebbe eccedere i 2000 J/Kg, mentre il DLS sarà vicino ai 20 m/s, con CAPE concentrato nella fase mista, a causa degli elevati LFC. Altri temporali dovrebbero svilupparsi più a nord, del tipo multicella, mentre verso sera il sistema raggiungerà la Lombardia occidentale indebolendosi/riattivandosi sulle Prealpi. Sul Piemonte orientale e la Lombardia occidentale il rischio principale sarà rappresentato da forti raffiche di vento &lt;110 km/h, con bow echo/sistemi lineari e grandine al più di medie dimensioni. Il rischio downburst è dovuto, oltre ai flussi in media troposfera, al delta theta e 800-600 hPa &gt;16 K, al DCAPE&gt;1000 J/Kg e agli elevati EL (fino a 15000 metri), associati a elevata energia potenziale. Sul pavese, la convergenza con un vento secco appenninico da sud potrebbe favorire un temporale più intenso, con probabilità 1, con grandine media e downburst. Qui il CAPE simulato arriva fino a oltre 2000 J/Kg. Procedendo a oriente i temporali rallenteranno la loro corsa in prossimità delle Prealpi Lombarde, a causa del calo del getto in quota. Qui il rischio principale sarà rappresentato da forti piogge stazionarie, con PWAT fino a 40-45 mm nelle aree più vicine alla pianura. Possibili sconfinamenti a ridosso del fiume Po sono possibili secondo gli ultimi aggiornamenti nei pressi del bordo del livello 0 tra Emilia e montovano
+Alpi centro-orientali a livello 1
+Procedendo a est a condizioni termodinamiche costanti, saranno associati flussi in medio-alta troposfera via via meno intensi (&lt;10-15 m/s). Il rischio predominante sarà quindi quello delle forti piogge per temporali semimobili, con pulse storm e multicelle in evoluzione ad ammassi più estesi. Nelle prime fasi i temporali potranno produrre grandine fino a dimensioni medie, poi al collasso delle strutture (tardo pomeriggio-tramonto) saranno probabili forti raffiche di outflow, localmente esaltate dove incanalate dall'orografia.
+Emessa alle ore 18:15 UTC del 30 Luglio 2026
+Previsore: NEGRO&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--13c46ec8e6166f84881538d6842e408449992098/31_07_2026png.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--13c46ec8e6166f84881538d6842e408449992098/31_07_2026png.png" type="image/png" length="0"/>
+      <pubDate>Thu, 30 Jul 2026 20:36:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3476</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3476</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Pierluigi Randi
+
+Aggiornato il: 29 luglio 2026, 15:36
+
+Sull’intero dominio di previsione andrà ulteriormente affermandosi un vasto promontorio anticiclonico in quota di origine sub-tropicale che consoliderà condizioni di sostanziale stabilità, mentre il residuo e debole cut-off inizialmente sulla Sicilia andrà ulteriormente trasferendosi verso sud esaurendosi. Un generico livello 0 per forti piogge concentrate e grandinate di piccole dimensioni varrà per la fascia alpina, le aree appenniniche più elevate e la Sicilia centro-occidentale.
+DISCUSSIONE
+....Livello 0...
+Sulla fascia alpina e sui maggiori massicci montuosi appenninici l’attività convettiva seguirà il tipico ciclo diurno estivo in condizioni anticicloniche, con fenomeni ad innesco orografico favoriti dall’elevato irraggiamento diurno. Le condizioni di shear assai modesto presuppongono la formazione di celle isolate o pulse storm ad evoluzione alquanto lenta e propagazione dominata dal bilancio tra cold pools e orografia locale. Sulla Sicilia i residui effetti del cut-off in fase di ulteriore indebolimento e movimento verso sud potranno ancora conferire all’ambiante una relativa dinamicità con fenomeni leggermente più frequenti, con possibili locali raffiche di vento convettive.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--d6f98085106b6a62bc1aa690bf82115699054823/30_07_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--d6f98085106b6a62bc1aa690bf82115699054823/30_07_2026.png" type="image/png" length="0"/>
+      <pubDate>Wed, 29 Jul 2026 15:36:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3474</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3474</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Diego Bellotti
+
+Aggiornato il: 28 luglio 2026, 20:48
+
+Sul dominio di previsione permarranno condizioni prevalentemente stabili, ad eccezione delle aree Alpine e in modo occasionale quelle Prealpine centro-orientali e la Sicilia di ponente, dove sono previsti dei temporali tra il pomeriggio-sera. I temporali potranno risultare forti specialmente tra Alpi Retiche, Trentino-Alto Adige e le Dolomiti Venete, mentre sulla Sicilia centro-occidentale sarà bassa la probabilità per temporali forti.
+Un Livello 1 è stato emesso tra le Alpi Retiche e le Dolomiti per intense raffiche di vento convettive (tra 90-100km/h) e grandinate di piccole-medie dimensioni (con diametri compresi tra  2-4cm). Inoltre, sono possibili locali piogge persistenti entro un livello 0 di pericolosità.
+DISCUSSIONE
+...Livello 1...
+Su quest'area le correnti tra le superfici isobariche di 500 e 300hpa diverranno a curvatura ciclonica nel corso della giornata unitamente ad un abbassamento dell'isoterma a 500hpa (-10°C). Transiterà un'ondulazione che favorirà lo sviluppo della convezione durante il pomeriggio-sera a partire dalle Alpi di confine. Questi temporali, si dovrebbero propagare verso le aree prealpine del Veneto, ma non dovrebbero sconfinare più a sud poiché sarà presente uno spesso strato di inibizione.
+In mattinata, l'effetto della radiazione solare porterà ad un incremento dell'instabilità, con un CAPE tra i 1200-1400J/kg e del tipo skinny. Il Bulk shear 0-6km non sarà alto (10-15m/s), ma sufficiente a sostenere la formazione di chicchi di grandine tra 2-4cm e ad intense raffiche di vento convettive, in virtù anche di BL secchi con alti LCL. I temporali si organizzeranno di sistemi multicellulari sottoforma di cluster o brevi QLCS in propagazione tra le Alpi Retiche e il Trentino. Inoltre, nelle prime fasi di innesco della convezione, sono possibili locali criticità legate alle piogge persistenti (livello 0).
+...Livello 0...
+La Sicilia centro-occidentale sarà soggetta all'azione di un blando cut-off low in lento spostamento verso Sud-est. Nella seconda metà della giornata sono previsti alcuni temporali multicellulari che potranno apportare a piogge intense e grandinate di piccole dimensioni anche con accumulo dato lo shear in velocità scarso.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--aa43ce3731cf874f1ce5a55aea411cee1e095c0c/29-07-2026.jpg" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--aa43ce3731cf874f1ce5a55aea411cee1e095c0c/29-07-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Tue, 28 Jul 2026 20:48:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3472</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3472</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Domenico Cimmino
+
+Aggiornato il: 27 luglio 2026, 17:51
+
+Nella giornata di martedì 28 luglio 2026, una goccia fredda in quota transiterà sui bacini meridionali del Mediterraneo andando ad interagire con una massa d'aria molto calda ed umida nei bassi strati. In tal contesto è attesa un'intensa fase di instabilità convettiva nelle ore pomeridiane sulla Sicilia, con elevata probabilità di temporali forti e localmente stazionari.
+Un
+livello 1
+è stato emesso per la Sicilia nord-occidentale e centrale (compresi i settori costieri di Palermitano e Trapanese, le zone interne di Sicani, Madonie e relativo entroterra) per il rischio di precipitazioni intense (flash flood). Saranno oltremodo possibili grandinate generalmente di piccola-media dimensione con accumuli al suolo, ma non si escludono isolati episodi con chicchi fino a 4-6 cm, specie nei punti di innesco orografico laddove i nuclei temporaleschi incontreranno le migliori condizioni termodinamiche e cinematiche. Minore il rischio associato a downburst.
+Sulle rimanenti aree della Sicilia sarà valido un
+livello 0
+per temporali pomeridiani isolati a più rapida evoluzione.
+DISCUSSIONE
+Il quadro sinottico sul Mediterraneo centrale vedrà l'isolamento e il contestuale transito di una goccia fredda in quota, evidenziata al livello isobarico di 500 hPa e da un'incisiva anomalia di PVU, associata oltremodo all’intrusione di aria secca di origine stratosferica in troposfera.
+Sebbene il flusso portante risulti debole o al più moderato, il marcato gradiente termico verticale indotto dalla goccia fredda unitamente all’anomalia di PVU forniranno la forzante dinamica necessaria all’innesco dei temporali sulle confluenze tra le brezze nelle ore pomeridiane.
+...Sicilia centrale e nord-occidentale (LIVELLO 1)...
+L'ambiente termodinamico sarà caratterizzato dalla presenza di elevata energia potenziale disponibile alla convezione (CAPE &gt; 2000 J/Kg, con picchi localmente superiori ai 3000 J/Kg) e valori di acqua precipitabile prossima ai 45-48 mm. Sul piano cinematico si osserveranno valori di DLS generalmente prossimi ai 10 m/s, mostrandosi dunque debole o al più moderato; tuttavia si potranno presentare locali picchi di 15-20 m/s, specie in prossimità delle confluenze a ridosso dei rilievi montuosi. E' dunque attesa fenomenologia convettiva in prevalenza sottoforma di
+pulse storm,
+la cui evoluzione sarà strettamente legata all'azione delle brezze marine e degli
+outflow boundaries
+associati ai nuclei temporaleschi, con traslazione proprio verso i settori costieri tirrenici. Il rischio principale per il quale è stato emesso un
+livello 1
+su tale zone sono le intense precipitazioni, non si escludono infatti locali flash flood, legati alla scarsa mobilità delle celle e l’elevato PWAT come sopracitato. Le condizioni cinematiche esplicate sono favorevoli a grandinate di piccole medie-dimensioni con accumuli al suolo, ma non sono da escludere chicchi fino a 4-6 cm (buon CAPE nell'Hail Growth Zone tra l'altro). Minore il rischio di downburst estesi, ma non si esclude qualche episodio di wet microburst legato anche alla presenza di aria più secca in media troposfera come mostrato anche dallo pseudosondaggio sulla verticale di Palermo.
+... Settori interni e centro-meridionali della Sicilia (LIVELLO 0) ...
+Sull’area in Livello 0 i temporali si manifesteranno sotto forma di celle a rapida evoluzione: pur potendo generare brevi rovesci intensi, colpi di vento e isolatissime grandinate di piccole dimensioni, il rischio di osservare accumuli importanti concentrati in breve lasso temporale e grandine di media dimensione rimarrà molto contenuto.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--0729a9749110b4610982f831b0675409222bf495/bollettino%20sicilia.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--0729a9749110b4610982f831b0675409222bf495/bollettino%20sicilia.png" type="image/png" length="0"/>
+      <pubDate>Mon, 27 Jul 2026 17:51:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3471</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3471</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Michele Tonnini
+
+Aggiornato il: 26 luglio 2026, 14:23
+
+Nella giornata di lunedì, lo spostamento verso levante della saccatura, che ha interessato l’Italia centro-settentrionale nel corso di domenica, darà luogo ad un miglioramento del tempo su gran parte del dominio previsionale, grazie alla graduale espansione di un promontorio subtropicale.
+Tuttavia, tra la notte ed il mattino, è attesa una residua instabilità in particolare tra Campania, Molise, Basilicata e Puglia, con la possibilità di locali rovesci o temporali, in esaurimento nel corso della giornata. Sempre tra la notte ed il mattino non si esclude, inoltre, qualche breve e locale rovescio, occasionalmente temporalesco, lungo le coste toscane.
+Su tutte le zone menzionate viene emesso un livello 0 di pericolosità valido essenzialmente per la possibilità di piogge intense concentrate (&lt; 20mm/1h). Pericolosità assente, invece, sul resto del dominio previsionale.
+DISCUSSIONE
+Per la previsione di domani è sufficiente il testo breve.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--a9f252092ab8ea07e43d0e3c65227ab9f270a3ec/mappa_27-07-2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--a9f252092ab8ea07e43d0e3c65227ab9f270a3ec/mappa_27-07-2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 26 Jul 2026 14:23:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3470</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3470</guid>
+      <description>Pericolosità: Pericolosità 3
+
+Previsore/i: Giorgio Rotunno
+
+Aggiornato il: 26 luglio 2026, 00:32
+
+Una prima supercella si è sviluppata nel tratto di mare antistante tra Savona e Genova, manifestando un forte mesociclone di basso livello e produzione di grandine in mare stimata da radar. Questo temporale conferma che l'ambiente è particolarmente propenso a forti supercelle tornadiche. Tuttavia, la complessa orografia della regione rende possibili solo eventuali temporanei landfalls di trombe marine. E' probabile la caduta di grandine di medio-grosse dimensioni e forti raffiche di vento.
+Il sistema avrà diversi cicli evolvendo verso est e dovrebbe incontrare una massa d'aria ulteriormente più favorevole in alta Toscana. Considerata anche la topografia un po' più favorevole con la presenza di alcune valli aumenterà la possibilità di tornado. Le condizioni potrebbero essere favorevoli per un tornado forte.
+Francesco De Martin
+26 lug 00:32
+· circa un mese fa
+TESTO BREVE
+Dalla mattinata di domenica una nuova depressione entrerà sui bacini occidentali italiani, concentrando la sua parte più attiva sulle regioni centro-settentrionali, con elevata probabilità di temporali molto forti. Le aree maggiormente esposte saranno Liguria orientale, Toscana, Umbria, Marche, Romagna e le zone interne dell'Appennino (innalzate a livello 3), con possibili estensioni verso Alto Lazio, Abruzzo, Campania e Molise nel corso delle ore pomeridiane.
+I fenomeni più intensi potranno essere accompagnati da grandine di grandi dimensioni (fino a 6-8 cm, non esclusi isolati episodi di diametro superiore), raffiche di vento molto forti anche superiori ai 110-120 km/h, forti precipitazioni persistenti e qualche tornado specie lungo le coste tirreniche e vallate/pianure tra Toscana, alto Lazio e Umbria. Non si esclude un tornado forte / a lunga percorrenza.
+Al nord-est qualche temporale potrà attivarsi dinanzi alle coste di Veneto e FVG, con un continuo rinnovo dell'instabilità per tutta la giornata. Nell'area di convergenza con lo Scirocco sono possibili piogge molto intense persistenti e trombe marine/deboli tornado costieri. I temporali potranno scendere dall'Appennino Settentrionale e propagarsi sull'Emilia-Romagna con forti raffiche di vento e forti piogge.
+Sulle aree costiere tirreniche permane ancora qualche incertezza sull'effettivo innesco dei temporali, specie prima dell'ingresso del fronte. Qualora dovessero verificarsi dei temporali risulteranno localmente molto forti e incisivi lungo la costa o nell'immediato entroterra romano e del Lazio meridionale, compresa la Campania.
+DISCUSSIONE
+Sinottica
+Nel corso delle prossime ore, un incisivo asse di saccatura, supportato da un sistema frontale piuttosto dinamico, raggiungerà i mari occidentali del dominio previsionale. Questo avverrà in concomitanza con un ridge alto-pressorio prefrontale già presente, all'interno di un'atmosfera particolarmente umida nei bassi strati. A livello sinottico entro le ore serali comincerà una fase di indebolimento della struttura depressionaria, con un processo tear-off simulato a ridosso del Mar di Sardegna entro domenica sera.
+​Dalla mattinata di domenica si attiverà una ventilazione meridionale al suolo, prevalentemente disposta da SSW (Libeccio). In quota, farà il suo ingresso una ramificazione del jet-streak disposta da SW e divergente verso NE a ridosso dell'Appennino settentrionale e centrale, con picchi di velocità massimi superiori ai 50 m/s tra la Toscana, l'Umbria, le aree pedemontane, fino alla Romagna, coste marchigiane e l'Alto Adriatico.
+Mesoscala
+Si verrà così a configurare un ambiente cinematico e termodinamico estremamente favorevole allo sviluppo di temporali forti e puntualmente molto forti, organizzati alla mesoscala.
+​Il peggioramento meteorologico si articolerà in più fasi e con diverse distribuzioni dal Nord al Centro peninsulare.
+...
+Liguria, alta Toscana, Emilia-Romagna...
+​Dal primo mattino, l'instabilità atmosferica tenderà a concentrarsi inizialmente sulla riviera ligure di levante. Qui saranno possibili convergenze tra correnti di Libeccio e/o Scirocco con venti di Ponente e nord-orientali di richiamo dall'entroterra Spezzino.
+Dinanzi alle coste liguri, il profilo verticale della ventilazione presenterà un marcato windshear, sia direzionale che in velocità, creando condizioni ottimali per temporali supercellulari in grado di produrre trombe marine mesocicloniche e rovesci grandinigeni, con chicchi localmente di 5-6 cm di diametro o poco oltre.
+Essendo i temporali attesi piuttosto localizzati, è stato valutato un livello di probabilità tra 1 e 2 in spostamento verso est sul Mar Ligure. Sulle pianure piemontesi sarà invece valido un livello 1 per temporali multicellulari di breve durata, che potranno dar luogo a grandinate di medie dimensioni e qualche forte rovescio di pioggia.
+​Sulle sezioni montuose dell'Appennino Ligure potranno innescarsi i primi moti convettivi più rilevati, con convezione esplosiva in propagazione verso la Garfagnana e il Mugello, in prossimità dei settori pedemontani dell'Appennino Tosco-Emiliano.
+​Poiché il profilo della ventilazione risulterà particolarmente intenso sia al suolo che in medio-alta troposfera, non si esclude che i temporali possano scavalcare la dorsale appenninica, spingendosi verso il Frignano e le pianure della Romagna (Bolognese e Ravennate). In questo frangente, vi è la possibilità di supercelle embedded capaci di produrre grandine di medio-grandi dimensioni (5-6 cm) e forse deboli tornado sul lato toscano. Saranno inoltre possibili venti molto forti (downburst) legati all'evoluzione di segmenti a bow-echo in veloce propagazione verso NE simulati sull'Adriatico settentrionale.
+Contestualmente, la porzione più arretrata (meridionale) del sistema temporalesco potrebbe assumere carattere stazionario e/o back-building nei settori interni della Toscana, causando possibili precipitazioni molto intense persistenti.
+Si osserva che altri temporali, anche organizzati come supercella e associati a grandine di medio-grosse dimensioni, potrebbero svilupparsi nel pomeriggio sull'Appennino Settentrionale.
+... bassa Toscana, Umbria, alto Lazio e Marche ...
+​Tra la mattinata e il primo pomeriggio, il sistema temporalesco principale dovrebbe traslare verso SE: attraversando Toscana, Umbria e Marche e oltrepassando l'Appennino Umbro-Marchigiano, per poi spingersi verso la fascia costiera del medio versante Adriatico, dove dovrebbero progressivamente indebolirsi.
+Un livello 3 è stato posto per il rischio di grandine di grandi dimensioni (6-8 cm di diametro, poco probabili chicchi di dimensioni superiori), associati a forti raffiche di vento lineari e precipitazioni molto intense. Sui settori pianeggianti della Toscana, dell'Umbria e dell'alto Lazio, non si esclude un forte evento tornadico per l'abbondante umidità in superificie, l'elevato SRH 0-1 km, il probabile sviluppo di supercelle e la presenza di decise convergenze di venti.
+... basso Lazio, Campania, Molise ...
+​I nuclei temporaleschi saranno preceduti da un richiamo sud-occidentale piuttosto caldo pertanto nell'arco della mattinata non si escludono episodi di convezione elevata con qualche fulminazione poco al largo del Mar Tirreno centrale. Nell'entroterra appenninico l'irraggiamento diurno favorirà un brusco incremento dell'energia potenziale convettiva con valori di SBCAPE che potranno superare i 3000 J/kg. Nel corso del pomeriggio, l'ambiente diverrà molto instabile su tutte le zone interne peninsulari e subappenniniche laziali, compresi i settori di confine dell'Abruzzo e del Molise (Appennino Sannita) e l'entroterra Casertano e Beneventano. Qui potranno innescarsi temporali localmente molto forti, capaci di produrre grandine di dimensioni giganti (chicchi ≥8 cm). Sull'Appennino settentrionale e centrale, grazie alla forzante orografica, le probabilità di innesco saranno più alte e precoci. Qualora il sistema temporalesco dovesse estendersi fino alle pianure tirreniche, è probabile che riesca a mantenersi attivo, assumendo caratteristiche supercellulari grazie a un forte windshear (DLS 0-6 km tra 25-30 m/s).
+Nonostante sia presente molta instabilità sulle pianure tirreniche, permane incertezza sulla reale diffusione dell'attività convettiva lungo le zone costiere laziali e del centro-sud, tra Campania e Molise.
+La presenza di una marcata elicità nei bassi strati SRH 0-1 km, unita a indici compositi (EHI, SCP+STP) su valori elevati suggerisce la possibilita' di tornado anche su queste zone, anche se lo spesso EML previsto rende meno probabile questo scenario rispetto alle zone piu' a Nord. Lo spesso EML invece suggerisce un rischio di grandine gigante piu' alto rispetto alle aree a livello 3: la minor confidenza sullo sviluppo di temporali forti ha suggerito complessivamente di limitare il livello di pericolosita' a 2.
+... Nord-Est, Istria e Croazia...
+A ridosso dell'alto Adriatico andranno a configurarsi delle convergenze superficiali al largo della costa veneta e friulana, con possibili supercelle e un continuo rinnovo dell'instabilità atmosferica anche sulle Prealpi orientali fino alla ore serali. Rimarranno attive costantemente delle correnti sciroccali, alla base di una ventilazione in quota ciclonica e divergente.
+Dato il deciso flusso di Scirocco nei bassi strati e il flusso più debole in quota, il pericolo principale sembra legato alle precipitazioni intense persistenti, specie tra la zona costiera e l'Alto Adriatico. Saranno anche possibili grandinate di piccole-medie dimensioni e isolate raffiche di vento. Potrebbero svilupparsi trombe marine con possibilità di qualche debole tornado costiero.
+​Si consiglia un monitoraggio attivo mediante nowcasting (radar e stazioni meteorologiche al suolo).&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--11389903a40fe834f1e5fa161e7517e56e07d27b/26_07_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--11389903a40fe834f1e5fa161e7517e56e07d27b/26_07_2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 26 Jul 2026 00:32:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3469</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3469</guid>
+      <description>Pericolosità: Pericolosità 2
+
+Previsore/i: Domenico Cimmino
+
+Aggiornato il: 24 luglio 2026, 20:41
+
+Una tendenza e' emessa per discutere una marcata fase di instabilità che è attesa nella giornata di domenica su gran parte del dominio previsionale, ad esclusione dell'estreme regioni meridionali.
+Un livello 2 è stato emesso su Liguria di Levante, Toscana, alto Lazio, Umbria, Marche, Emilia-Romagna, bassa pianura veneta e friulana, mentre un piu' ampio livello 1 e' stato emesso sul resto del Nord, Lazio, Abruzzo, Molise, Campania, Puglia e Basilicata settentrionali.
+Sono possibili grandinate anche di medio-grosse dimensioni, forti downbursts e forse qualche tornado nelle regioni del Centro-Sud, con probabilita' maggiori nelle aree a livello 2. Nelle aree del Nord Italia le pericolosita' principali sono associate alle piogge forti, eventuali deboli tornado sulla fascia costiera e downburst in Emilia-Romagna. Le precipitazioni potrebbero essere localmente molto intense anche tra Toscana e Umbria.
+Nel bollettino di domani potrebbe essere necessario un innalzamento di livello a 3 per alcune zone del Centro Italia.
+DISCUSSIONE
+Sinottica...
+Un’incisiva saccatura atlantica transita sul Mediterraneo centro-occidentale, accompagnata da una marcata avvezione di vorticità potenziale e dal transito del ramo divergente del Jet Stream con tendenza ad accelerazione dello stesso proprio su parte della penisola italiana.  Tale saccatura andrà ad interagire con masse d’aria caratterizzate da elevata umidità accumulata sul bacino del Tirreno e sull'Alto Adriatico. In queste zone sara' presente marcata energia potenziale disponibile alla convezione (CAPE &gt; 2-3000 J/Kg). L’ambiente dinamico vedrà oltremodo valori di DLS&gt;30-35 m/s specie in concomitanza del transito del getto. Si nota forte flusso anche a 700 hPa, che determinera' valori di SRH insolitamente alti sul Centro Italia. Questa combinazione di instabilita' e cinematica rende l'ambiente molto volatile e potenzialmente favorevole a temporali molto forti.
+Levante Ligure, Toscana, Umbria, alto Lazio e parte delle Marche...
+E’ probabile la formazione di un sistema a V-Shape tra Spezzino ed Alta Toscana in traslazione verso SE, dove incontrerà la miglior combinazione dei valori termodinamici. I temporali potranno svilupparsi fin dalle prime ore della giornata e potrebbero verificarsi piu' passaggi.
+La confluenza dei flussi al suolo, unitamente al transito della jet streak in quota, favorirà l’aumento dei valori di shear del vento anche nei bassi strati. Considerando i valori di PWAT diffusamente superiori ai 35 mm, e la presenza di aria più secca in media troposfera, i rischi principali sono da associare a possibili wet downburst e precipitazioni intense localizzate. In questa zona (ad esclusione delle Marche) c'e' anche la piu' alta probabilita' di tornado (stimabile attualmente in 5%). Sono possibili anche grandinate di grosse-medie dimensioni. Si valuterà un upgrade a livello 3 proprio tra Toscana, parte dell’Umbria e basso Lazio dove c'e' sia buona confidenza per lo sviluppo di temporali che il miglior ambiente per supportare temporali molto forti.
+basso Lazio, Campania, Basilicata e Molise...
+Le stesse considerazioni valgono anche in queste zone dove il potenziale è molto alto, ma qui la confidenza modellistica riguardo l’innesco di supercelle è minore in quanto lo scirocco sul Tirreno potrebbe avere tendenza all’inibizione (al momento le aree favorite per l'iniziazione sono il golfo di Gaeta e l’agro Pontino); per tal motivo è stato emesso solo un livello 1.
+Nord-Est...
+Un livello 2 è stato anche esteso all'Emilia-Romagna e parte del Triveneto fino al confine con la Slovenia, dove persiste la possibilità di osservare localmente piogge molto intense ma anche di trombe marine/tornado misociclonici (PWAT &gt; 40mm, LCL anche sotto i 500 m e correnti in quota più debole rispetto al Tirreno), soprattutto considerando la convergenza tra lo scirocco umido in entrata dall’adriatico e la ventilazione di terra. In Emilia-Romagna potrebbero anche verificarsi downbursts associati ai temporali in arrivo dalla Toscana e dalla Liguria.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ef750c698419d1294405014faeb47975fbe9575/tendenza.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ef750c698419d1294405014faeb47975fbe9575/tendenza.png" type="image/png" length="0"/>
+      <pubDate>Fri, 24 Jul 2026 20:41:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3468</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3468</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Pier Luigi Trudu
+
+Aggiornato il: 24 luglio 2026, 15:36
+
+Un livello di pericolosità 1 per piogge e grandine di medie dimensioni sarà valido per Alpi Occidentali, coste provenzali e Corsica. Un più ampio livello 0 sarà valido per la stessa fenomenologia ma con probabilità minore.
+Un livello di pericolosità 0 sarà valido per raffiche di vento lineari sulle Alpi Occidentali e per qualche possibile tromba marina a largo delle coste provenzali e corsicane.
+DISCUSSIONE
+Nella giornata di sabato, dopo una prima parte caratterizzata da una debole rimonta anticiclonica, nel tardo pomeriggio/sera i settori nord-occidentali del dominio di previsione saranno interessati dall'avvicinamento di una nuova saccatura con aria relativamente fredda in quota e dall'approfondimento di un minimo barico relativo tra le Baleari e il Golfo del Leone che determinerà un teso richiamo di aria dai quadranti meridionali sul Tirreno in direzione del Golfo Ligure. Flussi divergenti in quota, avvezione di umidità da SW nei medio-bassi strati e di vorticità ciclonica alla media e alta troposfera, alimenteranno convezione orografica sulle Alpi occidentali, con possibili sconfinamenti sulla pianura adiacente. I profili atmosferici previsti mostrano PBL piuttosto secchi con sorgente di umidità generalmente sopra 850 hPa o più e valori di energia MLCAPE &gt; 1000-1500 J/kg, con buona concentrazione nell'HGZ. Un livello di pericolosità 1 sarà valido per piogge e grandine di medie dimensioni 3-5 cm. Un livello 0 è ritenuto sufficiente per raffiche di vento lineari &lt; 60 km/h.
+Alcuni modelli simulano un sistema convettivo sulle coste provenzali in prossimità della convergenza di basso livello dettata dal minimo barico al suolo in successivo movimento verso la Corsica. Tale sistema potrà evolvere in un ambiente più energetico del precedente con LCL più bassi, CAPE 0-3 km &gt; 150-200 J/kg e SREH &gt; 250 m^2/s^2 per cui non si esclude la formazione di qualche tromba marina (livello 0). Stante l'incertezza modellistica ma considerata la potenziale pericolosità associata a tale sistema si ritiene comunque opportuno un livello 1 per la stessa fenomenologia descritta in precedenza.&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--287f24c667d64efdb131cab24064673affe69c59/25_07_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--287f24c667d64efdb131cab24064673affe69c59/25_07_2026.png" type="image/png" length="0"/>
+      <pubDate>Fri, 24 Jul 2026 15:36:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3467</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3467</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Federico Negro
+
+Aggiornato il: 23 luglio 2026, 20:22
+
+Continua l'influsso della depressione est europa sull'Italia orientale. Una nuova onda corta transiterà rapidamente tra notte e mattina di Venerdì sul mare Adriatico da nord a sud, associata ad un'anomalia di vorticità positiva a 300 hPa. Un livello 1 è stato emesso per medio-basso adriatico, Calabria, Puglia, Basilicata e coste di Molise e Abruzzo per un paio di isolati forti temporali con raffiche di vento anche oltre 100 km/h e grandine fino a medie dimensioni. Un livello 0 è valido per le zone circostanti fino all'alto adriatico per gli stessi rischi, ma con minor probabilità
+DISCUSSIONE
+Nelle prime ore della notte il fronte freddo, segnato dall'ingresso di correnti secche di bora nei bassi strati, sospingerà la convezione verso il mare Adriatico. La persistenza di un ramo del JS sostenuto sui 30 m/s, come nei giorni precedenti, favorisce l'organizzazione dei sistemi temporaleschi; tuttavia sul nord Adriatico (Veneto, Marche) il BL sarà abbastanza rimescolato con valori energetici bassi e saranno sfavoriti chicchi di grandine di grosse dimensioni e raffiche di vento molto forti. Nel medio-basso Adriatico i valori di CAPE saranno più alti, fino a 2000-3000 J/Kg in prossimità della Calabria. La presenza di un buon flusso a 700 hPA e di Delta theta e 500-850 hPa fino a 20 K, sarà favorevole a forti raffiche di vento in presenza di bow echo. Al mattino presto sarà possibile una multicella/ supercella in direzione della Puglia, con un buon timing della forzante dinamica in quota. Sarà presente anche un basso rischio tornado per LCL bassi associati a SREH 0-3 km sui 200 m^2/s^2. Sono possibili grandinate di medie dimensioni 4-6 cm, e non è escluso qualche chicco di diametro superiore. Dopo poche ore sarà possibile un secondo sistema in Calabria, dove sarà presente una convergenza e valori di energia maggiore e tuttavia una forzante dinamica minore in quota. Si è deciso di emettere comunque un livello 1 per l'alta potenzialità in gioco. Nelle prime ore del pomeriggio convezione ulteriore sparsa potrà svilupparsi in appennino con qualche piccola grandinata o raffica di vento, ma verrà rapidamente smorzata dalla rimonta dell'alta pressione subtropicale da ovest, che farà affluire uno strato di aria più calda e stabile a media quota.
+Emessa Giovedì 23 Luglio ore 20:45 UTC
+Previsore: Negro&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU2MywicHVyIjoiYmxvYl9pZCJ9fQ==--9f0d2ca04526d8871e55fb5e8d6bc6c83c88b387/24_07_2026.png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU2MywicHVyIjoiYmxvYl9pZCJ9fQ==--9f0d2ca04526d8871e55fb5e8d6bc6c83c88b387/24_07_2026.png" type="image/png" length="0"/>
+      <pubDate>Thu, 23 Jul 2026 20:22:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3460</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3460</guid>
+      <description>Pericolosità: Pericolosità 2
+
+Previsore/i: Pierluigi Randi
+
+Aggiornato il: 23 luglio 2026, 18:55
+
+Il transito da Nord-Ovest di un cavo d’onda in quota, inserito in una più vasta saccatura ancora presente sulla penisola balcanica, sarà accompagnato da una nuova avvezione di aria fredda e secca in medio-alta troposfera con temporanea componente ciclonica. Pertanto andranno temporaneamente rinnovandosi condizioni d’instabilità, con particolare riferimento al settore orientale del dominio di previsione ed espressamente sul medio-basso Adriatico laddove le temperature, segnatamente quelle della superficie marina, risultano ancora elevate.
+Su Abruzzo meridionale e Puglia si attribuisce un livello 2 per grandinate di medie dimensioni (3-4 cm, ma non da escludere fino a 4-6 cm in caso di supercelle isolate) e forti raffiche di vento convettive (downburst 80-100 km/h e localmente oltre), mentre un livello 1 varrà per forti piogge concentrate e fenomeni vorticosi (principalmente trombe marine, anche mesocicloniche, ma possibili anche sull’entroterra). Un più esteso livello 1 per grandinate anche di medie dimensioni e forti raffiche di vento riguarderà le restanti aree del medio-basso Adriatico a partire dal sud delle Marche, mentre un livello 0 varrà per piogge intense e fenomeni vorticosi (trombe marine). Un livello 0 è stato considerato per Friuli, Istria e Alto Adriatico per grandinate di piccole o localmente medie dimensioni e raffiche di vento convettive (downburst), Un generico livello 0 per locali grandinate di piccole dimensioni e colpi di vento varrà per l’Appennino settentrionale, Calabria e Sicilia nord-orientale.
+DISCUSSIONE
+Livello 2....
+L'ingresso di un impulso di vorticità potenziale (PVU) sul livello isobarico di 300 hPa associato a un cavo d'onda a 500 hPa in discesa da NW con temperature intorno -13/-14 °C rappresenterà un forcing dinamico piuttosto efficace tra tardo pomeriggio e sera. Sul basso Adriatico l'aria relativamente fresca in quota aumenterà il gradiente termico verticale proprio mentre nei bassi strati resiste una massa d'aria ancora caldo-umida. Il risultato sarà una progressiva erosione del CIN durante il pomeriggio e in serata con aumento della probabilità di trigger convettivo. Il previsto SB CAPE di circa 2000 J/kg, in avvezione dal mare, appare più che sufficiente considerando il contesto dinamico, mentre CAPE 0-3 km intorno a 250-300 J/kg presuppone una buona quantità di galleggiamento nei bassi strati. PWAT di 28-32 mm suggerisce inoltre precipitazioni intense ma senza raggiungere valori tali da penalizzare eccessivamente le correnti ascensionali. Lo shear ambientale mostra DLS 30-35 m/s; LLS 15-17 m/s; SRH 0-1 km oltre 250 m²/s²; SRH 0-3 km oltre 350 m²/s² che, unitamente a UH di 90-100 m²/s², rappresenta un buon potenziale per innesco anche di supercelle ben organizzate (SCP fra 4 e 6). La presenza di confluenza ESE/N al suolo e possibili boundary di basso livello potrà attivare convezione a tratti severa già dall’Abruzzo meridionale scendendo verso Gargano; costa nord della Puglia e Adriatico antistante. Successivamente le celle potrebbero propagarsi verso Tavoliere, Barese e Salento. La previsione di lapse rate 800-600 hPa di 7-8 °C/km, Δθe 20-22 °K e updraft rotanti suggerisce una probabilità piuttosto elevata di grandine con dimensioni comprese fra 3 e 4 cm nelle celle meglio organizzate, ma fino a 4-6 cm qualora si sviluppi una supercella isolata e longeva. Lo stesso Δθe di 20-22 °K associato ad aria relativamente secca a media quota e forte trasporto di quantità di moto (forti correnti da NW in quota produrrà un elevato rischio di downburst con raffiche fino a 80-100 km/h e punte locali superiori in eventuali bow-echo. La combinazione di SRH elevata, buon LLS marcato; e 0-3 km CAPE &gt;250-300 J/kg boundary superficiali e convergenza costiera potrà supportare anche fenomeni vorticosi, essenzialmente trombe marine mesocicloniche e non. I fenomeni risulteranno più probabili tra tardo pomeriggio e sera, sebbene la convezione, di tipo sparso, potrà innescarsi anche prima sulle aree interne e appenniniche grazie al lifting orografico, con i cold pools e relativi outflow boundary che potranno sostenere la convezione successiva fino alle coste (QLCS e isolate supercelle).
+Livello 1...
+Su queste zone la convezione sarà prevalentemente orografica (cluster, pulse storm) e andrà organizzandosi meglio dal tardo pomeriggio per il sopraggiungere di una maggiore forzante dinamica in un ambiente con CAPE moderato (1000-1500 J/kg) e windshear più contenuto ad eccezione di DLS ancora alquanto elevato (25-30 m/s) e discreto UH , inclini a organizzare la convezione in QLCS associati a grandine fino a medie dimensioni, e intense raffiche di vento convettive (downburst), in evoluzione verso sud-est già a partire dalle aree interne delle Marche meridionali ed est Umbria fino ad approcciare le zone costiere quando non si esclude un’isolata supercella.
+Livello 0 Alto Adriatico, Friuli e Veneto orientale...
+Un debole impulso di PVU a 300 hPa in discesa da nord-nord-ovest, associato al cavo d'onda a 500 hPa con isoterme di -14/-16 °C, fornirà un forcing dinamico sufficiente a favorire la convezione, ma decisamente meno incisivo rispetto al basso Adriatico.
+L'ambiente sarà quindi maggiormente dipendente dai processi alla mesoscala, in particolare luingo convergenze costiere e dai boundary generati dalle brezze. Lo SB CAPE compreso fra 1600 e 1800 J/kg, alimentato dai flussi meridionali marittimi, unitamente a convergenza tra un flusso umidi da SSE marittimo debole Bora o Grecale da nord-est potrà generare una linea di convergenza meglio definita su pianura friulana con l’innesco di una prima convezione, in parte anche orografica alpina e prealpina, in successivo trasferimento verso la fascia costiera veneta fino al Delta del Po nelle ore serali. Un DLS 20-25 m/s e debole-moderato UH potrà essere sufficiente per sostenere strutture convettive lineari organizzate in QLCS. L’ambiente appare orientato verso una convezione organizzata prevalentemente multicellulare in rapida evoluzione verso SSE. I fenomeni associati riguarderanno grandinate di piccole ma localmente medie dimensioni e raffiche di vento convettive (livello 0), mentre non si escludono trombe marine non mesocicloniche e lungo le coste dell'alto Adriatico anche con parametri non estremi grazie ai forti gradienti termici tra mare e aria sovrastante.
+Emessa mercoledì 22 luglio 2026 alle ore 18:00 UTC
+Previsore: RANDI&lt;br/&gt;&lt;img src="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--bee34b70d29c4232a50081e4017a0623bee34a10/23_07_2026%20(1).png" /&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--bee34b70d29c4232a50081e4017a0623bee34a10/23_07_2026%20(1).png" type="image/png" length="0"/>
+      <pubDate>Thu, 23 Jul 2026 18:55:00 +0200</pubDate>
+    </item>
+  </channel>
+</rss>
