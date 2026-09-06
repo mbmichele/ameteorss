@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sun, 06 Sep 2026 12:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 14:43:22 +0000</lastBuildDate>
     <generator>maltempo-rss/1.4.0 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3518</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3518</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Michele Tonnini
+
+Nella giornata di lunedì, la tenuta ancora salda di un campo di alta pressione di matrice ibrida continuerà a determinare tempo stabile e in prevalenza…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3518"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--f9c7f513af7092ab2ae6693285d4ca17fd8b46d7/mappa_07-09-2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 06 Sep 2026 12:47:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione</title>
       <link>https://www.pretemp.it/previsioni/3517</link>
@@ -594,18 +606,6 @@ Previsore/i: Federico Negro
 Continua l'influsso della depressione est europa sull'Italia orientale. Una nuova onda corta transiterà rapidamente tra notte e mattina di Venerdì sul mare Adriatico da nord…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3467"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU2MywicHVyIjoiYmxvYl9pZCJ9fQ==--9f0d2ca04526d8871e55fb5e8d6bc6c83c88b387/24_07_2026.png" type="image/png" length="0"/>
       <pubDate>Thu, 23 Jul 2026 20:22:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione</title>
-      <link>https://www.pretemp.it/previsioni/3460</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3460</guid>
-      <description>Pericolosità: Pericolosità 2
-
-Previsore/i: Pierluigi Randi
-
-Il transito da Nord-Ovest di un cavo d’onda in quota, inserito in una più vasta saccatura ancora presente sulla penisola balcanica, sarà accompagnato da una…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3460"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--bee34b70d29c4232a50081e4017a0623bee34a10/23_07_2026%20(1).png" type="image/png" length="0"/>
-      <pubDate>Thu, 23 Jul 2026 18:55:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
