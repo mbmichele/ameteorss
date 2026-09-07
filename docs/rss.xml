@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Mon, 07 Sep 2026 18:32:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 21:52:54 +0000</lastBuildDate>
     <generator>maltempo-rss/1.4.0 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3520</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3520</guid>
+      <description>Pericolosità: Nessun pericolo
+
+Previsore/i: Nicola Carlon
+
+Una tendenza è stata emessa per mercoledì 9 settembre per fenomeni intensi attesi nelle regioni del Centro Nord. Un livello 2 è stato emesso per…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3520"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--c6a8b7a9b3e66fc5f15cec9b9fde95c8c82b128d/tendenza_09_09_2026.png" type="image/png" length="0"/>
+      <pubDate>Mon, 07 Sep 2026 18:41:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione</title>
       <link>https://www.pretemp.it/previsioni/3519</link>
@@ -594,18 +606,6 @@ Previsore/i: Domenico Cimmino
 Una tendenza e' emessa per discutere una marcata fase di instabilità che è attesa nella giornata di domenica su gran parte del dominio previsionale, ad…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3469"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ef750c698419d1294405014faeb47975fbe9575/tendenza.png" type="image/png" length="0"/>
       <pubDate>Fri, 24 Jul 2026 20:41:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione</title>
-      <link>https://www.pretemp.it/previsioni/3468</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3468</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Pier Luigi Trudu
-
-Un livello di pericolosità 1 per piogge e grandine di medie dimensioni sarà valido per Alpi Occidentali, coste provenzali e Corsica. Un più ampio livello…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3468"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--287f24c667d64efdb131cab24064673affe69c59/25_07_2026.png" type="image/png" length="0"/>
-      <pubDate>Fri, 24 Jul 2026 15:36:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
