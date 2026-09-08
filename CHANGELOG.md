@@ -5,6 +5,12 @@ Il formato segue [Keep a Changelog](https://keepachangelog.com/it/1.0.0/) e il
 progetto adotta il [Semantic Versioning](https://semver.org/lang/it/)
 (MAJOR.MINOR.PATCH).
 
+## [1.5.1]
+### Modificato
+- Rinominato il progetto in "ameteorss" per allinearlo al nome reale del
+  repository GitHub (`mbmichele/ameteorss`). Aggiornati README e generator
+  tag del feed di conseguenza.
+
 ## [1.5.0]
 ### Modificato
 - Rimosso lo `schedule` interno di GitHub Actions: la Action viene ora

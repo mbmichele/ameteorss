@@ -1,4 +1,4 @@
-# maltempo-rss
+# ameteorss
 
 Feed RSS **non ufficiale** delle previsioni PRETEMP (pretemp.it), generato via scraping
 del loro archivio pubblico, perché PRETEMP non pubblica un feed proprio.
@@ -40,7 +40,7 @@ e valuta di linkare il sito originale.
    feed RSS PRETEMP → Run workflow**), il feed sarà disponibile su:
 
    ```
-   https://<tuo-utente>.github.io/maltempo-rss/rss.xml
+   https://mbmichele.github.io/ameteorss/rss.xml
    ```
 
 4. Incolla quell'URL in qualsiasi lettore RSS, o usalo nel tuo bot Telegram
@@ -58,7 +58,7 @@ ora dall'esterno tramite una chiamata all'API di GitHub.
 
 GitHub → icona profilo → **Settings → Developer settings → Personal access
 tokens → Fine-grained tokens → Generate new token**.
-- Repository access: "Only select repositories" → `maltempo-rss`
+- Repository access: "Only select repositories" → `ameteorss`
 - Permissions → "Actions" → "Read and write"
 - Genera e copia subito il token (non sarà più visibile dopo).
 
@@ -70,12 +70,11 @@ Vai su [cron-job.org](https://cron-job.org) → "Sign up" (gratuito).
 
 Dashboard → **"Create cronjob"**.
 
-- **Title**: `maltempo-rss hourly trigger`
+- **Title**: `ameteorss hourly trigger`
 - **Address (URL)**:
   ```
-  https://api.github.com/repos/TUO-USERNAME/maltempo-rss/actions/workflows/build-feed.yml/dispatches
+  https://api.github.com/repos/mbmichele/ameteorss/actions/workflows/build-feed.yml/dispatches
   ```
-  (sostituisci `TUO-USERNAME` con il tuo nome utente GitHub)
 
 ### 4. Schedule
 

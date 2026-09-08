@@ -29,7 +29,7 @@ from xml.sax.saxutils import escape
 import requests
 from bs4 import BeautifulSoup
 
-__version__ = "1.5.0"  # segue Semantic Versioning: MAJOR.MINOR.PATCH — vedi CHANGELOG.md
+__version__ = "1.5.1"  # segue Semantic Versioning: MAJOR.MINOR.PATCH — vedi CHANGELOG.md
 
 BASE_URL = "https://www.pretemp.it"
 ARCHIVE_URL = BASE_URL + "/archivio/{year}"
@@ -245,7 +245,7 @@ def build_rss(entries: list, feed_title: str, feed_link: str, feed_description: 
     <description>{escape(feed_description)}</description>
     <language>it-IT</language>
     <lastBuildDate>{now}</lastBuildDate>
-    <generator>maltempo-rss/{__version__} (scraper non ufficiale)</generator>
+    <generator>ameteorss/{__version__} (scraper non ufficiale)</generator>
 {chr(10).join(items_xml)}
   </channel>
 </rss>
@@ -265,7 +265,7 @@ def main():
     args = parser.parse_args()
     args.limit = min(args.limit, MAX_ITEMS)
 
-    print(f"maltempo-rss v{__version__}", file=sys.stderr)
+    print(f"ameteorss v{__version__}", file=sys.stderr)
 
     print(f"Leggo archivio anno {args.year}...", file=sys.stderr)
     listing = []
