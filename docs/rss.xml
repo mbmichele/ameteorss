@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 08 Sep 2026 20:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 21:02:40 +0000</lastBuildDate>
     <generator>ameteorss/1.5.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Pretemp</title>
+      <link>https://www.pretemp.it/previsioni/3521</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3521</guid>
+      <description>Pericolosità: Pericolosità 2
+
+Previsore/i: Diego Bellotti
+
+Una saccatura di origine atlantica approccerà parte del dominio di previsione sotto tese corrente sud-occidentali in media e alta troposfera e, contestualmente, si farà strada…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3521"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MywicHVyIjoiYmxvYl9pZCJ9fQ==--079faba25c937155d27ecdb8d619d2a1ce09c658/09-09-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Tue, 08 Sep 2026 18:35:00 +0200</pubDate>
+    </item>
     <item>
       <title>Pretemp</title>
       <link>https://www.pretemp.it/previsioni/3520</link>
@@ -594,18 +606,6 @@ Previsore/i: Giorgio Rotunno
 Una prima supercella si è sviluppata nel tratto di mare antistante tra Savona e Genova, manifestando un forte mesociclone di basso livello e produzione di…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3470"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--11389903a40fe834f1e5fa161e7517e56e07d27b/26_07_2026.png" type="image/png" length="0"/>
       <pubDate>Sun, 26 Jul 2026 00:32:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Pretemp</title>
-      <link>https://www.pretemp.it/previsioni/3469</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3469</guid>
-      <description>Pericolosità: Pericolosità 2
-
-Previsore/i: Domenico Cimmino
-
-Una tendenza e' emessa per discutere una marcata fase di instabilità che è attesa nella giornata di domenica su gran parte del dominio previsionale, ad…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3469"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ef750c698419d1294405014faeb47975fbe9575/tendenza.png" type="image/png" length="0"/>
-      <pubDate>Fri, 24 Jul 2026 20:41:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
