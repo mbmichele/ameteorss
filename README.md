@@ -3,7 +3,9 @@
 Feed RSS **non ufficiale** delle previsioni PRETEMP (pretemp.it), generato via scraping
 del loro archivio pubblico, perché PRETEMP non pubblica un feed proprio.
 
-Il feed viene ricontrollato e rigenerato **ogni ora** tramite GitHub Actions.
+Il feed viene ricontrollato e rigenerato **ogni ora**, tramite un cron esterno
+(cron-job.org) che chiama l'API di GitHub per avviare la Action — non tramite
+lo schedule interno di GitHub Actions (rimosso per evitare esecuzioni doppie).
 
 ⚠️ **Disclaimer**: PRETEMP non emette allerte, ma previsioni probabilistiche
 sperimentali. Per l'allertamento ufficiale fare sempre riferimento al
@@ -21,8 +23,9 @@ e valuta di linkare il sito originale.
 - La `<pubDate>` di ogni elemento è quella di aggiornamento/pubblicazione riportata
   nella pagina originale (non l'orario in cui gira lo scraper), convertita nel
   fuso orario Europe/Rome.
-- Una GitHub Action (`.github/workflows/build-feed.yml`) rigenera il file ogni
-  ora e lo committa nel repo.
+- Una GitHub Action (`.github/workflows/build-feed.yml`) rigenera il file e lo
+  committa nel repo ogni volta che viene avviata via API (`workflow_dispatch`)
+  da un cron esterno su cron-job.org, impostato per chiamarla ogni ora.
 - Con GitHub Pages abilitato sulla cartella `docs/`, il feed diventa
   pubblicamente accessibile a un URL fisso.
 
@@ -42,6 +45,66 @@ e valuta di linkare il sito originale.
 
 4. Incolla quell'URL in qualsiasi lettore RSS, o usalo nel tuo bot Telegram
    civico per rilanciare gli aggiornamenti (es. con `feedparser` in Python).
+5. Configura il cron esterno seguendo la sezione qui sotto, altrimenti la
+   Action non partirà mai da sola (lo schedule interno di GitHub è stato
+   rimosso apposta).
+
+## Impostare il cron esterno (cron-job.org)
+
+Il workflow ha solo il trigger `workflow_dispatch`, quindi va avviato ogni
+ora dall'esterno tramite una chiamata all'API di GitHub.
+
+### 1. Crea un Personal Access Token
+
+GitHub → icona profilo → **Settings → Developer settings → Personal access
+tokens → Fine-grained tokens → Generate new token**.
+- Repository access: "Only select repositories" → `maltempo-rss`
+- Permissions → "Actions" → "Read and write"
+- Genera e copia subito il token (non sarà più visibile dopo).
+
+### 2. Crea un account su cron-job.org
+
+Vai su [cron-job.org](https://cron-job.org) → "Sign up" (gratuito).
+
+### 3. Crea il cronjob
+
+Dashboard → **"Create cronjob"**.
+
+- **Title**: `maltempo-rss hourly trigger`
+- **Address (URL)**:
+  ```
+  https://api.github.com/repos/TUO-USERNAME/maltempo-rss/actions/workflows/build-feed.yml/dispatches
+  ```
+  (sostituisci `TUO-USERNAME` con il tuo nome utente GitHub)
+
+### 4. Schedule
+
+Scegli **"Every hour"**, minuto `0` (oppure "Custom" → `0 * * * *`).
+
+### 5. Impostazioni avanzate ("Advanced")
+
+- **Request method**: `POST`
+- **Request headers**:
+  ```
+  Accept: application/vnd.github+json
+  Authorization: Bearer IL-TUO-PERSONAL-ACCESS-TOKEN
+  X-GitHub-Api-Version: 2022-11-28
+  ```
+- **Request body**:
+  ```json
+  {"ref":"main"}
+  ```
+
+### 6. Salva e testa
+
+"Create cronjob" / "Save", poi usa il pulsante "Run now" per testare subito
+senza aspettare l'ora piena. Controlla nella tab **Actions** del repo GitHub
+che sia partita una nuova esecuzione, e nello storico di cron-job.org che lo
+status HTTP sia `204` (= successo per l'API dispatch di GitHub).
+
+⚠️ Il token inserito nell'header `Authorization` resta salvato sui server di
+cron-job.org per poter fare la richiesta. Il rischio è limitato dato lo scope
+ridotto (solo "Actions: write" su un solo repo pubblico), ma è bene saperlo.
 
 ## Uso locale
 

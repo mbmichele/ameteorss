@@ -5,6 +5,12 @@ Il formato segue [Keep a Changelog](https://keepachangelog.com/it/1.0.0/) e il
 progetto adotta il [Semantic Versioning](https://semver.org/lang/it/)
 (MAJOR.MINOR.PATCH).
 
+## [1.5.0]
+### Modificato
+- Rimosso lo `schedule` interno di GitHub Actions: la Action viene ora
+  avviata ogni ora da un cron esterno (cron-job.org) tramite chiamata API
+  a `workflow_dispatch`, per evitare esecuzioni doppie.
+
 ## [1.4.1]
 ### Modificato
 - Il titolo dell'item RSS ora corrisponde al titolo reale della pagina
