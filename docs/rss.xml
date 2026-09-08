@@ -5,8 +5,44 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sun, 06 Sep 2026 11:52:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:29:04 +0000</lastBuildDate>
     <generator>maltempo-rss/1.4.0 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3520</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3520</guid>
+      <description>Pericolosità: Nessun pericolo
+
+Previsore/i: Nicola Carlon
+
+Una tendenza è stata emessa per mercoledì 9 settembre per fenomeni intensi attesi nelle regioni del Centro Nord. Un livello 2 è stato emesso per…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3520"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--c6a8b7a9b3e66fc5f15cec9b9fde95c8c82b128d/tendenza_09_09_2026.png" type="image/png" length="0"/>
+      <pubDate>Mon, 07 Sep 2026 18:41:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3519</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3519</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Diego Bellotti
+
+Il promontorio anticiclonico di matrice sub-tropicale inizierà a cedere a causa di un imminente cambio della circolazione atmosferica da occidente associato ad un calo delle…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3519"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--2c2348f19b7adc132ef5a417b71b227186176a3c/08-09-026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Mon, 07 Sep 2026 13:24:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione</title>
+      <link>https://www.pretemp.it/previsioni/3518</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3518</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Michele Tonnini
+
+Nella giornata di lunedì, la tenuta ancora salda di un campo di alta pressione di matrice ibrida continuerà a determinare tempo stabile e in prevalenza…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3518"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--f9c7f513af7092ab2ae6693285d4ca17fd8b46d7/mappa_07-09-2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 06 Sep 2026 12:47:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione</title>
       <link>https://www.pretemp.it/previsioni/3517</link>
@@ -570,42 +606,6 @@ Previsore/i: Domenico Cimmino
 Una tendenza e' emessa per discutere una marcata fase di instabilità che è attesa nella giornata di domenica su gran parte del dominio previsionale, ad…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3469"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ef750c698419d1294405014faeb47975fbe9575/tendenza.png" type="image/png" length="0"/>
       <pubDate>Fri, 24 Jul 2026 20:41:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione</title>
-      <link>https://www.pretemp.it/previsioni/3468</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3468</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Pier Luigi Trudu
-
-Un livello di pericolosità 1 per piogge e grandine di medie dimensioni sarà valido per Alpi Occidentali, coste provenzali e Corsica. Un più ampio livello…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3468"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--287f24c667d64efdb131cab24064673affe69c59/25_07_2026.png" type="image/png" length="0"/>
-      <pubDate>Fri, 24 Jul 2026 15:36:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione</title>
-      <link>https://www.pretemp.it/previsioni/3467</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3467</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Federico Negro
-
-Continua l'influsso della depressione est europa sull'Italia orientale. Una nuova onda corta transiterà rapidamente tra notte e mattina di Venerdì sul mare Adriatico da nord…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3467"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU2MywicHVyIjoiYmxvYl9pZCJ9fQ==--9f0d2ca04526d8871e55fb5e8d6bc6c83c88b387/24_07_2026.png" type="image/png" length="0"/>
-      <pubDate>Thu, 23 Jul 2026 20:22:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione</title>
-      <link>https://www.pretemp.it/previsioni/3460</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3460</guid>
-      <description>Pericolosità: Pericolosità 2
-
-Previsore/i: Pierluigi Randi
-
-Il transito da Nord-Ovest di un cavo d’onda in quota, inserito in una più vasta saccatura ancora presente sulla penisola balcanica, sarà accompagnato da una…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3460"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--bee34b70d29c4232a50081e4017a0623bee34a10/23_07_2026%20(1).png" type="image/png" length="0"/>
-      <pubDate>Thu, 23 Jul 2026 18:55:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
