@@ -5,10 +5,10 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Wed, 09 Sep 2026 05:02:32 +0000</lastBuildDate>
-    <generator>ameteorss/1.5.1 (scraper non ufficiale)</generator>
+    <lastBuildDate>Wed, 09 Sep 2026 05:35:08 +0000</lastBuildDate>
+    <generator>ameteorss/1.6.1 (scraper non ufficiale)</generator>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 9 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3521</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3521</guid>
       <description>Pericolosità: Pericolosità 2
@@ -20,7 +20,7 @@ Una saccatura di origine atlantica approccerà parte del dominio di previsione s
       <pubDate>Tue, 08 Sep 2026 18:35:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Tendenza per il 9 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3520</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3520</guid>
       <description>Pericolosità: Nessun pericolo
@@ -32,7 +32,7 @@ Una tendenza è stata emessa per mercoledì 9 settembre per fenomeni intensi att
       <pubDate>Mon, 07 Sep 2026 18:41:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 8 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3519</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3519</guid>
       <description>Pericolosità: Pericolosità 1
@@ -44,7 +44,7 @@ Il promontorio anticiclonico di matrice sub-tropicale inizierà a cedere a causa
       <pubDate>Mon, 07 Sep 2026 13:24:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 7 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3518</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3518</guid>
       <description>Pericolosità: Pericolosità 0
@@ -56,7 +56,7 @@ Nella giornata di lunedì, la tenuta ancora salda di un campo di alta pressione 
       <pubDate>Sun, 06 Sep 2026 12:47:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 6 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3517</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3517</guid>
       <description>Pericolosità: Nessun pericolo
@@ -68,7 +68,7 @@ Il campo alto-pressorio mantiene la colonna d’aria in un contesto ampiamente s
       <pubDate>Sat, 05 Sep 2026 14:39:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 5 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3516</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3516</guid>
       <description>Pericolosità: Pericolosità 1
@@ -80,7 +80,7 @@ Nella giornata di sabato un promontorio anticiclonico interesserà gran parte de
       <pubDate>Fri, 04 Sep 2026 12:21:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 4 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3515</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3515</guid>
       <description>Pericolosità: Nessun pericolo
@@ -92,7 +92,7 @@ Sull'Italia l'alta pressione africana rimonterà garantendo un tempo stabile. No
       <pubDate>Thu, 03 Sep 2026 16:58:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 3 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3514</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3514</guid>
       <description>Pericolosità: Pericolosità 0
@@ -104,7 +104,7 @@ La rapida rimonta di un promontorio anticiclonico in quota favorirà una rapida 
       <pubDate>Wed, 02 Sep 2026 15:34:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 2 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3513</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3513</guid>
       <description>Pericolosità: Pericolosità 1
@@ -116,7 +116,7 @@ Nella giornata in esame transiterà una blanda ondulazione della corrente a gett
       <pubDate>Tue, 01 Sep 2026 14:03:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 1 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3512</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3512</guid>
       <description>Pericolosità: Pericolosità 0
@@ -128,7 +128,7 @@ La presenza una massa d'aria più fredda subito a nord delle regioni settentrion
       <pubDate>Mon, 31 Aug 2026 13:33:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 31 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3511</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3511</guid>
       <description>Pericolosità: Pericolosità 1
@@ -140,7 +140,7 @@ Nella giornata di domani, la presenza di una struttura anticiclonica di matrice 
       <pubDate>Sun, 30 Aug 2026 13:46:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 30 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3510</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3510</guid>
       <description>Pericolosità: Nessun pericolo
@@ -152,7 +152,7 @@ Un campo mobile di alta pressione garantirà condizioni di maggiore stabilità a
       <pubDate>Sat, 29 Aug 2026 22:34:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 28 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3508</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3508</guid>
       <description>Pericolosità: Pericolosità 2
@@ -160,11 +160,11 @@ Un campo mobile di alta pressione garantirà condizioni di maggiore stabilità a
 Previsore/i: Federico Negro
 
 Una saccatura nordatlantica affonda verso il nord Africa innescando un intenso richiamo di correnti meridionali dal mar Mediterraneo umide e instabili in medio-bassa troposfera sul…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3508"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--5fc52228edc6b5ed112a2d3318ff2e4958ea62b6/agg_28_08_2026.jpg" type="image/jpeg" length="0"/>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--10ac9ebf5e1e3be64d7bc5df2b6e2302a24eba6e/28_08_2026.png" type="image/png" length="0"/>
       <pubDate>Fri, 28 Aug 2026 12:52:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 29 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3509</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3509</guid>
       <description>Pericolosità: Pericolosità 0
@@ -176,7 +176,7 @@ Nella giornata di domani la saccatura nord-atlantica che sta transitando sull'Eu
       <pubDate>Fri, 28 Aug 2026 12:38:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Tendenza per il 28 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3507</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3507</guid>
       <description>Pericolosità: Pericolosità 1
@@ -188,7 +188,7 @@ Una tendenza è stata emessa per la giornata di Venerdì. Isolati temporali fort
       <pubDate>Wed, 26 Aug 2026 19:11:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 27 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3506</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3506</guid>
       <description>Pericolosità: Pericolosità 0
@@ -200,7 +200,7 @@ La rimonta a tutte le quote di un robusto promontorio anticiclonico di origine s
       <pubDate>Wed, 26 Aug 2026 15:46:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 26 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3505</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3505</guid>
       <description>Pericolosità: Pericolosità 0
@@ -212,7 +212,7 @@ Nella giornata presa in esame le condizioni meteorologiche andranno a diventare 
       <pubDate>Tue, 25 Aug 2026 21:03:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 24 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3503</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3503</guid>
       <description>Pericolosità: Pericolosità 1
@@ -220,11 +220,11 @@ Nella giornata presa in esame le condizioni meteorologiche andranno a diventare 
 Previsore/i: Diego Bellotti
 
 Il territorio nazionale si troverà nel confine tra l'anticiclone sub-tropicale continentale e una nuova onda corta che si farà strada attraverso la Penisola Iberica, Golfo…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3503"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--94dcf975c300a760347cfe67c9dd79ab220e7429/agg_24-25-08-2026.jpg" type="image/jpeg" length="0"/>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--92724c09fbe76cd161825159a2503c6a449842de/24-08-2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Mon, 24 Aug 2026 20:14:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 25 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3504</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3504</guid>
       <description>Pericolosità: Pericolosità 1
@@ -236,7 +236,7 @@ Fra la notte e il mattino il transito di un'onda corta determinerà condizioni d
       <pubDate>Mon, 24 Aug 2026 10:56:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 23 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3502</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3502</guid>
       <description>Pericolosità: Pericolosità 0
@@ -248,7 +248,7 @@ Tra la notte e il primo mattino di domenica saranno possibili temporali sparsi s
       <pubDate>Sat, 22 Aug 2026 16:42:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 21 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3500</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3500</guid>
       <description>Pericolosità: Pericolosità 2
@@ -256,11 +256,11 @@ Tra la notte e il primo mattino di domenica saranno possibili temporali sparsi s
 Previsore/i: Federico Negro
 
 Un aggiornamento viene emesso per una possibile passata di temporali forti tra Romagna, Veneto, FVG e L'istria. Diffuse precipitazioni di natura stratiforme interessano buona parte…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3500"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0NywicHVyIjoiYmxvYl9pZCJ9fQ==--22d394598a5714dbd9de723cc1d0614d6972536a/agg-21-08-2026-14utc.png" type="image/png" length="0"/>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ccff8657f07658031294df66f10b1d813a30656/21_08_2026.png" type="image/png" length="0"/>
       <pubDate>Fri, 21 Aug 2026 14:13:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 22 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3501</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3501</guid>
       <description>Pericolosità: Pericolosità 0
@@ -272,7 +272,7 @@ Nella giornata di sabato, la perturbazione che ha interessato le regioni centro-
       <pubDate>Fri, 21 Aug 2026 12:28:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Tendenza per il 21 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3499</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3499</guid>
       <description>Pericolosità: Pericolosità 2
@@ -284,7 +284,7 @@ Nella giornata di Venerdì 21 agosto è attesa una nuova ondata di temporali anc
       <pubDate>Wed, 19 Aug 2026 21:42:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 20 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3498</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3498</guid>
       <description>Pericolosità: Pericolosità 2
@@ -296,7 +296,7 @@ L’avanzare verso levante di una vasta saccatura atlantica in medio-alta tropos
       <pubDate>Wed, 19 Aug 2026 15:54:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Tendenza per il 20 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3497</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3497</guid>
       <description>Pericolosità: Pericolosità 2
@@ -308,7 +308,7 @@ Una tendenza è stata pubblicata per la giornata di giovedì. Saranno possibili 
       <pubDate>Tue, 18 Aug 2026 19:33:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 19 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3496</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3496</guid>
       <description>Pericolosità: Pericolosità 1
@@ -320,7 +320,7 @@ Sul dominio di previsione l'onda depressionaria che interessa le regioni del cen
       <pubDate>Tue, 18 Aug 2026 15:35:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 18 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3495</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3495</guid>
       <description>Pericolosità: Pericolosità 1
@@ -332,7 +332,7 @@ Prosegue lo spostamento verso sud-est dell'onda corta associata all'instabilità
       <pubDate>Mon, 17 Aug 2026 13:22:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 17 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3494</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3494</guid>
       <description>Pericolosità: Pericolosità 2
@@ -344,7 +344,7 @@ Nella giornata di lunedì, il transito di un’onda depressionaria lungo il bord
       <pubDate>Sun, 16 Aug 2026 15:47:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 16 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3493</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3493</guid>
       <description>Pericolosità: Pericolosità 1
@@ -356,7 +356,7 @@ Da domenica 16 agosto aumenterà gradualmente l’instabilità, con temporali in
       <pubDate>Sat, 15 Aug 2026 16:58:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 15 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3492</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3492</guid>
       <description>Pericolosità: Pericolosità 1
@@ -368,7 +368,7 @@ Nella giornata di sabato instabilità convettiva a evoluzione diurna interesser�
       <pubDate>Fri, 14 Aug 2026 12:28:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 14 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3491</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3491</guid>
       <description>Pericolosità: Pericolosità 1
@@ -380,7 +380,7 @@ Sul Paese continua a dominare l'anticiclone tropicale con prevalente stabilità.
       <pubDate>Thu, 13 Aug 2026 13:28:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 13 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3490</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3490</guid>
       <description>Pericolosità: Pericolosità 1
@@ -392,7 +392,7 @@ Un relativo e residuo cut-off termico in quota evolverà verso le regioni meridi
       <pubDate>Wed, 12 Aug 2026 16:06:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 12 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3489</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3489</guid>
       <description>Pericolosità: Pericolosità 1
@@ -404,7 +404,7 @@ La goccia fredda in quota si muoverà verso le regioni centrali con la formazion
       <pubDate>Tue, 11 Aug 2026 21:04:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 11 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3488</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3488</guid>
       <description>Pericolosità: Pericolosità 1
@@ -416,7 +416,7 @@ Nella giornata in esame le condizioni meteorologiche risulteranno prevalentement
       <pubDate>Mon, 10 Aug 2026 17:33:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 10 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3487</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3487</guid>
       <description>Pericolosità: Pericolosità 1
@@ -428,7 +428,7 @@ L'anticiclone africano continuerà ad interessare il Paese, tuttavia la presenza
       <pubDate>Sun, 09 Aug 2026 09:54:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 9 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3486</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3486</guid>
       <description>Pericolosità: Pericolosità 1
@@ -440,7 +440,7 @@ Nel corso del pomeriggio saranno ancora possibili temporali localmente forti sop
       <pubDate>Sat, 08 Aug 2026 16:17:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 8 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3485</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3485</guid>
       <description>Pericolosità: Pericolosità 1
@@ -452,7 +452,7 @@ Nella giornata di sabato un promontorio nord africano occuperà ancora gran part
       <pubDate>Fri, 07 Aug 2026 15:31:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 7 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3484</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3484</guid>
       <description>Pericolosità: Pericolosità 1
@@ -460,11 +460,11 @@ Nella giornata di sabato un promontorio nord africano occuperà ancora gran part
 Previsore/i: Federico Negro
 
 *** Vengono estesi i livelli 0 e 1 tra Veneto, Friuli Venezia Giulia, Slovenia e Romagna; rimane invariato altrove*** --- Sull'Italia l'anticiclone subtropicale subisce un…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3484"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--f80cdba3ae1af4ccaf6c58ca3da023fddb0ee0aa/Aggiornamento_07_08_2026.png" type="image/png" length="0"/>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--820e160697c4dfaccefe6eeb482f9dead953b79f/07_08_2026.png" type="image/png" length="0"/>
       <pubDate>Fri, 07 Aug 2026 06:48:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 6 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3483</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3483</guid>
       <description>Pericolosità: Pericolosità 1
@@ -476,7 +476,7 @@ Mentre la residua goccia fredda in quota (ULL) tenderà a portarsi sulla Sicilia
       <pubDate>Wed, 05 Aug 2026 16:27:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 5 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3482</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3482</guid>
       <description>Pericolosità: Pericolosità 1
@@ -488,7 +488,7 @@ La situazione a larga scala vede l'influenza di un anticiclone anomalo di matric
       <pubDate>Tue, 04 Aug 2026 21:34:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 4 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3481</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3481</guid>
       <description>Pericolosità: Pericolosità 0
@@ -500,7 +500,7 @@ Nel corso della giornata prosegue lo spostamento verso sud-est di un minimo bari
       <pubDate>Mon, 03 Aug 2026 17:46:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 3 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3480</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3480</guid>
       <description>Pericolosità: Pericolosità 1
@@ -512,7 +512,7 @@ L'anticiclone africano continua ad interessare il Paese con temperature decisame
       <pubDate>Sun, 02 Aug 2026 15:01:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 2 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3479</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3479</guid>
       <description>Pericolosità: Pericolosità 1
@@ -524,7 +524,7 @@ Nel corso del pomeriggio di domenica potranno svilupparsi dei temporali soprattu
       <pubDate>Sat, 01 Aug 2026 16:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 1 agosto 2026</title>
       <link>https://www.pretemp.it/previsioni/3478</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3478</guid>
       <description>Pericolosità: Pericolosità 1
@@ -536,7 +536,7 @@ Un livello di pericolosità 1 per piogge e grandine di medie dimensioni sarà va
       <pubDate>Fri, 31 Jul 2026 16:48:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 31 luglio 2026</title>
       <link>https://www.pretemp.it/previsioni/3477</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3477</guid>
       <description>Pericolosità: Pericolosità 2
@@ -548,7 +548,7 @@ Il campo di alta pressione cede leggermente in quota con infiltrazioni fresche i
       <pubDate>Thu, 30 Jul 2026 20:36:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 30 luglio 2026</title>
       <link>https://www.pretemp.it/previsioni/3476</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3476</guid>
       <description>Pericolosità: Pericolosità 0
@@ -560,7 +560,7 @@ Sull’intero dominio di previsione andrà ulteriormente affermandosi un vasto p
       <pubDate>Wed, 29 Jul 2026 15:36:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 29 luglio 2026</title>
       <link>https://www.pretemp.it/previsioni/3474</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3474</guid>
       <description>Pericolosità: Pericolosità 1
@@ -572,7 +572,7 @@ Sul dominio di previsione permarranno condizioni prevalentemente stabili, ad ecc
       <pubDate>Tue, 28 Jul 2026 20:48:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 28 luglio 2026</title>
       <link>https://www.pretemp.it/previsioni/3472</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3472</guid>
       <description>Pericolosità: Pericolosità 1
@@ -584,7 +584,7 @@ Nella giornata di martedì 28 luglio 2026, una goccia fredda in quota transiter�
       <pubDate>Mon, 27 Jul 2026 17:51:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 27 luglio 2026</title>
       <link>https://www.pretemp.it/previsioni/3471</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3471</guid>
       <description>Pericolosità: Pericolosità 0
@@ -596,7 +596,7 @@ Nella giornata di lunedì, lo spostamento verso levante della saccatura, che ha 
       <pubDate>Sun, 26 Jul 2026 14:23:00 +0200</pubDate>
     </item>
     <item>
-      <title>Pretemp</title>
+      <title>Previsione per il 26 luglio 2026</title>
       <link>https://www.pretemp.it/previsioni/3470</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3470</guid>
       <description>Pericolosità: Pericolosità 3
