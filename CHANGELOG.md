@@ -5,6 +5,12 @@ Il formato segue [Keep a Changelog](https://keepachangelog.com/it/1.0.0/) e il
 progetto adotta il [Semantic Versioning](https://semver.org/lang/it/)
 (MAJOR.MINOR.PATCH).
 
+## [1.7.1]
+### Modificato
+- Aggiornate `actions/checkout` (v4 → v6) e `actions/setup-python` (v5 → v6)
+  nel workflow: le nuove major girano nativamente su Node 24, eliminando il
+  warning di deprecazione di Node 20 nei log della Action.
+
 ## [1.7.0]
 ### Modificato
 - Il limite massimo di elementi nel feed è stato ridotto da 50 a 20.

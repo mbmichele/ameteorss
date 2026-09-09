@@ -29,7 +29,7 @@ from xml.sax.saxutils import escape
 import requests
 from bs4 import BeautifulSoup
 
-__version__ = "1.7.0"  # segue Semantic Versioning: MAJOR.MINOR.PATCH — vedi CHANGELOG.md
+__version__ = "1.7.1"  # segue Semantic Versioning: MAJOR.MINOR.PATCH — vedi CHANGELOG.md
 
 BASE_URL = "https://www.pretemp.it"
 ARCHIVE_URL = BASE_URL + "/archivio/{year}"
