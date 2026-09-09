@@ -5,8 +5,8 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Wed, 09 Sep 2026 05:43:41 +0000</lastBuildDate>
-    <generator>ameteorss/1.7.0 (scraper non ufficiale)</generator>
+    <lastBuildDate>Wed, 09 Sep 2026 06:01:34 +0000</lastBuildDate>
+    <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
     <item>
       <title>Previsione per il 9 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3521</link>
