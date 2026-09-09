@@ -29,7 +29,7 @@ from xml.sax.saxutils import escape
 import requests
 from bs4 import BeautifulSoup
 
-__version__ = "1.6.2"  # segue Semantic Versioning: MAJOR.MINOR.PATCH — vedi CHANGELOG.md
+__version__ = "1.7.0"  # segue Semantic Versioning: MAJOR.MINOR.PATCH — vedi CHANGELOG.md
 
 BASE_URL = "https://www.pretemp.it"
 ARCHIVE_URL = BASE_URL + "/archivio/{year}"
@@ -38,7 +38,7 @@ HEADERS = {
 }
 REQUEST_DELAY_SECONDS = 1.5
 REQUEST_TIMEOUT = 20
-MAX_ITEMS = 50  # limite massimo di elementi nel feed
+MAX_ITEMS = 20  # limite massimo di elementi nel feed
 ROME_TZ = ZoneInfo("Europe/Rome")
 
 MESI_ITALIANI = {

@@ -18,7 +18,7 @@ e valuta di linkare il sito originale.
 - `scraper.py` legge `https://www.pretemp.it/archivio/<anno>`, prende le previsioni
   più recenti e per ciascuna scarica la pagina di dettaglio (`/previsioni/<id>`),
   estraendo titolo, livello di pericolosità, previsore, testo breve e mappa.
-- Genera un file RSS 2.0 in `docs/rss.xml`, con **massimo 50 elementi**. Se serve
+- Genera un file RSS 2.0 in `docs/rss.xml`, con **massimo 20 elementi**. Se serve
   più di una pagina di archivio per raggiungerli, lo script le scorre in automatico.
 - La `<pubDate>` di ogni elemento è quella di aggiornamento/pubblicazione riportata
   nella pagina originale (non l'orario in cui gira lo scraper), convertita nel

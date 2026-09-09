@@ -5,6 +5,10 @@ Il formato segue [Keep a Changelog](https://keepachangelog.com/it/1.0.0/) e il
 progetto adotta il [Semantic Versioning](https://semver.org/lang/it/)
 (MAJOR.MINOR.PATCH).
 
+## [1.7.0]
+### Modificato
+- Il limite massimo di elementi nel feed è stato ridotto da 50 a 20.
+
 ## [1.6.2]
 ### Corretto
 - **Bug**: la Action falliva con `! [rejected] main -> main (fetch first)`
