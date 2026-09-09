@@ -29,7 +29,7 @@ from xml.sax.saxutils import escape
 import requests
 from bs4 import BeautifulSoup
 
-__version__ = "1.5.1"  # segue Semantic Versioning: MAJOR.MINOR.PATCH — vedi CHANGELOG.md
+__version__ = "1.6.1"  # segue Semantic Versioning: MAJOR.MINOR.PATCH — vedi CHANGELOG.md
 
 BASE_URL = "https://www.pretemp.it"
 ARCHIVE_URL = BASE_URL + "/archivio/{year}"
@@ -141,21 +141,29 @@ def parse_forecast_detail(url: str) -> dict:
     soup = get_soup(url)
     text = soup.get_text("\n", strip=True)
 
-    # Titolo: usa il titolo reale della pagina (meta og:title, poi tag <title>),
-    # cosi' il titolo dell'item RSS corrisponde esattamente al titolo della
-    # pagina linkata. Se non disponibile, ripiega sul testo dell'intestazione.
+    # Titolo: cerca la riga di testo che contiene sia la parola chiave
+    # (Previsione/Tendenza) sia un anno a 4 cifre. Questa è sempre
+    # l'intestazione vera della pagina (es. "Tendenza per il 9 settembre
+    # 2026"), a differenza di elementi di navigazione/breadcrumb che
+    # riportano solo la parola da sola senza data. og:title e <title>
+    # sul sito sono generici (es. solo "Previsione") e non vanno bene.
     title = None
-    og_title = soup.find("meta", property="og:title")
-    if og_title and og_title.get("content"):
-        title = og_title["content"].strip()
-    elif soup.title and soup.title.string:
-        title = soup.title.string.strip()
-    if title:
-        # Rimuove un eventuale suffisso "| PRETEMP" o "- PRETEMP" del sito
-        title = re.sub(r"\s*[|\-–]\s*PRETEMP\s*$", "", title, flags=re.IGNORECASE).strip()
+    for line in text.split("\n"):
+        line = line.strip()
+        if not line:
+            continue
+        if re.search(r"(Previsione|Tendenza)", line, re.IGNORECASE) and re.search(r"\d{4}", line):
+            title = line
+            break
     if not title:
-        title_match = re.search(r"(Previsione|Tendenza)[^\n]*", text)
-        title = title_match.group(0).strip() if title_match else "Previsione PRETEMP"
+        # Ripiego: prima riga che inizia con la parola chiave, anche senza data
+        for line in text.split("\n"):
+            line = line.strip()
+            if re.match(r"^(Previsione|Tendenza)\b", line, re.IGNORECASE):
+                title = line
+                break
+    if not title:
+        title = "Previsione PRETEMP"
 
     # Pericolosita': "Nessun pericolo" oppure "Pericolosita' N"
     danger_match = re.search(r"(Nessun pericolo|Pericolosit[aà]\s*\d+)", text)
@@ -181,9 +189,31 @@ def parse_forecast_detail(url: str) -> dict:
                 break
         body = after.strip()
 
-    # Immagine mappa (se presente)
+    # Immagine mappa: cerca in ordine di affidabilità crescente, per evitare
+    # di prendere per sbaglio un logo, un'icona di navigazione o l'avatar
+    # del previsore invece della mappa vera e propria della previsione.
     img_url = None
-    img_tag = soup.find("img", src=re.compile(r"active_storage|\.png|\.jpg"))
+
+    # 1. Alt text esplicito che parla di mappa
+    img_tag = soup.find("img", alt=re.compile(r"mappa", re.IGNORECASE))
+
+    # 2. Immagine caricata via active_storage il cui nome file somiglia a
+    #    quello di una mappa (contiene "mappa"/"tend"/"agg" o un pattern data
+    #    tipo 06_09_2026 / 06-09-2026)
+    if not img_tag:
+        img_tag = soup.find(
+            "img",
+            src=re.compile(
+                r"active_storage.*(mappa|tend|agg|\d{1,2}[-_]\d{1,2}[-_]\d{2,4})",
+                re.IGNORECASE,
+            ),
+        )
+
+    # 3. Ripiego: qualsiasi immagine caricata via active_storage o con
+    #    estensione .png/.jpg (comportamento precedente, meno preciso)
+    if not img_tag:
+        img_tag = soup.find("img", src=re.compile(r"active_storage|\.png|\.jpg", re.IGNORECASE))
+
     if img_tag and img_tag.get("src"):
         img_url = urljoin(BASE_URL, img_tag["src"])
 

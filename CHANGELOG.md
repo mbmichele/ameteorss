@@ -5,6 +5,23 @@ Il formato segue [Keep a Changelog](https://keepachangelog.com/it/1.0.0/) e il
 progetto adotta il [Semantic Versioning](https://semver.org/lang/it/)
 (MAJOR.MINOR.PATCH).
 
+## [1.6.1]
+### Modificato
+- Selezione dell'immagine più precisa: ora preferisce l'`alt` contenente
+  "mappa" o un nome file tipico di una mappa (mappa/tend/agg o un pattern
+  data), per evitare di prendere per sbaglio un logo o l'avatar del
+  previsore invece della mappa reale della previsione presente sulla
+  pagina linkata.
+
+## [1.6.0]
+### Corretto
+- **Bug**: il titolo dell'item risultava sempre la sola parola "Previsione"
+  (presa da un elemento di navigazione generico della pagina, non
+  dall'intestazione reale). Ora viene cercata la riga di testo che contiene
+  sia la parola chiave (Previsione/Tendenza) sia un anno a 4 cifre, che è
+  sempre l'intestazione vera (es. "Tendenza per il 9 settembre 2026").
+  Rimosso l'uso di `og:title`/`<title>`, generici su tutto il sito.
+
 ## [1.5.1]
 ### Modificato
 - Rinominato il progetto in "ameteorss" per allinearlo al nome reale del
