@@ -5,6 +5,14 @@ Il formato segue [Keep a Changelog](https://keepachangelog.com/it/1.0.0/) e il
 progetto adotta il [Semantic Versioning](https://semver.org/lang/it/)
 (MAJOR.MINOR.PATCH).
 
+## [1.6.2]
+### Corretto
+- **Bug**: la Action falliva con `! [rejected] main -> main (fetch first)`
+  quando due esecuzioni partivano quasi in contemporanea (es. due trigger
+  ravvicinati da cron-job.org). Aggiunta `concurrency` al workflow per
+  accodare le esecuzioni sovrapposte invece di farle girare in parallelo,
+  più un retry con `git pull --rebase` come rete di sicurezza.
+
 ## [1.6.1]
 ### Modificato
 - Selezione dell'immagine più precisa: ora preferisce l'`alt` contenente
