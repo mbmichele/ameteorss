@@ -5,7 +5,7 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:02:17 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
     <item>
       <title>Previsione per il 10 settembre 2026</title>
@@ -56,18 +56,6 @@ Il promontorio anticiclonico di matrice sub-tropicale inizierà a cedere a causa
       <pubDate>Mon, 07 Sep 2026 13:24:00 +0200</pubDate>
     </item>
     <item>
-      <title>Previsione per il 7 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3518</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3518</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Michele Tonnini
-
-Nella giornata di lunedì, la tenuta ancora salda di un campo di alta pressione di matrice ibrida continuerà a determinare tempo stabile e in prevalenza…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3518"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--f9c7f513af7092ab2ae6693285d4ca17fd8b46d7/mappa_07-09-2026.png" type="image/png" length="0"/>
-      <pubDate>Sun, 06 Sep 2026 12:47:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Previsione per il 6 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3517</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3517</guid>
@@ -90,6 +78,18 @@ Previsore/i: Daniele Nigro
 Nella giornata di sabato un promontorio anticiclonico interesserà gran parte dell’Italia, favorendo condizioni di generale stabilità atmosferica. Faranno eccezione le estreme regioni nord-orientali, parzialmente influenzate…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3516"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9702e6ef90cf97b29af0df09e75c44576776f0cc/05_09_2026.png" type="image/png" length="0"/>
       <pubDate>Fri, 04 Sep 2026 12:21:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione per il 4 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3515</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3515</guid>
+      <description>Pericolosità: Nessun pericolo
+
+Previsore/i: Federico Negro
+
+Sull'Italia l'alta pressione africana rimonterà garantendo un tempo stabile. Non sono previsti temporali.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3515"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NywicHVyIjoiYmxvYl9pZCJ9fQ==--93ed300ba0bf540412fdbf4cb59837cff1ddc778/04_09_2026.png" type="image/png" length="0"/>
+      <pubDate>Thu, 03 Sep 2026 16:58:00 +0200</pubDate>
     </item>
     <item>
       <title>Previsione per il 3 settembre 2026</title>
