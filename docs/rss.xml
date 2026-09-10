@@ -5,7 +5,7 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 15:01:44 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
     <item>
       <title>Previsione per il 10 settembre 2026</title>
@@ -54,6 +54,18 @@ Previsore/i: Diego Bellotti
 Il promontorio anticiclonico di matrice sub-tropicale inizierà a cedere a causa di un imminente cambio della circolazione atmosferica da occidente associato ad un calo delle…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3519"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--2c2348f19b7adc132ef5a417b71b227186176a3c/08-09-026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Mon, 07 Sep 2026 13:24:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione per il 7 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3518</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3518</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Michele Tonnini
+
+Nella giornata di lunedì, la tenuta ancora salda di un campo di alta pressione di matrice ibrida continuerà a determinare tempo stabile e in prevalenza…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3518"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--f9c7f513af7092ab2ae6693285d4ca17fd8b46d7/mappa_07-09-2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 06 Sep 2026 12:47:00 +0200</pubDate>
     </item>
     <item>
       <title>Previsione per il 6 settembre 2026</title>
