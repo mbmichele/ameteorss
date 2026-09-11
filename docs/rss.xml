@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Fri, 11 Sep 2026 15:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:01:39 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 12 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3523</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3523</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Pier Luigi Trudu
+
+La saccatura atlantica che transita sull'Eueopa Centro-meridionale continuerà anche nella giornata di domani a deteerminare instabilità sui settori meridionali del dominio di previsione. Un livello…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3523"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--2d8d646566def75d818b552215601db6b62ae98c/12_09_2026.png" type="image/png" length="0"/>
+      <pubDate>Fri, 11 Sep 2026 15:57:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 10 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3522</link>
@@ -222,18 +234,6 @@ Previsore/i: Diego Bellotti
 Nella giornata presa in esame le condizioni meteorologiche andranno a diventare più stabili su gran parte del dominio di previsione, specialmente sui settori del Centro-Sud…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3505"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1MywicHVyIjoiYmxvYl9pZCJ9fQ==--76b6f6823150da9042fbac7e090eb6b3462be24c/26-08-2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Tue, 25 Aug 2026 21:03:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 24 agosto 2026</title>
-      <link>https://www.pretemp.it/previsioni/3503</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3503</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Diego Bellotti
-
-Il territorio nazionale si troverà nel confine tra l'anticiclone sub-tropicale continentale e una nuova onda corta che si farà strada attraverso la Penisola Iberica, Golfo…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3503"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--92724c09fbe76cd161825159a2503c6a449842de/24-08-2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Mon, 24 Aug 2026 20:14:00 +0200</pubDate>
     </item>
     <item>
       <title>Previsione per il 25 agosto 2026</title>
