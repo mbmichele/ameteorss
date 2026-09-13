@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sun, 13 Sep 2026 14:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 15:01:37 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 14 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3525</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3525</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Michele Tonnini
+
+Nella giornata di lunedì, la graduale espansione di un campo di alta pressione di matrice ibrida darà luogo a tempo in prevalenza stabile e soleggiato…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3525"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4NywicHVyIjoiYmxvYl9pZCJ9fQ==--21834953ac2f8953d62530ced5c09a4979e06647/mappa_14-09-2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 13 Sep 2026 14:20:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 13 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3524</link>
@@ -234,18 +246,6 @@ Previsore/i: Pierluigi Randi
 La rimonta a tutte le quote di un robusto promontorio anticiclonico di origine sub-tropicale, determinerà un’elevata stabilità su gran parte del dominio di previsione. Tuttavia,…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3506"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--63c2102c4a628d80f013bff19c2e16b1c9a17a83/27_08_2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Wed, 26 Aug 2026 15:46:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 26 agosto 2026</title>
-      <link>https://www.pretemp.it/previsioni/3505</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3505</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Diego Bellotti
-
-Nella giornata presa in esame le condizioni meteorologiche andranno a diventare più stabili su gran parte del dominio di previsione, specialmente sui settori del Centro-Sud…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3505"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1MywicHVyIjoiYmxvYl9pZCJ9fQ==--76b6f6823150da9042fbac7e090eb6b3462be24c/26-08-2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Tue, 25 Aug 2026 21:03:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
