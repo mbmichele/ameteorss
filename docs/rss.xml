@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Mon, 14 Sep 2026 18:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 19:01:37 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 15 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3526</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3526</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Gabriele Bentivoglio
+
+L'allontanamento di un minimo di pressione dalle regioni meridionali verso est lascia spazio a condizioni di maggiore stabilità sulla maggior parte del dominio previsionale. Rimangono…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3526"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--30e97c3d73fa1c6e141689e0a40a9677b7413b71/15_09_2026.png" type="image/png" length="0"/>
+      <pubDate>Mon, 14 Sep 2026 17:51:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 14 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3525</link>
@@ -234,18 +246,6 @@ Previsore/i: Mattia  Nordio
 Una tendenza è stata emessa per la giornata di Venerdì. Isolati temporali forti/molto forti sono possibili sulle alte Pianure e fasce Pedemontane/Alpine del NW con…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3507"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--93c4bd1635ec3e626a420f682ac05d079ca6901d/Tend28_08_2026.png" type="image/png" length="0"/>
       <pubDate>Wed, 26 Aug 2026 19:11:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 27 agosto 2026</title>
-      <link>https://www.pretemp.it/previsioni/3506</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3506</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Pierluigi Randi
-
-La rimonta a tutte le quote di un robusto promontorio anticiclonico di origine sub-tropicale, determinerà un’elevata stabilità su gran parte del dominio di previsione. Tuttavia,…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3506"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--63c2102c4a628d80f013bff19c2e16b1c9a17a83/27_08_2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Wed, 26 Aug 2026 15:46:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
