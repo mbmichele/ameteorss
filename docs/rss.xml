@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:01:39 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 15 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3527</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3527</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Diego Bellotti
+
+Sul territorio nazionale la situazione meteorologica vedrà un graduale allontanamento della depressione presente sul mar Ionio verso ESE e, contestualmente, l'arrivo di una saccatura nord-atlantica…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3527"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--fa01d540c79d6ac72a931103e648602dbd67e640/16-09-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Tue, 15 Sep 2026 20:41:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 15 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3526</link>
@@ -234,18 +246,6 @@ Previsore/i: Pier Luigi Trudu
 Nella giornata di domani la saccatura nord-atlantica che sta transitando sull'Europa sud-occidentale continuerà a interessare il dominio previsionale ma con forzanti via via in calo…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3509"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1NywicHVyIjoiYmxvYl9pZCJ9fQ==--85038c11dde69df5eb598ded70c7fdeb0cfa6f60/29_08_2026.png" type="image/png" length="0"/>
       <pubDate>Fri, 28 Aug 2026 12:38:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Tendenza per il 28 agosto 2026</title>
-      <link>https://www.pretemp.it/previsioni/3507</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3507</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Mattia  Nordio
-
-Una tendenza è stata emessa per la giornata di Venerdì. Isolati temporali forti/molto forti sono possibili sulle alte Pianure e fasce Pedemontane/Alpine del NW con…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3507"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--93c4bd1635ec3e626a420f682ac05d079ca6901d/Tend28_08_2026.png" type="image/png" length="0"/>
-      <pubDate>Wed, 26 Aug 2026 19:11:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
