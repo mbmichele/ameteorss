@@ -5,7 +5,7 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Thu, 17 Sep 2026 00:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 01:01:39 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
     <item>
       <title>Previsione per il 17 settembre 2026</title>
@@ -78,6 +78,18 @@ Previsore/i: Pier Luigi Trudu
 La saccatura atlantica che transita sull'Eueopa Centro-meridionale continuerà anche nella giornata di domani a deteerminare instabilità sui settori meridionali del dominio di previsione. Un livello…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3523"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--2d8d646566def75d818b552215601db6b62ae98c/12_09_2026.png" type="image/png" length="0"/>
       <pubDate>Fri, 11 Sep 2026 15:57:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione per il 10 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3522</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3522</guid>
+      <description>Pericolosità: Pericolosità 2
+
+Previsore/i: Pierluigi Randi
+
+La saccatura di origine atlantica giunta nella giornata di ieri tenderà ad isolare un cut-off sulle regioni nord-occidentali italianeassociato a un sistema frontale in lenta…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3522"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--4290d230fb05809d9031f678b0e3cb206b857207/10_09_2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Wed, 09 Sep 2026 18:33:00 +0200</pubDate>
     </item>
     <item>
       <title>Previsione per il 9 settembre 2026</title>
