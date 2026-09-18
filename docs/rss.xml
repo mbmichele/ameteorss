@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Fri, 18 Sep 2026 15:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:01:39 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 19 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3530</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3530</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Daniele Nigro
+
+Nella giornata di sabato, una blanda saccatura in quota con asse sud-ovest/nord-est e una goccia fredda in transito da ovest verso est sull’Italia centrale favoriranno…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3530"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5MywicHVyIjoiYmxvYl9pZCJ9fQ==--954362b2769663d447006bca5b236a1b3ebeffac/19_09_2026.png" type="image/png" length="0"/>
+      <pubDate>Fri, 18 Sep 2026 15:05:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 18 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3529</link>
@@ -234,18 +246,6 @@ Previsore/i: Michele Tonnini
 Nella giornata di domani, la presenza di una struttura anticiclonica di matrice ibrida determinerà tempo stabile ed in prevalenza soleggiato su gran parte del dominio…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3511"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--f7ee06f9e167540299b1ee85453e4b7f4d2eacc8/mappa_31-08-2026.png" type="image/png" length="0"/>
       <pubDate>Sun, 30 Aug 2026 13:46:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 30 agosto 2026</title>
-      <link>https://www.pretemp.it/previsioni/3510</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3510</guid>
-      <description>Pericolosità: Nessun pericolo
-
-Previsore/i: Giorgio Rotunno
-
-Un campo mobile di alta pressione garantirà condizioni di maggiore stabilità atmosferica rispetto ai giorni scorsi sull’intero dominio previsionale. Non sono attesi temporali di rilievo…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3510"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--40e7135f697e7a54fb1ccc9ae5f5294a979a93df/30_08_2026.png" type="image/png" length="0"/>
-      <pubDate>Sat, 29 Aug 2026 22:34:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
