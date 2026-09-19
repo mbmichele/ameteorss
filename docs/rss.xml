@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sat, 19 Sep 2026 20:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:01:31 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 20 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3531</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3531</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Francesco De Martin
+
+Sono probabili temporali sparsi sui mari Meridionali (specie sul Tirreno) durante le ore notturne, mentre nelle ore diurne i temporali si concentreranno soprattutto sulle aree…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3531"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--8f9edaf49771ea2afabdf2fe8865d89e90451020/20-09-2026.svg" type="image/*" length="0"/>
+      <pubDate>Sat, 19 Sep 2026 20:48:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 19 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3530</link>
@@ -234,18 +246,6 @@ Previsore/i: Gabriele Bentivoglio
 La presenza una massa d'aria più fredda subito a nord delle regioni settentrionali crea le condizioni per instabilità sporadica fra le aree di pianura e…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3512"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--93b3a81a14b2ebd7f0f974ce27f3b9ea813a5fbd/01_09_2026.png" type="image/png" length="0"/>
       <pubDate>Mon, 31 Aug 2026 13:33:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 31 agosto 2026</title>
-      <link>https://www.pretemp.it/previsioni/3511</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3511</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Michele Tonnini
-
-Nella giornata di domani, la presenza di una struttura anticiclonica di matrice ibrida determinerà tempo stabile ed in prevalenza soleggiato su gran parte del dominio…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3511"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--f7ee06f9e167540299b1ee85453e4b7f4d2eacc8/mappa_31-08-2026.png" type="image/png" length="0"/>
-      <pubDate>Sun, 30 Aug 2026 13:46:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
