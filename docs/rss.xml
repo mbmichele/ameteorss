@@ -5,7 +5,7 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sat, 19 Sep 2026 09:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 10:03:59 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
     <item>
       <title>Previsione per il 19 settembre 2026</title>
@@ -80,42 +80,6 @@ Nella giornata di lunedì, la graduale espansione di un campo di alta pressione 
       <pubDate>Sun, 13 Sep 2026 14:20:00 +0200</pubDate>
     </item>
     <item>
-      <title>Previsione per il 13 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3524</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3524</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Giorgio Rotunno
-
-L'instabilità si concentrerà sui mari meridionali italiani e la Sicilia, con maggiore attenzione ai settori orientali e sud-orientali dell’isola. Tra la tarda sera di sabato…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3524"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--c908967d2521379c63a898ae25e0f34a9a68e14d/13_09_2026.png" type="image/png" length="0"/>
-      <pubDate>Sat, 12 Sep 2026 18:39:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 12 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3523</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3523</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Pier Luigi Trudu
-
-La saccatura atlantica che transita sull'Eueopa Centro-meridionale continuerà anche nella giornata di domani a deteerminare instabilità sui settori meridionali del dominio di previsione. Un livello…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3523"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--2d8d646566def75d818b552215601db6b62ae98c/12_09_2026.png" type="image/png" length="0"/>
-      <pubDate>Fri, 11 Sep 2026 15:57:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 10 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3522</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3522</guid>
-      <description>Pericolosità: Pericolosità 2
-
-Previsore/i: Pierluigi Randi
-
-La saccatura di origine atlantica giunta nella giornata di ieri tenderà ad isolare un cut-off sulle regioni nord-occidentali italianeassociato a un sistema frontale in lenta…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3522"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--4290d230fb05809d9031f678b0e3cb206b857207/10_09_2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Wed, 09 Sep 2026 18:33:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Previsione per il 9 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3521</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3521</guid>
@@ -128,18 +92,6 @@ Una saccatura di origine atlantica approccerà parte del dominio di previsione s
       <pubDate>Tue, 08 Sep 2026 18:35:00 +0200</pubDate>
     </item>
     <item>
-      <title>Tendenza per il 9 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3520</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3520</guid>
-      <description>Pericolosità: Nessun pericolo
-
-Previsore/i: Nicola Carlon
-
-Una tendenza è stata emessa per mercoledì 9 settembre per fenomeni intensi attesi nelle regioni del Centro Nord. Un livello 2 è stato emesso per…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3520"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--c6a8b7a9b3e66fc5f15cec9b9fde95c8c82b128d/tendenza_09_09_2026.png" type="image/png" length="0"/>
-      <pubDate>Mon, 07 Sep 2026 18:41:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Previsione per il 8 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3519</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3519</guid>
@@ -150,18 +102,6 @@ Previsore/i: Diego Bellotti
 Il promontorio anticiclonico di matrice sub-tropicale inizierà a cedere a causa di un imminente cambio della circolazione atmosferica da occidente associato ad un calo delle…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3519"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--2c2348f19b7adc132ef5a417b71b227186176a3c/08-09-026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Mon, 07 Sep 2026 13:24:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 7 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3518</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3518</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Michele Tonnini
-
-Nella giornata di lunedì, la tenuta ancora salda di un campo di alta pressione di matrice ibrida continuerà a determinare tempo stabile e in prevalenza…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3518"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--f9c7f513af7092ab2ae6693285d4ca17fd8b46d7/mappa_07-09-2026.png" type="image/png" length="0"/>
-      <pubDate>Sun, 06 Sep 2026 12:47:00 +0200</pubDate>
     </item>
     <item>
       <title>Previsione per il 6 settembre 2026</title>
@@ -186,18 +126,6 @@ Previsore/i: Daniele Nigro
 Nella giornata di sabato un promontorio anticiclonico interesserà gran parte dell’Italia, favorendo condizioni di generale stabilità atmosferica. Faranno eccezione le estreme regioni nord-orientali, parzialmente influenzate…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3516"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9702e6ef90cf97b29af0df09e75c44576776f0cc/05_09_2026.png" type="image/png" length="0"/>
       <pubDate>Fri, 04 Sep 2026 12:21:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 4 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3515</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3515</guid>
-      <description>Pericolosità: Nessun pericolo
-
-Previsore/i: Federico Negro
-
-Sull'Italia l'alta pressione africana rimonterà garantendo un tempo stabile. Non sono previsti temporali.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3515"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NywicHVyIjoiYmxvYl9pZCJ9fQ==--93ed300ba0bf540412fdbf4cb59837cff1ddc778/04_09_2026.png" type="image/png" length="0"/>
-      <pubDate>Thu, 03 Sep 2026 16:58:00 +0200</pubDate>
     </item>
     <item>
       <title>Previsione per il 3 settembre 2026</title>
@@ -234,18 +162,6 @@ Previsore/i: Gabriele Bentivoglio
 La presenza una massa d'aria più fredda subito a nord delle regioni settentrionali crea le condizioni per instabilità sporadica fra le aree di pianura e…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3512"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--93b3a81a14b2ebd7f0f974ce27f3b9ea813a5fbd/01_09_2026.png" type="image/png" length="0"/>
       <pubDate>Mon, 31 Aug 2026 13:33:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 31 agosto 2026</title>
-      <link>https://www.pretemp.it/previsioni/3511</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3511</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Michele Tonnini
-
-Nella giornata di domani, la presenza di una struttura anticiclonica di matrice ibrida determinerà tempo stabile ed in prevalenza soleggiato su gran parte del dominio…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3511"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--f7ee06f9e167540299b1ee85453e4b7f4d2eacc8/mappa_31-08-2026.png" type="image/png" length="0"/>
-      <pubDate>Sun, 30 Aug 2026 13:46:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
