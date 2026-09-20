@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sun, 20 Sep 2026 14:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 15:01:37 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 21 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3532</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3532</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Michele Tonnini
+
+Nella giornata di lunedì, la rimonta di un vasto promontorio anticiclonico di matrice ibrida determinerà, su gran parte del dominio previsionale, condizioni stabili ed in…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3532"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--7abfdc492b61aa3198b19b250ad79280d39de7b8/mappa_21-09-2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 20 Sep 2026 14:25:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 20 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3531</link>
@@ -234,18 +246,6 @@ Previsore/i: Diego Bellotti
 Nella giornata in esame transiterà una blanda ondulazione della corrente a getto, con dei possibili effetti già dalla notte. Sulle estreme regioni meridionali del dominio…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3513"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--a992802934c27c2101fd05d40a4bc17519e2c3e0/02-09-2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Tue, 01 Sep 2026 14:03:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 1 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3512</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3512</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Gabriele Bentivoglio
-
-La presenza una massa d'aria più fredda subito a nord delle regioni settentrionali crea le condizioni per instabilità sporadica fra le aree di pianura e…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3512"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--93b3a81a14b2ebd7f0f974ce27f3b9ea813a5fbd/01_09_2026.png" type="image/png" length="0"/>
-      <pubDate>Mon, 31 Aug 2026 13:33:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
