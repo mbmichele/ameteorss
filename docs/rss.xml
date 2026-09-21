@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Mon, 21 Sep 2026 19:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 20:01:37 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 22 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3533</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3533</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Gabriele Bentivoglio
+
+L'approfondimento di un'area di bassa pressione sui Balcani favorisce la possibilità di temporali isolati e per lo più deboli fra Sicilia e Calabria. Nelle altre…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3533"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--ee48ed9cb622d60cadcc21d846b4c2da433653ec/22_09_2026.png" type="image/png" length="0"/>
+      <pubDate>Mon, 21 Sep 2026 19:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 21 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3532</link>
@@ -30,6 +42,18 @@ Previsore/i: Francesco De Martin
 Sono probabili temporali sparsi sui mari Meridionali (specie sul Tirreno) durante le ore notturne, mentre nelle ore diurne i temporali si concentreranno soprattutto sulle aree…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3531"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--8f9edaf49771ea2afabdf2fe8865d89e90451020/20-09-2026.svg" type="image/*" length="0"/>
       <pubDate>Sat, 19 Sep 2026 20:48:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione per il 19 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3530</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3530</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Daniele Nigro
+
+Nella giornata di sabato, una blanda saccatura in quota con asse sud-ovest/nord-est e una goccia fredda in transito da ovest verso est sull’Italia centrale favoriranno…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3530"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5MywicHVyIjoiYmxvYl9pZCJ9fQ==--954362b2769663d447006bca5b236a1b3ebeffac/19_09_2026.png" type="image/png" length="0"/>
+      <pubDate>Fri, 18 Sep 2026 15:05:00 +0200</pubDate>
     </item>
     <item>
       <title>Previsione per il 18 settembre 2026</title>
