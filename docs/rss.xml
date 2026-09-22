@@ -5,7 +5,7 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 22 Sep 2026 01:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 02:01:36 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
     <item>
       <title>Previsione per il 22 settembre 2026</title>
@@ -18,6 +18,18 @@ Previsore/i: Gabriele Bentivoglio
 L'approfondimento di un'area di bassa pressione sui Balcani favorisce la possibilità di temporali isolati e per lo più deboli fra Sicilia e Calabria. Nelle altre…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3533"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--ee48ed9cb622d60cadcc21d846b4c2da433653ec/22_09_2026.png" type="image/png" length="0"/>
       <pubDate>Mon, 21 Sep 2026 19:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione per il 21 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3532</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3532</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Michele Tonnini
+
+Nella giornata di lunedì, la rimonta di un vasto promontorio anticiclonico di matrice ibrida determinerà, su gran parte del dominio previsionale, condizioni stabili ed in…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3532"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--7abfdc492b61aa3198b19b250ad79280d39de7b8/mappa_21-09-2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 20 Sep 2026 14:25:00 +0200</pubDate>
     </item>
     <item>
       <title>Previsione per il 20 settembre 2026</title>
