@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 22 Sep 2026 20:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 21:01:39 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 23 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3534</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3534</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Diego Bellotti
+
+Un'ampia circolazione ciclonica associata ad una saccatura sarà ancora presente sui Balcani, con condizioni di instabilità atmosferica, anche temporalesca. Sul territorio nazionale alcuni temporali potranno…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3534"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--32c42350dccfa3ac7dff7533f69607e78752e0fb/23-09-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Tue, 22 Sep 2026 11:21:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 22 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3533</link>
@@ -234,18 +246,6 @@ Previsore/i: Federico Negro
 Sull'Italia l'alta pressione africana rimonterà garantendo un tempo stabile. Non sono previsti temporali.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3515"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NywicHVyIjoiYmxvYl9pZCJ9fQ==--93ed300ba0bf540412fdbf4cb59837cff1ddc778/04_09_2026.png" type="image/png" length="0"/>
       <pubDate>Thu, 03 Sep 2026 16:58:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 3 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3514</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3514</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Pierluigi Randi
-
-La rapida rimonta di un promontorio anticiclonico in quota favorirà una rapida stabilizzazione su gran parte del dominio di previsione causa l’afflusso di masse d’aria…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3514"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--d0ffb033f5e03a4af04e56c57059948b54fd6632/03_09_2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Wed, 02 Sep 2026 15:34:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
