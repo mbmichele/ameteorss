@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Thu, 24 Sep 2026 21:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 22:02:12 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 25 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3536</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3536</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Federico Negro
+
+Un'onda corta sta transitando sul nord adriatico in alta quota. Un tear off avverrà nel corso della giornata di domani, con una goccia fredda in…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3536"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--6555d123a5e4e7fb575bc76790b712d36b3ddc74/25_09_2026.png" type="image/png" length="0"/>
+      <pubDate>Thu, 24 Sep 2026 21:50:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 24 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3535</link>
@@ -234,18 +246,6 @@ Previsore/i: Giorgio Rotunno
 Il campo alto-pressorio mantiene la colonna d’aria in un contesto ampiamente stabile su buona parte dell’Italia. Solamente dalla tarda serata di domenica si segnala l’ingresso…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3517"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--5801670ed3a0fa6295b8e7d8e66552732356b0ed/06_09_2026.png" type="image/png" length="0"/>
       <pubDate>Sat, 05 Sep 2026 14:39:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 5 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3516</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3516</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Daniele Nigro
-
-Nella giornata di sabato un promontorio anticiclonico interesserà gran parte dell’Italia, favorendo condizioni di generale stabilità atmosferica. Faranno eccezione le estreme regioni nord-orientali, parzialmente influenzate…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3516"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9702e6ef90cf97b29af0df09e75c44576776f0cc/05_09_2026.png" type="image/png" length="0"/>
-      <pubDate>Fri, 04 Sep 2026 12:21:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
