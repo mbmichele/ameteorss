@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Mon, 28 Sep 2026 11:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:01:39 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 29 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3540</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3540</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Gabriele Bentivoglio
+
+Persiste sulla penisola un promontorio anticiclonico che garantisce condizioni di stabilità su quasi tutto il dominio previsionale. Viene emesso un livello 0 sulla Sicilia meridionale…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3540"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--790597d8d37ca1f39da0aa15d92ca8836a5c8748/29_09_2026.png" type="image/png" length="0"/>
+      <pubDate>Mon, 28 Sep 2026 10:42:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 28 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3539</link>
@@ -234,18 +246,6 @@ Previsore/i: Diego Bellotti
 Una saccatura di origine atlantica approccerà parte del dominio di previsione sotto tese corrente sud-occidentali in media e alta troposfera e, contestualmente, si farà strada…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3521"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MywicHVyIjoiYmxvYl9pZCJ9fQ==--079faba25c937155d27ecdb8d619d2a1ce09c658/09-09-2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Tue, 08 Sep 2026 18:35:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Tendenza per il 9 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3520</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3520</guid>
-      <description>Pericolosità: Nessun pericolo
-
-Previsore/i: Nicola Carlon
-
-Una tendenza è stata emessa per mercoledì 9 settembre per fenomeni intensi attesi nelle regioni del Centro Nord. Un livello 2 è stato emesso per…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3520"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--c6a8b7a9b3e66fc5f15cec9b9fde95c8c82b128d/tendenza_09_09_2026.png" type="image/png" length="0"/>
-      <pubDate>Mon, 07 Sep 2026 18:41:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
