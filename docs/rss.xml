@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 29 Sep 2026 21:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 22:01:37 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 30 settembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3541</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3541</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Diego Bellotti
+
+Un regime di blocco caratterizzerà anche la giornata in esame, con la persistenza di una cupola alto pressoria sub-tropicale su buona parte dell'Europa centro-orientale e…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3541"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--a0e2bf8f0b60220c6b9489429b410d8f09885c23/30-09-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Tue, 29 Sep 2026 21:10:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 29 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3540</link>
@@ -234,18 +246,6 @@ Previsore/i: Pierluigi Randi
 La saccatura di origine atlantica giunta nella giornata di ieri tenderà ad isolare un cut-off sulle regioni nord-occidentali italianeassociato a un sistema frontale in lenta…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3522"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--4290d230fb05809d9031f678b0e3cb206b857207/10_09_2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Wed, 09 Sep 2026 18:33:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 9 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3521</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3521</guid>
-      <description>Pericolosità: Pericolosità 2
-
-Previsore/i: Diego Bellotti
-
-Una saccatura di origine atlantica approccerà parte del dominio di previsione sotto tese corrente sud-occidentali in media e alta troposfera e, contestualmente, si farà strada…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3521"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MywicHVyIjoiYmxvYl9pZCJ9fQ==--079faba25c937155d27ecdb8d619d2a1ce09c658/09-09-2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Tue, 08 Sep 2026 18:35:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
