@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Thu, 01 Oct 2026 21:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 22:01:38 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 2 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3543</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3543</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Federico Negro
+
+Sull'Italia persiste una debole alta pressione, e nonostante gli addensamenti nuvolosi, l'instabilità è modesta e limitata ai settori più occidentali. Nel Mediterraneo occidentale qualche debole…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3543"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMywicHVyIjoiYmxvYl9pZCJ9fQ==--58b8017d755c7900280ced1e6e80f381e4e6f873/02_10_2026.png" type="image/png" length="0"/>
+      <pubDate>Thu, 01 Oct 2026 21:45:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 1 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3542</link>
@@ -234,18 +246,6 @@ Previsore/i: Giorgio Rotunno
 L'instabilità si concentrerà sui mari meridionali italiani e la Sicilia, con maggiore attenzione ai settori orientali e sud-orientali dell’isola. Tra la tarda sera di sabato…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3524"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--c908967d2521379c63a898ae25e0f34a9a68e14d/13_09_2026.png" type="image/png" length="0"/>
       <pubDate>Sat, 12 Sep 2026 18:39:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 12 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3523</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3523</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Pier Luigi Trudu
-
-La saccatura atlantica che transita sull'Eueopa Centro-meridionale continuerà anche nella giornata di domani a deteerminare instabilità sui settori meridionali del dominio di previsione. Un livello…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3523"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--2d8d646566def75d818b552215601db6b62ae98c/12_09_2026.png" type="image/png" length="0"/>
-      <pubDate>Fri, 11 Sep 2026 15:57:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
