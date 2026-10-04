@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sun, 04 Oct 2026 14:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 15:02:12 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 5 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3545</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3545</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Michele Tonnini
+
+Il graduale indebolimento dell’alta pressione subtropicale sul suo bordo settentrionale e occidentale causerà un aumento dell’instabilità su parte del dominio previsionale. Al mattino saranno possibili…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3545"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--c6157a949393a4273daf258d89317280e241dc97/mappa_05-10-2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 04 Oct 2026 14:43:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 3 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3544</link>
@@ -234,18 +246,6 @@ Previsore/i: Gabriele Bentivoglio
 L'allontanamento di un minimo di pressione dalle regioni meridionali verso est lascia spazio a condizioni di maggiore stabilità sulla maggior parte del dominio previsionale. Rimangono…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3526"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--30e97c3d73fa1c6e141689e0a40a9677b7413b71/15_09_2026.png" type="image/png" length="0"/>
       <pubDate>Mon, 14 Sep 2026 17:51:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 14 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3525</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3525</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Michele Tonnini
-
-Nella giornata di lunedì, la graduale espansione di un campo di alta pressione di matrice ibrida darà luogo a tempo in prevalenza stabile e soleggiato…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3525"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY4NywicHVyIjoiYmxvYl9pZCJ9fQ==--21834953ac2f8953d62530ced5c09a4979e06647/mappa_14-09-2026.png" type="image/png" length="0"/>
-      <pubDate>Sun, 13 Sep 2026 14:20:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
