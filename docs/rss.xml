@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 06 Oct 2026 20:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:01:40 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 7 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3547</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3547</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Diego Bellotti
+
+Nella giornata in esame le condizioni meteorologiche risulteranno avverse su buona parte del dominio con possibili temporali dal Nord al Sud. Sulle regioni centro-settentrionali si…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3547"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--d3ab442b4d20c73d5efd5c4b4a3b672948fce001/07-10-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Tue, 06 Oct 2026 20:56:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 6 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3546</link>
@@ -234,18 +246,6 @@ Previsore/i: Pierluigi Randi
 Una saccatura in quota di origine atlantica evolverà verso levante introducendo una prima onda nella giornata di giovedì 17 cui ne seguirà una seconda l’indomani.…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3528"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--307f894f79281393197452be89b16888d8a9900d/17_09_2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Wed, 16 Sep 2026 17:17:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 16 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3527</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3527</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Diego Bellotti
-
-Sul territorio nazionale la situazione meteorologica vedrà un graduale allontanamento della depressione presente sul mar Ionio verso ESE e, contestualmente, l'arrivo di una saccatura nord-atlantica…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3527"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--fa01d540c79d6ac72a931103e648602dbd67e640/16-09-2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Tue, 15 Sep 2026 20:41:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
