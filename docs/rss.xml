@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Wed, 07 Oct 2026 16:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 18:02:15 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 8 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3548</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3548</guid>
+      <description>Pericolosità: Pericolosità 2
+
+Previsore/i: Pierluigi Randi
+
+L’avanzare da Ovest di una profonda saccatura nord-atlantica in quota introdurrà flussi sud-occidentali diffluenti e caratterizzati da spiccata componente ciclonica, in particolare al centro-nord della…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3548"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--9d7b3f889237c7f1e60eed87d0e06836e13352f3/08_10_2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Wed, 07 Oct 2026 17:24:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 7 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3547</link>
@@ -234,18 +246,6 @@ Previsore/i: Federico Negro
 Sull'Italia una vasta area depressionaria persiste alle quote superiori ed evolve in cut off, gradualmente assorbendosi a partire dal sud Italia e dalle aree occidentali…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3529"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--f5566b291ffea05c0769839620c4624297b0e70f/18_09_2026.png" type="image/png" length="0"/>
       <pubDate>Thu, 17 Sep 2026 22:44:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 17 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3528</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3528</guid>
-      <description>Pericolosità: Nessun pericolo
-
-Previsore/i: Pierluigi Randi
-
-Una saccatura in quota di origine atlantica evolverà verso levante introducendo una prima onda nella giornata di giovedì 17 cui ne seguirà una seconda l’indomani.…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3528"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--307f894f79281393197452be89b16888d8a9900d/17_09_2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Wed, 16 Sep 2026 17:17:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
