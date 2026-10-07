@@ -5,7 +5,7 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Wed, 07 Oct 2026 20:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 21:02:16 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
     <item>
       <title>Previsione per il 8 ottobre 2026</title>
@@ -114,18 +114,6 @@ Previsore/i: Gabriele Bentivoglio
 Persiste sulla penisola un promontorio anticiclonico che garantisce condizioni di stabilità su quasi tutto il dominio previsionale. Viene emesso un livello 0 sulla Sicilia meridionale…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3540"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--790597d8d37ca1f39da0aa15d92ca8836a5c8748/29_09_2026.png" type="image/png" length="0"/>
       <pubDate>Mon, 28 Sep 2026 10:42:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 28 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3539</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3539</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Michele Tonnini
-
-La rimonta e il consolidamento di un robusto campo di alta pressione di matrice subtropicale in estensione dal Nord Africa verso l’Europa settentrionale darà luogo…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3539"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--736f38717d6836d14a96a349b715dce42be827dc/mappa_28-09-2026.png" type="image/png" length="0"/>
-      <pubDate>Sun, 27 Sep 2026 10:45:00 +0200</pubDate>
     </item>
     <item>
       <title>Previsione per il 27 settembre 2026</title>
