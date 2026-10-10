@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sat, 10 Oct 2026 14:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 15:01:40 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 11 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3551</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3551</guid>
+      <description>Pericolosità: Pericolosità 2
+
+Previsore/i: Giorgio Rotunno
+
+Tra la tarda serata di sabato e la giornata di domenica, l'arrivo di aria più fredda in quota favorirà lo sviluppo di temporali su diversi…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3551"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMywicHVyIjoiYmxvYl9pZCJ9fQ==--000b16618da39fae74023c6df9790dad2df25ca8/11_10_2026.png" type="image/png" length="0"/>
+      <pubDate>Sat, 10 Oct 2026 14:38:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 10 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3550</link>
@@ -234,18 +246,6 @@ Previsore/i: Michele Tonnini
 Nella giornata di lunedì, la rimonta di un vasto promontorio anticiclonico di matrice ibrida determinerà, su gran parte del dominio previsionale, condizioni stabili ed in…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3532"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--7abfdc492b61aa3198b19b250ad79280d39de7b8/mappa_21-09-2026.png" type="image/png" length="0"/>
       <pubDate>Sun, 20 Sep 2026 14:25:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 20 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3531</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3531</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Francesco De Martin
-
-Sono probabili temporali sparsi sui mari Meridionali (specie sul Tirreno) durante le ore notturne, mentre nelle ore diurne i temporali si concentreranno soprattutto sulle aree…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3531"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--8f9edaf49771ea2afabdf2fe8865d89e90451020/20-09-2026.svg" type="image/*" length="0"/>
-      <pubDate>Sat, 19 Sep 2026 20:48:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
