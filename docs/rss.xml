@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sun, 11 Oct 2026 16:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 17:02:34 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 12 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3552</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3552</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Michele Tonnini
+
+Nella giornata di lunedì, il transito lungo l’Adriatico di un impulso instabile accompagnato da aria più fredda in quota (fino a -18/-20°C a 500 hPa)…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3552"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--c0031f47f6a3247419f5f62ff0ad2133174fc130/mappa_12-10-2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 11 Oct 2026 16:28:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 11 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3551</link>
@@ -128,18 +140,6 @@ L’attuale regime di blocco anticiclonico che interessa buona parte del dominio
       <pubDate>Wed, 30 Sep 2026 16:45:00 +0200</pubDate>
     </item>
     <item>
-      <title>Previsione per il 30 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3541</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3541</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Diego Bellotti
-
-Un regime di blocco caratterizzerà anche la giornata in esame, con la persistenza di una cupola alto pressoria sub-tropicale su buona parte dell'Europa centro-orientale e…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3541"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--a0e2bf8f0b60220c6b9489429b410d8f09885c23/30-09-2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Tue, 29 Sep 2026 21:10:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Previsione per il 29 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3540</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3540</guid>
@@ -188,18 +188,6 @@ Nella giornata di sabato la saccatura che sta transitando sui settori orientali 
       <pubDate>Fri, 25 Sep 2026 14:24:00 +0200</pubDate>
     </item>
     <item>
-      <title>Previsione per il 25 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3536</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3536</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Federico Negro
-
-Un'onda corta sta transitando sul nord adriatico in alta quota. Un tear off avverrà nel corso della giornata di domani, con una goccia fredda in…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3536"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--6555d123a5e4e7fb575bc76790b712d36b3ddc74/25_09_2026.png" type="image/png" length="0"/>
-      <pubDate>Thu, 24 Sep 2026 21:50:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Previsione per il 24 settembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3535</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3535</guid>
@@ -234,18 +222,6 @@ Previsore/i: Gabriele Bentivoglio
 L'approfondimento di un'area di bassa pressione sui Balcani favorisce la possibilità di temporali isolati e per lo più deboli fra Sicilia e Calabria. Nelle altre…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3533"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--ee48ed9cb622d60cadcc21d846b4c2da433653ec/22_09_2026.png" type="image/png" length="0"/>
       <pubDate>Mon, 21 Sep 2026 19:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 21 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3532</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3532</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Michele Tonnini
-
-Nella giornata di lunedì, la rimonta di un vasto promontorio anticiclonico di matrice ibrida determinerà, su gran parte del dominio previsionale, condizioni stabili ed in…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3532"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzY5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--7abfdc492b61aa3198b19b250ad79280d39de7b8/mappa_21-09-2026.png" type="image/png" length="0"/>
-      <pubDate>Sun, 20 Sep 2026 14:25:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
