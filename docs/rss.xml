@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 13 Oct 2026 15:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:01:48 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 14 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3554</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3554</guid>
+      <description>Pericolosità: Nessun pericolo
+
+Previsore/i: Diego Bellotti
+
+Nella giornata in esame prevarranno condizioni stabili sull'intero territorio nazionale con un lento ma graduale aumento dei geopotenziali da ovest associate ad una cresta anticiclonica.…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3554"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--fb04f7285703ca5fb9cdf78ecb2873730c6d81b8/14-10-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Tue, 13 Oct 2026 15:44:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 13 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3553</link>
@@ -234,18 +246,6 @@ Previsore/i: Pierluigi Randi
 Permarrà una circolazione ciclonica associata ad una saccatura in quotasu tutta l’area balcanica, entro la quale si inserirà un nuovo impulso freddo in discesa da…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3535"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--e9caf012bdd50d16b39b6dff9eff8ba8bd636a1c/24_09_2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Wed, 23 Sep 2026 16:25:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 23 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3534</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3534</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Diego Bellotti
-
-Un'ampia circolazione ciclonica associata ad una saccatura sarà ancora presente sui Balcani, con condizioni di instabilità atmosferica, anche temporalesca. Sul territorio nazionale alcuni temporali potranno…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3534"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--32c42350dccfa3ac7dff7533f69607e78752e0fb/23-09-2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Tue, 22 Sep 2026 11:21:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
