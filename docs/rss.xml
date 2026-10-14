@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Wed, 14 Oct 2026 17:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 18:01:42 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 15 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3555</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3555</guid>
+      <description>Pericolosità: Nessun pericolo
+
+Previsore/i: Pierluigi Randi
+
+Permarranno condizioni anticicloniche e stabili sull'intero dominio di previsione sebbene in lento indebolimento sull'estremo settore occidentale, pertanto, non sono attesi temporali.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3555"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--aefcfaa558c2d4f0ac3ce6090331ee198088250f/15_10_2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Wed, 14 Oct 2026 17:18:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 14 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3554</link>
@@ -234,18 +246,6 @@ Previsore/i: Federico Negro
 Un'onda corta sta transitando sul nord adriatico in alta quota. Un tear off avverrà nel corso della giornata di domani, con una goccia fredda in…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3536"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--6555d123a5e4e7fb575bc76790b712d36b3ddc74/25_09_2026.png" type="image/png" length="0"/>
       <pubDate>Thu, 24 Sep 2026 21:50:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 24 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3535</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3535</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Pierluigi Randi
-
-Permarrà una circolazione ciclonica associata ad una saccatura in quotasu tutta l’area balcanica, entro la quale si inserirà un nuovo impulso freddo in discesa da…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3535"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--e9caf012bdd50d16b39b6dff9eff8ba8bd636a1c/24_09_2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Wed, 23 Sep 2026 16:25:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
