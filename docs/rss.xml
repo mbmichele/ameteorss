@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Thu, 15 Oct 2026 20:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:01:39 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 16 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3556</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3556</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Federico Negro
+
+Sull'Italia centromeridionale il promontorio di alta pressione subtropicale lascia spazio a correnti fredde in quota nordorientali dai Balcani, seguendo la discesa di una goccia fredda…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3556"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0MywicHVyIjoiYmxvYl9pZCJ9fQ==--268a9178bb593e15d03d13047687a2bc4f605c29/16_10_2026.png" type="image/png" length="0"/>
+      <pubDate>Thu, 15 Oct 2026 20:26:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 15 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3555</link>
@@ -234,18 +246,6 @@ Previsore/i: Pier Luigi Trudu
 Nella giornata di sabato la saccatura che sta transitando sui settori orientali del dominio di previsione si porterà progressivamente verso il Mediterraneo Centro-Orientale interessando ancora…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3537"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNywicHVyIjoiYmxvYl9pZCJ9fQ==--705f1202b8e47cf9f3241e20b975a6272c1026f2/26_09_2026.png" type="image/png" length="0"/>
       <pubDate>Fri, 25 Sep 2026 14:24:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 25 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3536</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3536</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Federico Negro
-
-Un'onda corta sta transitando sul nord adriatico in alta quota. Un tear off avverrà nel corso della giornata di domani, con una goccia fredda in…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3536"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--6555d123a5e4e7fb575bc76790b712d36b3ddc74/25_09_2026.png" type="image/png" length="0"/>
-      <pubDate>Thu, 24 Sep 2026 21:50:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
