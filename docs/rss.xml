@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Fri, 16 Oct 2026 11:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:01:42 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 17 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3557</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3557</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Daniele Nigro
+
+Nella giornata di sabato avremo un graduale calo del geopotenziale sull’Italia. Tuttavia, il tempo rimarrà stabile su tutte le regioni per gran parte della giornata.…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3557"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--6e207b84009122c8235a06db3bb401ebed871144/17_10_2026.png" type="image/png" length="0"/>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 16 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3556</link>
@@ -234,18 +246,6 @@ Previsore/i: Giorgio Rotunno
 Un campo di alta pressione manterrà condizioni di sostanziale stabilità atmosferica, con assenza di temporali di rilievo. Solamente sul Mar Ionio potrà svilupparsi qualche addensamento…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3538"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--ec9fce193724417f56cf7f5d05ba8c66ddb82868/27_09_2026.png" type="image/png" length="0"/>
       <pubDate>Sat, 26 Sep 2026 21:08:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 26 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3537</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3537</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Pier Luigi Trudu
-
-Nella giornata di sabato la saccatura che sta transitando sui settori orientali del dominio di previsione si porterà progressivamente verso il Mediterraneo Centro-Orientale interessando ancora…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3537"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwNywicHVyIjoiYmxvYl9pZCJ9fQ==--705f1202b8e47cf9f3241e20b975a6272c1026f2/26_09_2026.png" type="image/png" length="0"/>
-      <pubDate>Fri, 25 Sep 2026 14:24:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
