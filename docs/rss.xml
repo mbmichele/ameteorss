@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sat, 17 Oct 2026 21:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 22:01:37 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 18 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3558</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3558</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Diego Bellotti
+
+Una onda depressionaria di provenienza nord-atlantica si isolerà dalla corrente a getto polare nelle prossime ore, evolvendo in cut-off low con moto retrogrado. Questa goccia…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3558"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0NywicHVyIjoiYmxvYl9pZCJ9fQ==--7c63f633d182658957aed810171d9f11838ac0f8/18-10-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Sat, 17 Oct 2026 21:18:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 17 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3557</link>
@@ -234,18 +246,6 @@ Previsore/i: Michele Tonnini
 La rimonta e il consolidamento di un robusto campo di alta pressione di matrice subtropicale in estensione dal Nord Africa verso l’Europa settentrionale darà luogo…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3539"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--736f38717d6836d14a96a349b715dce42be827dc/mappa_28-09-2026.png" type="image/png" length="0"/>
       <pubDate>Sun, 27 Sep 2026 10:45:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 27 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3538</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3538</guid>
-      <description>Pericolosità: Nessun pericolo
-
-Previsore/i: Giorgio Rotunno
-
-Un campo di alta pressione manterrà condizioni di sostanziale stabilità atmosferica, con assenza di temporali di rilievo. Solamente sul Mar Ionio potrà svilupparsi qualche addensamento…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3538"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--ec9fce193724417f56cf7f5d05ba8c66ddb82868/27_09_2026.png" type="image/png" length="0"/>
-      <pubDate>Sat, 26 Sep 2026 21:08:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
