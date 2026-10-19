@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Mon, 19 Oct 2026 14:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:01:53 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 20 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3560</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3560</guid>
+      <description>Pericolosità: Pericolosità 2
+
+Previsore/i: Gabriele Bentivoglio
+
+Sono attesi temporali anche forti per via dell'avvicinarsi di una saccatura proveniente dall'Europa occidentale. Viene emesso un livello 2 per precipitazioni forti e persistenti su…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3560"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--0cce02576dba54d0743e2b062252c070e5b61a27/20_10_2026.png" type="image/png" length="0"/>
+      <pubDate>Mon, 19 Oct 2026 09:15:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 19 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3559</link>
@@ -176,18 +188,6 @@ La presenza di un minimo di una massa di aria più fredda in quota sul nord Ital
       <pubDate>Mon, 05 Oct 2026 09:13:00 +0200</pubDate>
     </item>
     <item>
-      <title>Previsione per il 5 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3545</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3545</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Michele Tonnini
-
-Il graduale indebolimento dell’alta pressione subtropicale sul suo bordo settentrionale e occidentale causerà un aumento dell’instabilità su parte del dominio previsionale. Al mattino saranno possibili…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3545"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--c6157a949393a4273daf258d89317280e241dc97/mappa_05-10-2026.png" type="image/png" length="0"/>
-      <pubDate>Sun, 04 Oct 2026 14:43:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Previsione per il 3 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3544</link>
       <guid isPermaLink="true">https://www.pretemp.it/previsioni/3544</guid>
@@ -234,18 +234,6 @@ Previsore/i: Diego Bellotti
 Un regime di blocco caratterizzerà anche la giornata in esame, con la persistenza di una cupola alto pressoria sub-tropicale su buona parte dell'Europa centro-orientale e…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3541"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--a0e2bf8f0b60220c6b9489429b410d8f09885c23/30-09-2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Tue, 29 Sep 2026 21:10:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 29 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3540</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3540</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Gabriele Bentivoglio
-
-Persiste sulla penisola un promontorio anticiclonico che garantisce condizioni di stabilità su quasi tutto il dominio previsionale. Viene emesso un livello 0 sulla Sicilia meridionale…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3540"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--790597d8d37ca1f39da0aa15d92ca8836a5c8748/29_09_2026.png" type="image/png" length="0"/>
-      <pubDate>Mon, 28 Sep 2026 10:42:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
