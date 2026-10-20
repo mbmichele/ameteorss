@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 20 Oct 2026 20:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 21:01:39 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 21 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3561</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3561</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Diego Bellotti
+
+Nella giornata in esame ci sarà un marcato mutamento della circolazione atmosferica su tutto il territorio nazionale, con un pronunciato abbassamento del jet-stream polare a…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3561"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--01dfafe9f2ee7329cc040017e129320a02e1b381/21-10-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Tue, 20 Oct 2026 13:35:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 20 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3560</link>
@@ -234,18 +246,6 @@ Previsore/i: Pierluigi Randi
 L’attuale regime di blocco anticiclonico che interessa buona parte del dominio di previsione, verrà in parte indebolito in quota a Ovest e a Sud-Est: nel…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3542"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--08f68e8ae22d4d7b2c2f7a5c2b43a45a866049b1/01_10_2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Wed, 30 Sep 2026 16:45:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 30 settembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3541</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3541</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Diego Bellotti
-
-Un regime di blocco caratterizzerà anche la giornata in esame, con la persistenza di una cupola alto pressoria sub-tropicale su buona parte dell'Europa centro-orientale e…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3541"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--a0e2bf8f0b60220c6b9489429b410d8f09885c23/30-09-2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Tue, 29 Sep 2026 21:10:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
