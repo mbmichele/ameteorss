@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Wed, 21 Oct 2026 16:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:01:45 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 22 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3562</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3562</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Pierluigi Randi
+
+La saccatura in quota di origine atlantica tenderà ad evolvere in direzione della penisola balcanica, seguita da un flusso di correnti occidentali moderatamente ondulate che…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3562"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1MywicHVyIjoiYmxvYl9pZCJ9fQ==--78b053eefb1fa737889b34667d6d3a7adbed138e/22_10_2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Wed, 21 Oct 2026 16:43:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 21 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3561</link>
@@ -234,18 +246,6 @@ Previsore/i: Federico Negro
 Sull'Italia persiste una debole alta pressione, e nonostante gli addensamenti nuvolosi, l'instabilità è modesta e limitata ai settori più occidentali. Nel Mediterraneo occidentale qualche debole…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3543"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMywicHVyIjoiYmxvYl9pZCJ9fQ==--58b8017d755c7900280ced1e6e80f381e4e6f873/02_10_2026.png" type="image/png" length="0"/>
       <pubDate>Thu, 01 Oct 2026 21:45:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 1 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3542</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3542</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Pierluigi Randi
-
-L’attuale regime di blocco anticiclonico che interessa buona parte del dominio di previsione, verrà in parte indebolito in quota a Ovest e a Sud-Est: nel…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3542"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--08f68e8ae22d4d7b2c2f7a5c2b43a45a866049b1/01_10_2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Wed, 30 Sep 2026 16:45:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
