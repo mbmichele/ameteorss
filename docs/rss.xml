@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Thu, 22 Oct 2026 23:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 00:01:45 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 23 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3563</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3563</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Federico Negro
+
+Una nuova veloce onda corta in alta troposfera transiterà nel corso della giornata all'interno del flusso zonale, accompagnata da una linea di instabilità al suolo.…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3563"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--c6074938096b90254882aae0c540abffe2fbb1a5/23_10_2026.png" type="image/png" length="0"/>
+      <pubDate>Thu, 22 Oct 2026 23:02:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 22 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3562</link>
@@ -234,18 +246,6 @@ Previsore/i: Daniele Nigro
 Nella giornata di sabato un campo di alta pressione proteggerà l’Italia dalle precipitazioni. Si attendono solo isolati temporali pomeridiane nelle zone interne della Sicilia e…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3544"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--83f3103b1c8be6e5eba90d5073b6246ffe060311/03_10_2026.png" type="image/png" length="0"/>
       <pubDate>Fri, 02 Oct 2026 12:04:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 2 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3543</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3543</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Federico Negro
-
-Sull'Italia persiste una debole alta pressione, e nonostante gli addensamenti nuvolosi, l'instabilità è modesta e limitata ai settori più occidentali. Nel Mediterraneo occidentale qualche debole…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3543"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMywicHVyIjoiYmxvYl9pZCJ9fQ==--58b8017d755c7900280ced1e6e80f381e4e6f873/02_10_2026.png" type="image/png" length="0"/>
-      <pubDate>Thu, 01 Oct 2026 21:45:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
