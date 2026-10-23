@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Fri, 23 Oct 2026 16:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 18:01:38 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 24 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3564</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3564</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Daniele Nigro
+
+Nella giornata di sabato, il transito di una saccatura da nord-ovest, associata a un sistema frontale, determinerà condizioni di instabilità su gran parte del Centro-Sud…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3564"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--e1d1ec05216513dad7751b648c7cef428f3d18b4/24_10_2026.png" type="image/png" length="0"/>
+      <pubDate>Fri, 23 Oct 2026 17:27:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 23 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3563</link>
@@ -234,18 +246,6 @@ Previsore/i: Michele Tonnini
 Il graduale indebolimento dell’alta pressione subtropicale sul suo bordo settentrionale e occidentale causerà un aumento dell’instabilità su parte del dominio previsionale. Al mattino saranno possibili…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3545"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--c6157a949393a4273daf258d89317280e241dc97/mappa_05-10-2026.png" type="image/png" length="0"/>
       <pubDate>Sun, 04 Oct 2026 14:43:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 3 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3544</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3544</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Daniele Nigro
-
-Nella giornata di sabato un campo di alta pressione proteggerà l’Italia dalle precipitazioni. Si attendono solo isolati temporali pomeridiane nelle zone interne della Sicilia e…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3544"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--83f3103b1c8be6e5eba90d5073b6246ffe060311/03_10_2026.png" type="image/png" length="0"/>
-      <pubDate>Fri, 02 Oct 2026 12:04:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
