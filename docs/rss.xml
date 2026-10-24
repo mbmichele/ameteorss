@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sat, 24 Oct 2026 22:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 23:01:35 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 24 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3565</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3565</guid>
+      <description>Pericolosità: Nessun pericolo
+
+Previsore/i: Giorgio Rotunno
+
+Non si evidenziano condizioni favorevoli allo sviluppo di temporali forti. Il transiente freddo, giunto nella giornata di sabato 24 ottobre, tenderà ad allontanarsi verso il…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3565"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--0048c4e01040941d19353af1d82c73875af00d3c/25_10_2026.png" type="image/png" length="0"/>
+      <pubDate>Sat, 24 Oct 2026 22:46:00 +0200</pubDate>
+    </item>
     <item>
       <title>Previsione per il 24 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3564</link>
@@ -234,18 +246,6 @@ Previsore/i: Gabriele Bentivoglio
 La presenza di un minimo di una massa di aria più fredda in quota sul nord Italia unita a un minimo barico sul Tirreno determina…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3546"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxNywicHVyIjoiYmxvYl9pZCJ9fQ==--33ad112a739283ff0be113639d0e8b42fdec2ec9/06_10_2026.png" type="image/png" length="0"/>
       <pubDate>Mon, 05 Oct 2026 09:13:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 5 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3545</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3545</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Michele Tonnini
-
-Il graduale indebolimento dell’alta pressione subtropicale sul suo bordo settentrionale e occidentale causerà un aumento dell’instabilità su parte del dominio previsionale. Al mattino saranno possibili…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3545"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--c6157a949393a4273daf258d89317280e241dc97/mappa_05-10-2026.png" type="image/png" length="0"/>
-      <pubDate>Sun, 04 Oct 2026 14:43:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
