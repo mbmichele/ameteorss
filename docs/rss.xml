@@ -5,7 +5,7 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:01:41 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
     <item>
       <title>Previsione per il 27 ottobre 2026</title>
@@ -210,6 +210,18 @@ Previsore/i: Pier Luigi Trudu
 Nella giornata di sabato la goccia fredda derivante da una saccatura in discesa dal Nord Atlantico transiterà progressivamente dalla Sardegna verso il Sud Italia, continuando…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3550"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--f0575dca4ea192223f249ded83e198a4b7898c1b/10_10_2026.png" type="image/png" length="0"/>
       <pubDate>Fri, 09 Oct 2026 14:11:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione per il 9 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3549</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3549</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Federico Negro
+
+Sull'Italia la saccatura nordatlantica evolve in una goccia fredda in quota, che nel corso della giornata di Venerdì si sposterà a sud in prossimità della…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3549"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--c3d9d8714c4e9ca685fc675903020b24d6475e20/08_10_2026.png" type="image/png" length="0"/>
+      <pubDate>Thu, 08 Oct 2026 21:47:00 +0200</pubDate>
     </item>
     <item>
       <title>Previsione per il 8 ottobre 2026</title>
