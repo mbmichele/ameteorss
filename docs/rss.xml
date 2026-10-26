@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Mon, 26 Oct 2026 11:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:01:42 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 27 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3566</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3566</guid>
+      <description>Pericolosità: Nessun pericolo
+
+Previsore/i: Gabriele Bentivoglio
+
+Permane su gran parte del dominio di previsione una condizione di generalizzata stabilità. Non sono previsti temporali e non vengono emessi livelli di pericolosità. Non…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3566"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--45bfc7fec5e47cccb61e98bf48ec4487e59c7e51/27_10_2026.png" type="image/png" length="0"/>
+      <pubDate>Mon, 26 Oct 2026 11:11:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 24 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3565</link>
@@ -234,18 +246,6 @@ Previsore/i: Diego Bellotti
 Nella giornata in esame le condizioni meteorologiche risulteranno avverse su buona parte del dominio con possibili temporali dal Nord al Sud. Sulle regioni centro-settentrionali si…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3547"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--9797fdee46dfb63a016994835082c3bca638c2a0/07-10-2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Tue, 06 Oct 2026 20:56:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 6 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3546</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3546</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Gabriele Bentivoglio
-
-La presenza di un minimo di una massa di aria più fredda in quota sul nord Italia unita a un minimo barico sul Tirreno determina…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3546"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxNywicHVyIjoiYmxvYl9pZCJ9fQ==--33ad112a739283ff0be113639d0e8b42fdec2ec9/06_10_2026.png" type="image/png" length="0"/>
-      <pubDate>Mon, 05 Oct 2026 09:13:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
