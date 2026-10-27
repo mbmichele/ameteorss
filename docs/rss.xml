@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 27 Oct 2026 16:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:02:26 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 28 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3567</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3567</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Diego Bellotti
+
+Prevalenti condizioni anticicloniche garantiranno stabilità su tutto il territorio nazionale, eccetto tra Albania, Grecia e Mar Ionio dove il progressivo avvicinamento di una goccia fredda…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3567"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--8f73532d1334f6072bd53de38fbc3debe7b20252/28-10-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Tue, 27 Oct 2026 16:20:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 27 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3566</link>
@@ -234,18 +246,6 @@ Previsore/i: Pierluigi Randi
 L’avanzare da Ovest di una profonda saccatura nord-atlantica in quota introdurrà flussi sud-occidentali diffluenti e caratterizzati da spiccata componente ciclonica, in particolare al centro-nord della…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3548"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--9d7b3f889237c7f1e60eed87d0e06836e13352f3/08_10_2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Wed, 07 Oct 2026 17:24:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 7 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3547</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3547</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Diego Bellotti
-
-Nella giornata in esame le condizioni meteorologiche risulteranno avverse su buona parte del dominio con possibili temporali dal Nord al Sud. Sulle regioni centro-settentrionali si…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3547"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--9797fdee46dfb63a016994835082c3bca638c2a0/07-10-2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Tue, 06 Oct 2026 20:56:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
