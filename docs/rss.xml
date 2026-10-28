@@ -5,7 +5,7 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Wed, 28 Oct 2026 05:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 06:01:40 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
     <item>
       <title>Previsione per il 28 ottobre 2026</title>
@@ -90,6 +90,18 @@ Previsore/i: Diego Bellotti
 Nella giornata in esame ci sarà un marcato mutamento della circolazione atmosferica su tutto il territorio nazionale, con un pronunciato abbassamento del jet-stream polare a…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3561"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--01dfafe9f2ee7329cc040017e129320a02e1b381/21-10-2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Tue, 20 Oct 2026 13:35:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Previsione per il 20 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3560</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3560</guid>
+      <description>Pericolosità: Pericolosità 2
+
+Previsore/i: Gabriele Bentivoglio
+
+Sono attesi temporali anche forti per via dell'avvicinarsi di una saccatura proveniente dall'Europa occidentale. Viene emesso un livello 2 per precipitazioni forti e persistenti su…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3560"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--0cce02576dba54d0743e2b062252c070e5b61a27/20_10_2026.png" type="image/png" length="0"/>
+      <pubDate>Mon, 19 Oct 2026 09:15:00 +0200</pubDate>
     </item>
     <item>
       <title>Previsione per il 19 ottobre 2026</title>
