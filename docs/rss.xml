@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Wed, 28 Oct 2026 17:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 18:01:47 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 29 ottobre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3568</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3568</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Pierluigi Randi
+
+Il moto retrogrado dalla Penisola balcanica di un moderato vortice ciclonico in quota, introdurrà l’afflusso di masse d’aria più fredda e relativamente instabile provenienti dai…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3568"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc2NywicHVyIjoiYmxvYl9pZCJ9fQ==--798d636683e9ef4bac7f7e04dff3be241c8e089f/29_10_2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Wed, 28 Oct 2026 17:15:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 28 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3567</link>
@@ -234,18 +246,6 @@ Previsore/i: Federico Negro
 Sull'Italia la saccatura nordatlantica evolve in una goccia fredda in quota, che nel corso della giornata di Venerdì si sposterà a sud in prossimità della…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3549"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--c3d9d8714c4e9ca685fc675903020b24d6475e20/08_10_2026.png" type="image/png" length="0"/>
       <pubDate>Thu, 08 Oct 2026 21:47:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 8 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3548</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3548</guid>
-      <description>Pericolosità: Pericolosità 2
-
-Previsore/i: Pierluigi Randi
-
-L’avanzare da Ovest di una profonda saccatura nord-atlantica in quota introdurrà flussi sud-occidentali diffluenti e caratterizzati da spiccata componente ciclonica, in particolare al centro-nord della…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3548"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--9d7b3f889237c7f1e60eed87d0e06836e13352f3/08_10_2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Wed, 07 Oct 2026 17:24:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
