@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sat, 31 Oct 2026 16:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 17:01:50 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 1 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3571</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3571</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Giorgio Rotunno
+
+La situazione meteorologica sull'Italia sarà caratterizzata da un consistente afflusso di aria fredda continentale, che nella giornata di domenica tenderà a concentrarsi sui bacini occidentali…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3571"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--8ca2677c24fb28b82ac8127d90354bc95bcb9e87/01_11_2026.png" type="image/png" length="0"/>
+      <pubDate>Sat, 31 Oct 2026 16:51:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 31 ottobre 2026</title>
       <link>https://www.pretemp.it/previsioni/3570</link>
@@ -234,18 +246,6 @@ Previsore/i: Michele Tonnini
 Nella giornata di lunedì, il transito lungo l’Adriatico di un impulso instabile accompagnato da aria più fredda in quota (fino a -18/-20°C a 500 hPa)…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3552"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--c0031f47f6a3247419f5f62ff0ad2133174fc130/mappa_12-10-2026.png" type="image/png" length="0"/>
       <pubDate>Sun, 11 Oct 2026 16:28:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 11 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3551</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3551</guid>
-      <description>Pericolosità: Pericolosità 2
-
-Previsore/i: Giorgio Rotunno
-
-Tra la tarda serata di sabato e la giornata di domenica, l'arrivo di aria più fredda in quota favorirà lo sviluppo di temporali su diversi…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3551"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMywicHVyIjoiYmxvYl9pZCJ9fQ==--000b16618da39fae74023c6df9790dad2df25ca8/11_10_2026.png" type="image/png" length="0"/>
-      <pubDate>Sat, 10 Oct 2026 14:38:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
