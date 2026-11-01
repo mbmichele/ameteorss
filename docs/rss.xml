@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sun, 01 Nov 2026 12:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:01:37 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 2 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3572</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3572</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Michele Tonnini
+
+Nella giornata di lunedì, la presenza sull’Italia di una depressione alimentata da aria fredda in quota scaverà al suolo un minimo di bassa pressione sul…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3572"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--5e759319513625ec593f709a13597b4eaf4d7005/mappa_02-11-2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 01 Nov 2026 12:01:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 1 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3571</link>
@@ -234,18 +246,6 @@ Previsore/i: Gabriele Bentivoglio
 Prosegue il transito di una debole saccatura verso sud-est lungo la penisola, con un minimo in quota accompagnato da aria fredda che, nel corso della…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3553"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--49dbeac1c65cd3330b375741d1c6f1866d7e58a2/13_10_2026.png" type="image/png" length="0"/>
       <pubDate>Mon, 12 Oct 2026 10:57:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 12 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3552</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3552</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Michele Tonnini
-
-Nella giornata di lunedì, il transito lungo l’Adriatico di un impulso instabile accompagnato da aria più fredda in quota (fino a -18/-20°C a 500 hPa)…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3552"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--c0031f47f6a3247419f5f62ff0ad2133174fc130/mappa_12-10-2026.png" type="image/png" length="0"/>
-      <pubDate>Sun, 11 Oct 2026 16:28:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
