@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 03 Nov 2026 16:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 17:01:49 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 4 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3574</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3574</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Diego Bellotti
+
+Sull'Europa centro-occidentale sarà presente una configurazione di blocco (Rex blocking), con un'ampia circolazione depressionaria avente moto retrogrado sopra la penisola Iberica. I flussi sinottici di…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3574"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3MywicHVyIjoiYmxvYl9pZCJ9fQ==--c3cad185aead66116d1c2cf39ee2f9664c83a19d/04-11-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Tue, 03 Nov 2026 16:55:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 3 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3573</link>
@@ -234,18 +246,6 @@ Previsore/i: Pierluigi Randi
 Permarranno condizioni anticicloniche e stabili sull'intero dominio di previsione sebbene in lento indebolimento sull'estremo settore occidentale, pertanto, non sono attesi temporali.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3555"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--aefcfaa558c2d4f0ac3ce6090331ee198088250f/15_10_2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Wed, 14 Oct 2026 17:18:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 14 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3554</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3554</guid>
-      <description>Pericolosità: Nessun pericolo
-
-Previsore/i: Diego Bellotti
-
-Nella giornata in esame prevarranno condizioni stabili sull'intero territorio nazionale con un lento ma graduale aumento dei geopotenziali da ovest associate ad una cresta anticiclonica.…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3554"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--fb04f7285703ca5fb9cdf78ecb2873730c6d81b8/14-10-2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Tue, 13 Oct 2026 15:44:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
