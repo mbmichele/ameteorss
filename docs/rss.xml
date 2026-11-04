@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Wed, 04 Nov 2026 15:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:01:43 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 5 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3575</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3575</guid>
+      <description>Pericolosità: Pericolosità 2
+
+Previsore/i: Francesco De Martin
+
+Un ciclone sul Mediterraneo Occidentale coinvoglia un fronte caldo semi-stazionario sulla Sardegna, in lento spostamento verso nord. Sono attesi rovesci e temporali diffusi sulla Sardegna…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3575"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--203e4aa6491124ad11820867ac1d69f6ebfa5511/05_11_2026.svg" type="image/*" length="0"/>
+      <pubDate>Wed, 04 Nov 2026 15:47:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 4 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3574</link>
@@ -234,18 +246,6 @@ Previsore/i: Federico Negro
 Sull'Italia centromeridionale il promontorio di alta pressione subtropicale lascia spazio a correnti fredde in quota nordorientali dai Balcani, seguendo la discesa di una goccia fredda…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3556"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0MywicHVyIjoiYmxvYl9pZCJ9fQ==--268a9178bb593e15d03d13047687a2bc4f605c29/16_10_2026.png" type="image/png" length="0"/>
       <pubDate>Thu, 15 Oct 2026 20:26:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 15 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3555</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3555</guid>
-      <description>Pericolosità: Nessun pericolo
-
-Previsore/i: Pierluigi Randi
-
-Permarranno condizioni anticicloniche e stabili sull'intero dominio di previsione sebbene in lento indebolimento sull'estremo settore occidentale, pertanto, non sono attesi temporali.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3555"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--aefcfaa558c2d4f0ac3ce6090331ee198088250f/15_10_2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Wed, 14 Oct 2026 17:18:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
