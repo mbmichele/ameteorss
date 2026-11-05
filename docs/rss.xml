@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Thu, 05 Nov 2026 22:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 23:01:43 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 6 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3576</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3576</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Federico Negro
+
+La depressione chiusa sul mar Mediterraneo si muove lentamente verso nordest, supportata in quota da aria fredda sul nordovest italiano. Alcuni temporali, con piogge forti…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3576"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--35ef9be27100896baa45023d0d3b7165187242c1/06_11_2026.png" type="image/png" length="0"/>
+      <pubDate>Thu, 05 Nov 2026 22:58:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 5 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3575</link>
@@ -234,18 +246,6 @@ Previsore/i: Daniele Nigro
 Nella giornata di sabato avremo un graduale calo del geopotenziale sull’Italia. Tuttavia, il tempo rimarrà stabile su tutte le regioni per gran parte della giornata.…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3557"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--6e207b84009122c8235a06db3bb401ebed871144/17_10_2026.png" type="image/png" length="0"/>
       <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 16 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3556</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3556</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Federico Negro
-
-Sull'Italia centromeridionale il promontorio di alta pressione subtropicale lascia spazio a correnti fredde in quota nordorientali dai Balcani, seguendo la discesa di una goccia fredda…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3556"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0MywicHVyIjoiYmxvYl9pZCJ9fQ==--268a9178bb593e15d03d13047687a2bc4f605c29/16_10_2026.png" type="image/png" length="0"/>
-      <pubDate>Thu, 15 Oct 2026 20:26:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
