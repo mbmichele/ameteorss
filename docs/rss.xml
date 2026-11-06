@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Fri, 06 Nov 2026 12:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:01:42 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 7 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3577</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3577</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Pier Luigi Trudu
+
+Nella giornata di sabato un'onda depressionaria atlantica si allungherà verso il Centro-Sud Italia determinando ancora avvezione di aria fredda in quota sul dominio previsionale. Al…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3577"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--afdc46c6d12a3ea147e7daf5cd7bbf4584a3f58f/07_11_2026.png" type="image/png" length="0"/>
+      <pubDate>Fri, 06 Nov 2026 12:09:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 6 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3576</link>
@@ -234,18 +246,6 @@ Previsore/i: Diego Bellotti
 Una onda depressionaria di provenienza nord-atlantica si isolerà dalla corrente a getto polare nelle prossime ore, evolvendo in cut-off low con moto retrogrado. Questa goccia…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3558"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0NywicHVyIjoiYmxvYl9pZCJ9fQ==--7c63f633d182658957aed810171d9f11838ac0f8/18-10-2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Sat, 17 Oct 2026 21:18:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 17 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3557</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3557</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Daniele Nigro
-
-Nella giornata di sabato avremo un graduale calo del geopotenziale sull’Italia. Tuttavia, il tempo rimarrà stabile su tutte le regioni per gran parte della giornata.…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3557"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--6e207b84009122c8235a06db3bb401ebed871144/17_10_2026.png" type="image/png" length="0"/>
-      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
