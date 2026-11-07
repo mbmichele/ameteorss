@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sat, 07 Nov 2026 17:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 18:01:37 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 8 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3578</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3578</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Giorgio Rotunno
+
+Gli ultimi segmenti di aria fredda nella medio-alta troposfera legate al passaggio di un'onda depressionaria continueranno a scorrere a ridosso del Mar Adriatico e nei…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3578"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--21bbbf4db5138a12cd17b642b67521d262daa0ec/08_11_2026.png" type="image/png" length="0"/>
+      <pubDate>Sat, 07 Nov 2026 17:15:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 7 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3577</link>
@@ -234,18 +246,6 @@ Previsore/i: Michele Tonnini
 Nella giornata di lunedì, la presenza di una modesta struttura anticiclonica sul Mediterraneo centrale determinerà condizioni in prevalenza asciutte e soleggiate su gran parte del…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3559"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--3f9859d455ce482681941cf7da52fd56c42d7823/mappa_19-10-2026.png" type="image/png" length="0"/>
       <pubDate>Sun, 18 Oct 2026 15:02:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 18 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3558</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3558</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Diego Bellotti
-
-Una onda depressionaria di provenienza nord-atlantica si isolerà dalla corrente a getto polare nelle prossime ore, evolvendo in cut-off low con moto retrogrado. Questa goccia…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3558"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0NywicHVyIjoiYmxvYl9pZCJ9fQ==--7c63f633d182658957aed810171d9f11838ac0f8/18-10-2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Sat, 17 Oct 2026 21:18:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
