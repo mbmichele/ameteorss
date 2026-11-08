@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sun, 08 Nov 2026 15:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 16:01:39 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 9 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3579</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3579</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Michele Tonnini
+
+La parziale rimonta di un campo di alta pressione di matrice subtropicale darà luogo ad una giornata in prevalenza stabile con precipitazioni assenti su gran…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3579"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--e103190936aac6d62d0076e2f0e1fa849975d906/mappa_09-11-2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 08 Nov 2026 15:25:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 8 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3578</link>
@@ -234,18 +246,6 @@ Previsore/i: Gabriele Bentivoglio
 Sono attesi temporali anche forti per via dell'avvicinarsi di una saccatura proveniente dall'Europa occidentale. Viene emesso un livello 2 per precipitazioni forti e persistenti su…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3560"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--0cce02576dba54d0743e2b062252c070e5b61a27/20_10_2026.png" type="image/png" length="0"/>
       <pubDate>Mon, 19 Oct 2026 09:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 19 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3559</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3559</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Michele Tonnini
-
-Nella giornata di lunedì, la presenza di una modesta struttura anticiclonica sul Mediterraneo centrale determinerà condizioni in prevalenza asciutte e soleggiate su gran parte del…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3559"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--3f9859d455ce482681941cf7da52fd56c42d7823/mappa_19-10-2026.png" type="image/png" length="0"/>
-      <pubDate>Sun, 18 Oct 2026 15:02:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
