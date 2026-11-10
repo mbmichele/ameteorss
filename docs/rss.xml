@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 10 Nov 2026 16:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:01:49 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 11 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3581</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3581</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Diego Bellotti
+
+Un'onda lunga depressionaria con tesi flussi da WSW comportano il trasporto di masse d'aria relativamente miti e ricche di vapore acqueo in direzione del Mar…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3581"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--92bfa09195ee6ce1a4bd7778fd5fd326691fa1e9/11-11-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Tue, 10 Nov 2026 16:43:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 10 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3580</link>
@@ -234,18 +246,6 @@ Previsore/i: Pierluigi Randi
 La saccatura in quota di origine atlantica tenderà ad evolvere in direzione della penisola balcanica, seguita da un flusso di correnti occidentali moderatamente ondulate che…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3562"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1MywicHVyIjoiYmxvYl9pZCJ9fQ==--78b053eefb1fa737889b34667d6d3a7adbed138e/22_10_2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Wed, 21 Oct 2026 16:43:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 21 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3561</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3561</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Diego Bellotti
-
-Nella giornata in esame ci sarà un marcato mutamento della circolazione atmosferica su tutto il territorio nazionale, con un pronunciato abbassamento del jet-stream polare a…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3561"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--01dfafe9f2ee7329cc040017e129320a02e1b381/21-10-2026.jpg" type="image/jpeg" length="0"/>
-      <pubDate>Tue, 20 Oct 2026 13:35:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
