@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Thu, 12 Nov 2026 23:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 00:01:38 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 13 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3583</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3583</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Federico Negro
+
+Una perturbazione organizzata con un minimo pressorio profondo in rapido moto a oriente insisterà ancora sull'Italia. Un livello 1 è stato emesso per grandinate isolate,…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3583"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--38c422fb5e42d19982019745c4c48862245df211/13_11_2026.png" type="image/png" length="0"/>
+      <pubDate>Thu, 12 Nov 2026 23:23:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 12 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3582</link>
@@ -234,18 +246,6 @@ Previsore/i: Daniele Nigro
 Nella giornata di sabato, il transito di una saccatura da nord-ovest, associata a un sistema frontale, determinerà condizioni di instabilità su gran parte del Centro-Sud…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3564"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--e1d1ec05216513dad7751b648c7cef428f3d18b4/24_10_2026.png" type="image/png" length="0"/>
       <pubDate>Fri, 23 Oct 2026 17:27:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 23 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3563</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3563</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Federico Negro
-
-Una nuova veloce onda corta in alta troposfera transiterà nel corso della giornata all'interno del flusso zonale, accompagnata da una linea di instabilità al suolo.…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3563"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--c6074938096b90254882aae0c540abffe2fbb1a5/23_10_2026.png" type="image/png" length="0"/>
-      <pubDate>Thu, 22 Oct 2026 23:02:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
