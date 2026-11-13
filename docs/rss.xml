@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Fri, 13 Nov 2026 13:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:01:43 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 14 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3584</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3584</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Pier Luigi Trudu
+
+Nella seconda parte della giornata di sabato l'ingresso di una blanda saccatura sul Mediterraneo Occidentale determinerà un aumento dell'instabilità sui settori occidentali del dominio di…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3584"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc5MywicHVyIjoiYmxvYl9pZCJ9fQ==--68d334339322c7dae5d8adf4e923bbb0c20c128a/14_11_2026.png" type="image/png" length="0"/>
+      <pubDate>Fri, 13 Nov 2026 13:29:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 13 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3583</link>
@@ -234,18 +246,6 @@ Previsore/i: Giorgio Rotunno
 Non si evidenziano condizioni favorevoli allo sviluppo di temporali forti. Il transiente freddo, giunto nella giornata di sabato 24 ottobre, tenderà ad allontanarsi verso il…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3565"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--0048c4e01040941d19353af1d82c73875af00d3c/25_10_2026.png" type="image/png" length="0"/>
       <pubDate>Sat, 24 Oct 2026 22:46:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 24 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3564</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3564</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Daniele Nigro
-
-Nella giornata di sabato, il transito di una saccatura da nord-ovest, associata a un sistema frontale, determinerà condizioni di instabilità su gran parte del Centro-Sud…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3564"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--e1d1ec05216513dad7751b648c7cef428f3d18b4/24_10_2026.png" type="image/png" length="0"/>
-      <pubDate>Fri, 23 Oct 2026 17:27:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
