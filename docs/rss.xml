@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sat, 14 Nov 2026 19:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 20:02:00 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 15 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3585</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3585</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Diego Bellotti
+
+La situazione a scala sinottica vedrà il transito di un'onda corta da W verso ESE che andrà a sollecitare la formazione dei temporali espressamente al…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3585"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--471c0bd78152625b84b57d5b0f81a13717848579/15-11-2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Sat, 14 Nov 2026 19:40:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 14 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3584</link>
@@ -234,18 +246,6 @@ Previsore/i: Gabriele Bentivoglio
 Permane su gran parte del dominio di previsione una condizione di generalizzata stabilità. Non sono previsti temporali e non vengono emessi livelli di pericolosità. Non…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3566"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--45bfc7fec5e47cccb61e98bf48ec4487e59c7e51/27_10_2026.png" type="image/png" length="0"/>
       <pubDate>Mon, 26 Oct 2026 11:11:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 24 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3565</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3565</guid>
-      <description>Pericolosità: Nessun pericolo
-
-Previsore/i: Giorgio Rotunno
-
-Non si evidenziano condizioni favorevoli allo sviluppo di temporali forti. Il transiente freddo, giunto nella giornata di sabato 24 ottobre, tenderà ad allontanarsi verso il…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3565"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--0048c4e01040941d19353af1d82c73875af00d3c/25_10_2026.png" type="image/png" length="0"/>
-      <pubDate>Sat, 24 Oct 2026 22:46:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
