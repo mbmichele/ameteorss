@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sun, 15 Nov 2026 16:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 17:01:38 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 16 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3586</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3586</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Michele Tonnini
+
+Flussi tesi occidentali piloteranno nella giornata di lunedì un nuovo sistema perturbato, proveniente dall’Europa occidentale. Tra la notte e la mattinata di lunedì è atteso…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3586"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--8552a1f1d001fb8a781261a103149420f1310e9e/mappa_16-11-2026.png" type="image/png" length="0"/>
+      <pubDate>Sun, 15 Nov 2026 16:27:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 15 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3585</link>
@@ -234,18 +246,6 @@ Previsore/i: Diego Bellotti
 Prevalenti condizioni anticicloniche garantiranno stabilità su tutto il territorio nazionale, eccetto tra Albania, Grecia e Mar Ionio dove il progressivo avvicinamento di una goccia fredda…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3567"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--8f73532d1334f6072bd53de38fbc3debe7b20252/28-10-2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Tue, 27 Oct 2026 16:20:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 27 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3566</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3566</guid>
-      <description>Pericolosità: Nessun pericolo
-
-Previsore/i: Gabriele Bentivoglio
-
-Permane su gran parte del dominio di previsione una condizione di generalizzata stabilità. Non sono previsti temporali e non vengono emessi livelli di pericolosità. Non…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3566"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--45bfc7fec5e47cccb61e98bf48ec4487e59c7e51/27_10_2026.png" type="image/png" length="0"/>
-      <pubDate>Mon, 26 Oct 2026 11:11:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
