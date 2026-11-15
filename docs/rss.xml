@@ -5,7 +5,7 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sun, 15 Nov 2026 18:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 19:02:01 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
     <item>
       <title>Previsione per il 16 novembre 2026</title>
@@ -114,18 +114,6 @@ Previsore/i: Giorgio Rotunno
 Gli ultimi segmenti di aria fredda nella medio-alta troposfera legate al passaggio di un'onda depressionaria continueranno a scorrere a ridosso del Mar Adriatico e nei…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3578"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--21bbbf4db5138a12cd17b642b67521d262daa0ec/08_11_2026.png" type="image/png" length="0"/>
       <pubDate>Sat, 07 Nov 2026 17:15:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 7 novembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3577</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3577</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Pier Luigi Trudu
-
-Nella giornata di sabato un'onda depressionaria atlantica si allungherà verso il Centro-Sud Italia determinando ancora avvezione di aria fredda in quota sul dominio previsionale. Al…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3577"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--afdc46c6d12a3ea147e7daf5cd7bbf4584a3f58f/07_11_2026.png" type="image/png" length="0"/>
-      <pubDate>Fri, 06 Nov 2026 12:09:00 +0100</pubDate>
     </item>
     <item>
       <title>Previsione per il 6 novembre 2026</title>
