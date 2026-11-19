@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Thu, 19 Nov 2026 21:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 22:01:48 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 20 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3590</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3590</guid>
+      <description>Pericolosità: Nessun pericolo
+
+Previsore/i: Federico Negro
+
+Dopo il passaggio del ramo frontale, correnti occidentali alquanto intense scorreranno in alta quota sul centro-nord Italia, mentre al sud Italia rimonterà un'alta pressione. In…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3590"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzgwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--8a65ff00e3646c6fa6af84f7589873f699f0f515/20_11_2026.png" type="image/png" length="0"/>
+      <pubDate>Thu, 19 Nov 2026 21:47:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 19 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3589</link>
@@ -234,18 +246,6 @@ Previsore/i: Giorgio Rotunno
 La situazione meteorologica sull'Italia sarà caratterizzata da un consistente afflusso di aria fredda continentale, che nella giornata di domenica tenderà a concentrarsi sui bacini occidentali…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3571"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--8ca2677c24fb28b82ac8127d90354bc95bcb9e87/01_11_2026.png" type="image/png" length="0"/>
       <pubDate>Sat, 31 Oct 2026 16:51:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 31 ottobre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3570</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3570</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Pier Luigi Trudu
-
-Nella giornata di sabato sul dominio previsionale persisteranno condizioni cicloniche derivanti da una saccatura in discesa da latitudini artiche che continuerà a veicolare flussi relativamente…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3570"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--820560445fdee3f0eb13df7fc442b5b7f75623ef/31_10_2026.png" type="image/png" length="0"/>
-      <pubDate>Fri, 30 Oct 2026 16:02:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
