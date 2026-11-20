@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Fri, 20 Nov 2026 15:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:01:43 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 21 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3591</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3591</guid>
+      <description>Pericolosità: Pericolosità 0
+
+Previsore/i: Daniele Nigro
+
+Nella giornata di sabato, la rimonta di un campo di alta pressione garantirà condizioni di tempo stabile su tutta la penisola. Non sono previsti temporali…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3591"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzgwMywicHVyIjoiYmxvYl9pZCJ9fQ==--193bc7a238a0f78d445315f72ca872f484ffedb4/21_11_2026.png" type="image/png" length="0"/>
+      <pubDate>Fri, 20 Nov 2026 15:51:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 20 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3590</link>
@@ -234,18 +246,6 @@ Previsore/i: Michele Tonnini
 Nella giornata di lunedì, la presenza sull’Italia di una depressione alimentata da aria fredda in quota scaverà al suolo un minimo di bassa pressione sul…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3572"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--5e759319513625ec593f709a13597b4eaf4d7005/mappa_02-11-2026.png" type="image/png" length="0"/>
       <pubDate>Sun, 01 Nov 2026 12:01:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 1 novembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3571</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3571</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Giorgio Rotunno
-
-La situazione meteorologica sull'Italia sarà caratterizzata da un consistente afflusso di aria fredda continentale, che nella giornata di domenica tenderà a concentrarsi sui bacini occidentali…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3571"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--8ca2677c24fb28b82ac8127d90354bc95bcb9e87/01_11_2026.png" type="image/png" length="0"/>
-      <pubDate>Sat, 31 Oct 2026 16:51:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
