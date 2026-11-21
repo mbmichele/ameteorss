@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Sat, 21 Nov 2026 22:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 23:01:43 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 22 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3592</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3592</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Giorgio Rotunno
+
+Il rapido avvio di una circolazione ciclone sul Mar Ligure favorirà la formazione di temporali frontali in estensione dalla Liguria di Levante verso i settori…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3592"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzgwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--a8d9db6f8767e2bd969915678c339bf79e8343e0/22_11_2026.png" type="image/png" length="0"/>
+      <pubDate>Sat, 21 Nov 2026 22:10:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 21 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3591</link>
@@ -234,18 +246,6 @@ Previsore/i: Gabriele Bentivoglio
 Nella giornata di martedì, la depressione che ha caratterizzato il meteo al centro-sud il giorno precedente si allontana progressivamente verso est. Da inizio giornata è…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3573"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--fe833e3e39bf41189c02d039d9bed3f5646bf641/03_11_2026.png" type="image/png" length="0"/>
       <pubDate>Mon, 02 Nov 2026 10:55:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 2 novembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3572</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3572</guid>
-      <description>Pericolosità: Pericolosità 1
-
-Previsore/i: Michele Tonnini
-
-Nella giornata di lunedì, la presenza sull’Italia di una depressione alimentata da aria fredda in quota scaverà al suolo un minimo di bassa pressione sul…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3572"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--5e759319513625ec593f709a13597b4eaf4d7005/mappa_02-11-2026.png" type="image/png" length="0"/>
-      <pubDate>Sun, 01 Nov 2026 12:01:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
