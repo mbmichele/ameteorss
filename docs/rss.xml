@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Mon, 23 Nov 2026 15:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:01:45 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 24 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3593</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3593</guid>
+      <description>Pericolosità: Nessun pericolo
+
+Previsore/i: Gabriele Bentivoglio
+
+L'arrivo di un promontorio anticiclonico rende più stabili le condizioni sul dominio previsionale, per cui non sono attesi temporali significativi e non vengono emessi livelli…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3593"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzgwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--ae5ea2176e3761aa8c7566e030b9f6bd1161e540/24_11_2026.png" type="image/png" length="0"/>
+      <pubDate>Mon, 23 Nov 2026 15:03:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 22 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3592</link>
@@ -234,18 +246,6 @@ Previsore/i: Diego Bellotti
 Sull'Europa centro-occidentale sarà presente una configurazione di blocco (Rex blocking), con un'ampia circolazione depressionaria avente moto retrogrado sopra la penisola Iberica. I flussi sinottici di…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3574"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3MywicHVyIjoiYmxvYl9pZCJ9fQ==--c3cad185aead66116d1c2cf39ee2f9664c83a19d/04-11-2026.jpg" type="image/jpeg" length="0"/>
       <pubDate>Tue, 03 Nov 2026 16:55:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 3 novembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3573</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3573</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Gabriele Bentivoglio
-
-Nella giornata di martedì, la depressione che ha caratterizzato il meteo al centro-sud il giorno precedente si allontana progressivamente verso est. Da inizio giornata è…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3573"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--fe833e3e39bf41189c02d039d9bed3f5646bf641/03_11_2026.png" type="image/png" length="0"/>
-      <pubDate>Mon, 02 Nov 2026 10:55:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
