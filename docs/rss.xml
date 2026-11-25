@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:01:39 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 26 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3595</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3595</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Pierluigi Randi
+
+Un cut-off in quota, inserito in una vasta saccatura di origine atlantica, tenderà a portarsi dal Golfo di Genova ai paesi danubiani, mantenendo su buona…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3595"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzgwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--c4f33a5dac7fd13be502577273d3ceda3942807f/26_11_2026.jpg" type="image/jpeg" length="0"/>
+      <pubDate>Wed, 25 Nov 2026 19:56:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 25 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3594</link>
@@ -234,18 +246,6 @@ Previsore/i: Federico Negro
 La depressione chiusa sul mar Mediterraneo si muove lentamente verso nordest, supportata in quota da aria fredda sul nordovest italiano. Alcuni temporali, con piogge forti…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3576"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--35ef9be27100896baa45023d0d3b7165187242c1/06_11_2026.png" type="image/png" length="0"/>
       <pubDate>Thu, 05 Nov 2026 22:58:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 5 novembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3575</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3575</guid>
-      <description>Pericolosità: Pericolosità 2
-
-Previsore/i: Francesco De Martin
-
-Un ciclone sul Mediterraneo Occidentale coinvoglia un fronte caldo semi-stazionario sulla Sardegna, in lento spostamento verso nord. Sono attesi rovesci e temporali diffusi sulla Sardegna…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3575"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--203e4aa6491124ad11820867ac1d69f6ebfa5511/05_11_2026.svg" type="image/*" length="0"/>
-      <pubDate>Wed, 04 Nov 2026 15:47:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
