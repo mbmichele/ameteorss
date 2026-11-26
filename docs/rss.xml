@@ -5,8 +5,20 @@
     <link>https://www.pretemp.it</link>
     <description>Feed RSS non ufficiale generato tramite scraping dell'archivio pubblico di pretemp.it. PRETEMP non emette allerte, ma previsioni probabilistiche sperimentali. Per l'allertamento ufficiale fare sempre riferimento al Dipartimento di Protezione Civile.</description>
     <language>it-IT</language>
-    <lastBuildDate>Thu, 26 Nov 2026 22:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 23:01:41 +0000</lastBuildDate>
     <generator>ameteorss/1.7.1 (scraper non ufficiale)</generator>
+    <item>
+      <title>Previsione per il 27 novembre 2026</title>
+      <link>https://www.pretemp.it/previsioni/3596</link>
+      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3596</guid>
+      <description>Pericolosità: Pericolosità 1
+
+Previsore/i: Federico Negro
+
+Sebbene sul territorio nazionale non siano previsti temporali, ma possibili rovesci convettivi nel pomeriggio-sera all'entrata della bora in Puglia e in alto Adriatico, a seguito…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3596"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
+      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzgwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--5973f0f0e22c7f6a7fbd2b62fd6aa8e0b7768080/27_11_2026.png" type="image/png" length="0"/>
+      <pubDate>Thu, 26 Nov 2026 22:48:00 +0100</pubDate>
+    </item>
     <item>
       <title>Previsione per il 26 novembre 2026</title>
       <link>https://www.pretemp.it/previsioni/3595</link>
@@ -234,18 +246,6 @@ Previsore/i: Pier Luigi Trudu
 Nella giornata di sabato un'onda depressionaria atlantica si allungherà verso il Centro-Sud Italia determinando ancora avvezione di aria fredda in quota sul dominio previsionale. Al…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3577"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
       <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--afdc46c6d12a3ea147e7daf5cd7bbf4584a3f58f/07_11_2026.png" type="image/png" length="0"/>
       <pubDate>Fri, 06 Nov 2026 12:09:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Previsione per il 6 novembre 2026</title>
-      <link>https://www.pretemp.it/previsioni/3576</link>
-      <guid isPermaLink="true">https://www.pretemp.it/previsioni/3576</guid>
-      <description>Pericolosità: Pericolosità 0
-
-Previsore/i: Federico Negro
-
-La depressione chiusa sul mar Mediterraneo si muove lentamente verso nordest, supportata in quota da aria fredda sul nordovest italiano. Alcuni temporali, con piogge forti…&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.pretemp.it/previsioni/3576"&gt;Continua a leggere su pretemp.it →&lt;/a&gt;</description>
-      <enclosure url="https://www.pretemp.it/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--35ef9be27100896baa45023d0d3b7165187242c1/06_11_2026.png" type="image/png" length="0"/>
-      <pubDate>Thu, 05 Nov 2026 22:58:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
